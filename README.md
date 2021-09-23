@@ -29,7 +29,7 @@ ist, worueber ich schreiben moechte.
 ### Platzhalter
 
 * [Kommunikation](./src/platzhalter.md)
-* [Demokratie](./src/platzhalter.md)
+* [Demokratie](./src/demokratie.md)
 * [Geldsystem](./src/platzhalter.md)
 * [Ganzheitliche Wissenschaft](./src/platzhalter.md)
 
