@@ -32,6 +32,7 @@ ist, worueber ich schreiben moechte.
 * [Demokratie](./src/platzhalter.md)
 * [Geldsystem](./src/platzhalter.md)
 * [Ganzheitliche Wissenschaft](./src/platzhalter.md)
+* [Corona](./src/corona.md)
 
 ## Mitwirken
 
