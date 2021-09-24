@@ -20,18 +20,8 @@ Meinung/Interpretation gekennzeichnet sind.
 
 ## Uebersicht
 
-[Hier geht's zum Vorwort](./preface.md)
-
-Noch habe ich keine Ideen "zu Papier gebracht".
-Ich habe allerdings schon einmal ein paar Platzhalter angelegt, damit klar
-ist, worueber ich schreiben moechte.
-
-### Platzhalter
-
-* [Kommunikation](./src/platzhalter.md)
+* [Vorwort](./preface.md)
 * [Demokratie](./src/demokratie.md)
-* [Geldsystem](./src/platzhalter.md)
-* [Ganzheitliche Wissenschaft](./src/platzhalter.md)
 
 ## Mitwirken
 

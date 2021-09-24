@@ -1,0 +1,14 @@
+{
+  "name": "Ideensammlung",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-ideensammlung:Ideensammlung/Ideensammlung.git",
+  "author": "Ideensammlung",
+  "license": "MIT",
+  "scripts": {
+    "start": "docsify serve"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
