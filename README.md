@@ -1,3 +1,5 @@
+Eine ordentliche Darstellung kann hier gefunden werden: [Github pages](https://ideensammlung.github.io/)
+
 # Ideensammlung
 
 Ich hatte die Idee, dass ich gerne meine Gedanken und Rechercheergebnisse
