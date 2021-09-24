@@ -43,7 +43,7 @@ B. die Kunst sein oder das viel-Geld-verdienen sein.
 
 Dass es kein perfektes System gibt, muss ich wahrscheinlich niemandem erklären.
 Daher sollte es auch logisch sein, dass es kein Regelwerk geben kann, das dafür
-sorgt, dass sich private Interessen keinen Einfluss mehr haben können.
+sorgt, dass private Interessen keinen Einfluss mehr haben können.
 
 Es ist also insbesondere für eine Demokratie wichtig, eine Instanz zu haben,
 die permanent nach Lücken in der Demokratie sucht. Wie diese Lücken geschlossen
@@ -254,9 +254,10 @@ der Entscheidungsfindung teilnehmen. Element vieler Demokratie-Modelle
 beinhalten aber neben Abstimmung auch andere Formen der Mitgestaltung. Dazu
 gehören Petitionen und Volksbegehren.
 
-[Name] zitiert Folgendes von "Barnes und Kaase 1979" in seinem Buch
-"Demokratie-Theorien" im Kapitel "Beteiligungsfreundliche Demokratietheorie:
-Partizipation und Deliberation":
+Manfred G. Schmidt zitiert Folgendes von "Barnes und Kaase 1979" in seinem
+[Buch](https://www.springer.com/de/book/9783658258382) "Demokratietheorien" im
+Kapitel "Beteiligungsfreundliche Demokratietheorie: Partizipation und
+Deliberation":
 
 > Der Partizipationsschub reichte vom Ausbau „konventioneller politischer
 > Beteiligung“, wie Wahlbeteiligung oder Petitionen, bis zu großfächiger
