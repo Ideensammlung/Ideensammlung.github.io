@@ -1,0 +1,12 @@
+.draft {
+  padding: 8px;
+  border-left: 4px solid #072a6c;
+  max-width: 600px;
+  font-size: 20px;
+  line-height: 1.625;
+  margin-bottom: 30px;
+}
+
+.draft:before {
+  content: 'Dieser Artikel ist noch ein Entwurf, sobald er fertig ist, wird er auf der Startseite verlinkt und der Eintrag im Menue entsprechend angepasst.';
+}
