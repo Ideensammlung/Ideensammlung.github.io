@@ -37,6 +37,11 @@ Pull request erstellen und in der Diskussion einen Vermerkt/Link einfügen. Dann
 kann man direkt am Pull request über den von mir erarbeiteten Vorschlag und
 dessen Details sprechen
 
+Sollte es jemals jemand anderen als mich geben, der diesen Artikeln etwas
+hinzufuegt oder Aenderungen anregt, dann lege ich speziell dafuer eine
+"Mitwirkende"-Seite an, auf der alle aufgelistet werden, damit das entsprechend
+gewuerdigt wird.
+
 ### Diskussionen
 
 Für Diskussionen gibt es hier, auf GitHub, das
