@@ -1,6 +1,7 @@
 
-- [Homepage](README.md)
-- [Vorwort](preface.md)
-- [Demokratie](src/demokratie.md)
+- [Homepage](README.md?id=ideensammlung)
+- [Vorwort](preface.md?id=vorwort)
+- [<span class="underline">Verfassung</span>](src/constitution?id=verfassung)
+- [Demokratie](src/demokratie?id=demokratie)
 - [Drafts](src/drafts.md)
-  - [Geldsystem](src/geldsystem.md)
+  - [Geldsystem](src/geldsystem.md?id=entwurf)

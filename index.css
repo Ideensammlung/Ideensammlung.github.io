@@ -10,3 +10,7 @@
 .draft:before {
   content: 'Dieser Artikel ist noch ein Entwurf, sobald er fertig ist, wird er auf der Startseite verlinkt und der Eintrag im Menue entsprechend angepasst.';
 }
+
+.underline {
+  text-decoration: underline;
+}

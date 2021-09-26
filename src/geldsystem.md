@@ -1,4 +1,4 @@
-# Entwurt
+# Entwurf
 
 <div class="draft"></div>
 
@@ -370,13 +370,13 @@ Abschluss der Schulung loesen die vorherige Gruppe ab. Waere der Name nicht
 bereits vergeben, haette diese Gewalt "Monetative" heissen koennen.
 <br />
 <br />
-<em style="display: block;font-size: 14px; line-height: 1.2">(**Offene Frage**: Sollen Buerger bereits vor einer Auslosung angeben koenne, ob
-sie ausgeloest werden koennen oder nicht? Momentante Meinung: Lieber nicht. Zum
-einen Teil kann es zu Diskriminierung fuehren. Mehr sinn macht vielleicht ein
-opt-in Prinzip, nachdem sich die Ausgelosten innerhalb von z. B. 3 Tagen melden
-muessen, sonst wird die naechste Person ausgelost)</em>
-<br />
-<br />
+<em style="display: block;font-size: 14px; line-height: 1.2">
+  (**Offene Frage**: Sollen Buerger bereits vor einer Auslosung angeben koenne, ob
+  sie ausgeloest werden koennen oder nicht? Momentante Meinung: Lieber nicht. Zum
+  einen Teil kann es zu Diskriminierung fuehren. Mehr sinn macht vielleicht ein
+  opt-in Prinzip, nachdem sich die Ausgelosten innerhalb von z. B. 3 Tagen melden
+  muessen, sonst wird die naechste Person ausgelost)
+</em>
 
 **Patente**
 
