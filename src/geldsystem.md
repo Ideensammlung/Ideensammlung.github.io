@@ -140,14 +140,19 @@ aufnehmen müssen:
   * [Fehler im Geldsystem](https://www.youtube.com/watch?v=tyic-Q_gJ2w)
 * Geld ist ein zentraler Anreiz für Kriege
   * [What You Are Not Being Told About the Afghanistan War](https://www.corbettreport.com/what-you-are-not-being-told-about-the-afghanistan-war/)
+  * Zitat:
+    > Es gibt wohl kaum etwas Lebensfeindlicheres auf dieser Welt, als das
+    > aktuelle Geldsystem. Alle Kriege und alle von Menschen gemachten
+    > Katastrophen sind direkte oder indirekte Folgen davon.<br />
+    > [Gradido ebook; Seite 64; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 * Geld ist ein zentraler Anreiz, Armut ein zentraler Faktor für (moderne) Sklaverei
-  * [Unsichtbare Hände - Sklaverei heute im 21. Jahrhundert](https://www.youtube.com/watch?v=oLlMhPONVY4)  
+  * [Unsichtbare Hände - Sklaverei heute im 21. Jahrhundert](https://www.youtube.com/watch?v=oLlMhPONVY4)<br />
     Zitat: "Ist Sklaverei etwa ein Element globaler Wirtschaft geworden?
     Sklaverei gibt es weltweit und die Geschichten darueber wuerden eine ganze
     Bibliothek . . . fuellen . . . Heute gibt es etwa 38 millionen Sklaven"
   * [Buecher von Kevin Bales](http://www.kevinbales.net/books.html), Professor
     fuer moderne Sklaverei
-  * [Handelsware Kind - die Mafia der Menschenhändler](https://www.youtube.com/watch?v=5uDox77_2No)  
+  * [Handelsware Kind - die Mafia der Menschenhändler](https://www.youtube.com/watch?v=5uDox77_2No)<br />
     Zitat: "25 Millionen Opfer von Menschenhandel weltweit . . . 35 Milliarden
     US-Dollar Umsatz jaehrlich . . . Nach Droggenschmuggel und Waffenhandel die
     drittgroesste Einnahmequelle der Organisierten Kriminalitaet"
@@ -267,6 +272,242 @@ Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in
 Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger
 Antrieb des damaligen Aufschwungs gewesen sein könnt.
 
+#### Gradido
+
+> Das alte Geld ist ein Schuldschein, ein Versprechen auf Leistungen, ein
+> Zahlungsmittel. Gradido ist seinem Wesen nach eher eine Dokumentation
+> erbrachter Leistungen oder Warentransaktionen
+> 
+> [Gradido ebook; Seite 82; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Schenkwirtschaft
+
+##### Das Dreifache Wohl
+
+> Die vielfältigen Interaktionen der Naturwesen miteinander dienen dem Wohle
+> des Einzelnen (die Biene trinkt Nektar), dem Wohle der Gemeinschaft (das
+> Bienenvolk schafft Honig-Vorräte) und dem Wohle des Großen Ganzen (Erhaltung
+> des Ökosystems).  Wir nennen dies das Dreifache Wohl.<br />
+> . . .<br />
+> Das Dreifache Wohl des Ganzen ist das entscheidende Kriterium in der
+> Natürlichen Ökonomie des Lebens. Wenn einer der drei Aspekte vernachlässigt
+> wird, gerät das Ganze aus dem Gleichgewicht. **Fehlt das Wohl des Einzelnen,
+> besteht also kein Eigeninteresse, warum sollte man sich dann engagieren?
+> Fehlt das Wohl der Gemeinschaft, geht sie zugrunde. Und wenn das Wohl des
+> Großen Ganzen in Frage steht, ist unsere Lebensgrundlage gefährdet.**
+> 
+> [Gradido ebook; Seite 56; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Keine Geldschöpfung durch Schulden
+
+> aus gutem Grund wird unser heutiges Geld oft als Fiat-Money bezeichnet<br />
+> . . . <br />
+> Fiat-Money bedeutet sinngemäß »Geld aus dem Nichts«. Es wird zu einem kleinen
+> Teil von den Notenbanken und zum überwiegenden Teil in den Geschäftsbanken
+> geschöpft. In der Bank-Bilanz muss die Summe aller Konten zusammen »Null«
+> ergeben. Anders ausgedrückt muss die Summe aller Guthaben gleich der Summe
+> aller Schulden sein
+> . . . <br />
+> Für jeden Euro Guthaben muss es an anderer Stelle einen Euro Schulden geben.
+> Wenn Sie keine Schulden haben, hat sie ein Anderer. Das ist in diesem System
+> gar nicht anders möglich. Damit das nicht so auffällt, haben unsere Staaten
+> die Schulden stellvertretend für ihre Bürger übernommen. In Deutschland sind
+> es zur Zeit etwa 20.000 Euro Staatschulden pro Person. Praktisch alle Staaten
+> weltweit sind hoch verschuldet. Viele stehen kurz vor dem Staatsbankrott.
+> Ein solches System kann überhaupt nicht funktionieren. Schon gar nicht, wenn
+> man das Dreifache Wohl im Auge hat. Denn hier versagt es auf allen drei
+> Ebenen. Das Wohl des Einzelnen ist verletzt, denn entweder Sie haben Schulden
+> oder Sie sind Mitverursacher der Schulden anderer. Das Wohl der Gemeinschaft
+> ist in Gefahr wegen der hohen Staatsschulden mit Risiko des Staatsbankrotts.
+> Dies betrifft inzwischen die gesamte Völkergemeinschaft. Und schließlich ist
+> das Wohl des Großen Ganzen in Mitleidenschaft gezogen, denn hoch-kompetitive
+> Märkte schrecken nicht vor Kriegen und Umweltzerstörung zurück
+>
+> [Gradido ebook; Seite 57f; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Dreifache Geldschöpfung
+
+> Für jeden Menschen werden monatlich 3 mal 1000 Gradido geschöpft. Mit 1000
+> Gradido pro Person pro Monat bietet die Natürliche Ökonomie des Lebens die
+> finanziellen Mittel, um dem Dreifachen Wohl zu dienen. Die Dreifache
+> Geldschöpfung beinhaltet:
+> * ein aktives Grundeinkommen für jeden Menschen,
+> * ein Staatseinkommen für jedes Land, proportional zur Anzahl seiner Bürger,
+> * einen Ausgleichs- und Umwelt- Fonds zur Sanierung der Altlasten.
+>
+> [Gradido ebook; Seite 64; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+###### Das Aktive Grundeinkommen
+
+> Die erste Geldschöpfung von 1000 Gradido ist für das Grundeinkommen bestimmt. Jeder
+> Bürger hat Anspruch auf ein Grundeinkommen von 1000 Gradido. Dabei sind zwei
+> Varianten denkbar: ein Bedingungsloses Grundeinkommen, das jeder »einfach so«
+> bekommt, und das Aktive Grundeinkommen, dass man sich mit der Bedingungslosen
+> Teilhabe verdient.
+> Aufgrund der vielen positiven Auswirkungen, die die Bedingungslose Teilhabe mit sich
+> bringt, plädieren wir eindeutig für die Variante des Aktiven Grundeinkommens. Zu den
+> bereits beschriebenen Vorteilen kommt aus geldtheoretischer Sicht noch das Argument
+> dazu, dass das geschöpfte Geld durch bereits erbrachte Leistungen gedeckt ist. Auch
+> wenn – und gerade weil – der Geldwert nur in den Köpfen der Menschen besteht, dürfte
+> leistungsgedecktes Geld einen stabileren Wert haben, als Geld, das »einfach so«
+> geschöpft wurde.
+> Die Idee des Bedingungslosen Grundeinkommens löst so genannte »Neiddebatten« aus.
+> Die arbeitenden Menschen fragen sich, wieso sie das Geld oder die Produkte
+> erwirtschaften sollen, die andere Menschen verbrauchen, welche in ihren Augen nicht
+> arbeiten. Befürworter des Bedingungslosen Grundeinkommens versuchen diese
+> Neiddebatten mit allerlei Argumenten zu entschärfen, was ihnen jedoch nicht wirklich
+> gelingt.
+>
+> [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+###### Staatseinkommen
+
+> Die zweite Geldschöpfung von 1000 Gradido pro Kopf pro Monat fließt in den
+> Staatshaushalt. Ohne Steuern eintreiben zu müssen steht damit jedem Land ein
+> ProKopf-Staatshaushalt in einer Größenordnung zur Verfügung, die zur Zeit in
+> Mitteleuropa üblich ist – einschließlich Gesundheits- und Sozialwesen.
+> Mitteleuropa hat zurzeit den höchsten Lebensstandard weltweit. Deshalb dient
+> es uns als Maßstab, wenn es darum geht, zu definieren, was wir uns
+> quantitativ unter weltweitem Wohlstand vorstellen.  Da die zweite
+> Geldschöpfung neben dem Staatshaushalt auch das Gesundheits- und Sozialwesen
+> einschließt, müssen weder Steuern noch andere Abgaben eingefordert werden. So
+> ist wesentlich weniger staatliche Kontrolle nötig als heute. Dies ermöglicht
+> einen signifikanten Bürokratieabbau.  Der Staatshaushalt wird vollständig
+> ohne Schulden finanziert. Es entfallen sämtliche Kosten, die im heutigen
+> System noch für den Kapitaldienst aufzubringen sind. Es wird in Zukunft
+> absolut keinen Grund mehr geben, warum ein Staat jemals Schulden aufnehmen
+> sollte. Denn zum einen ist der Staatshaushalt bereits großzügig bemessen und
+> zum anderen ist für Umweltschutz und Umweltsanierung noch einmal ein
+> zusätzlicher Topf in der gleichen Höhe vorgesehen.
+>
+> [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+###### Ausgleichs- und Umweltfonds
+
+> Die dritte Geldschöpfung ist für die Sanierung und Bewahrung unserer Umwelt
+> vorgesehen. Mit 1000 Gradido pro Kopf pro Monat ist der weltweite
+> Umwelt-Haushalt so hoch, wie die Staatshaushalte aller Länder zusammen. Wie
+> der Name schon sagt, hat der Ausgleichs- und Umweltfonds die Aufgabe, die
+> ökonomischen und ökologischen Altlasten so gut es geht zu beseitigen und in
+> Zukunft die Natur und Umwelt nachhaltig zu schützen.  Unter ökonomischen
+> Altlasten verstehen wir in erster Linie die gravierenden Unterschiede
+> zwischen den bisher armen Ländern und den reichen Industrienationen. Der
+> Ausgleichs- und Umweltfonds hilft hierbei zusätzlich zu der ausgleichenden
+> Wirkung, die die Natürliche Ökonomie des Lebens von Hause aus mitbringt. Die
+> schnellstmögliche Beseitigung der Unterschiede zwischen Arm und Reich ist in
+> erster Linie ein Signal des Friedens, denn sie zeigt die bedingungslose
+> Bereitschaft der reichen Industrienationen, den Schaden wieder gut zu machen,
+> den sie in der Vergangenheit angerichtet haben. Und weltweiter Frieden kommt
+> neben den Menschen auch der Umwelt zugute.  Die langfristige Aufgabe des
+> Ausgleichs- und Umweltfonds ist der nachhaltige Schutz von Umwelt und Natur.
+> Umweltfreundliche Industriezweige, Produkte und Dienstleistungen werden
+> subventioniert. Damit werden Bioprodukte deutlich preiswerter als
+> umweltschädliche Produkte, die sich dann nicht mehr am Markt halten können.
+> Nur noch umweltfreundliches Wirtschaften wird sich rechnen. Bisher
+> umweltschädliche Industriezweige erhalten Unterstützung bei der Umstellung.
+> Mit der dritten Geldschöpfung haben wir einen weltweiten Umwelt-Haushalt
+> geschaffen, der die finanziellen Mittel zur Verfügung stellt, um wieder in
+> Einklang mit der Natur zu kommen. Das kann allerdings nur funktionieren, wenn
+> wir ein wichtiges Naturgesetz fest in unser Geld- Wirtschaftsmodell einbauen:
+> den Kreislauf von Werden und Vergehen.
+>
+> [Gradido ebook; Seite 66; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+###### ein selbstregulierendes System
+
+> Das »Werden« ist die dreifache Geldschöpfung von 3.000 Gradido. Das Vergehen
+> beträgt 50 % im Jahr. Dies sind ungefähr 5% im Monat. Das durchschnittliche
+> Pro-Kopf-Guthaben regelt sich automatisch auf den Wert ein, bei dem die
+> monatliche Vergänglichkeit gleich der monatlichen Geldschöpfung ist. Dies ist
+> bei 60.000 Gradido der Fall, denn 5% von 60.000 sind 3.000. Würde sich das
+> Guthaben erhöhen, dann würde die höhere Vergänglichkeit den Betrag
+> herunterdrücken. Wird es niedriger, dann überwiegt die Geldschöpfung und
+> drückt ihn wieder nach oben. Man spricht hier von einem stabilen
+> Gleichgewicht, weil jede Abweichung aus dem Normalzustand automatisch zurück
+> geregelt wird.
+>
+> [Gradido ebook; Seite 69; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+###### Zusammenfassung
+
+> Halten wir fest:
+* * Die dreifache Geldschöpfung bildet zusammen mit der Vergänglichkeit ein
+*   selbstregulierendes System, das die Geldmenge konstant hält. Die Geldmenge
+*   kann nicht verändert werden, weder durch Schulden noch durch Spekulationen
+*   noch durch irgendwelche anderen Manipulationen.
+* * Der Kreislauf von Werden und Vergehen ist Naturgesetz. Wird dieses Naturgesetz
+*   nicht freiwillig in das Geld- Wirtschaftssystem integriert, so bekommen wir es
+*   unfreiwillig und schmerzhaft zu spüren – in Form von Wirtschafts- und
+*   Finanzkrisen, Inflation, Geldcrash, Not, Hunger, Krankheiten, Kriegen und
+*   Naturkatastrophen.
+* * Da der Kreislauf von Werden und Vergehen als fester Bestandteil in der
+*   Natürlichen Ökonomie des Lebens integriert ist, bleiben die oben genannten
+*   unfreiwilligen Formen der Vergänglichkeit aus oder werden zumindest stark
+*   abgemildert.
+>
+> [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Kredite und Geldanlagen
+
+> Wie könnt ihr große Beträge finanzieren, wenn das Geld vergänglich ist?
+> »Durch Kredite. Beide Parteien haben ihren Vorteil dabei. Der Kreditgeber
+> erhält zum vereinbarten Zeitpunkt sein volles Geld zurück. Hätte er keinen
+> Kredit gegeben, wäre sein Geld durch die Vergänglichkeit weniger geworden.
+> Der Kreditnehmer bekommt einen zinsfreien Kredit. Eine klassische
+> WIN-WIN-Situation.
+>
+> [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Freiheit von Steuern und Pflichtversicherungen
+
+> Das GradidoModell bietet ein perfektes Gesundheits- und Sozialwesen, ganz
+> ohne Krankenversicherung, Rentenversicherung, Pflegeversicherung und sonstige
+> Abgaben, die sich heutzutage ein Staat so einfallen lässt. Und steuerfrei ist
+> es obendrein.
+>
+> [Gradido ebook; Seite 74; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Freies Schenken
+
+> 
+
+##### Offene Frage und ein bisschen Kritik am Gradido-System:
+
+* Offene Frage: Am Anfang jedes Schöpfungs-/Entwertungs-Zyklus soll für jeden
+  Bürger eine gewisse Menge an Geld geschöpft werden, welche dann dreigeteilt
+  wird. Gäbe es nur die Realwirtschaft, ist der Wert des Geldes dem des
+  Bruttosozialproduktes entsprechen. Wie will Gradido damit umgehen, wenn das
+  Bruttosozialprodukt schneller/langsamer als die Bevölkerung wächst oder was,
+  wenn das Bruttosozialprodukt schrumpft?
+* Kritikpunkt: Open Source: Freie Forschung und Entwicklung<br />
+  Das Gradidomodell schlaegt vor: "Open Source für alle Forschungsgebiete. Wir
+  brauchen freie Forschung, freie Entwicklung, freies Denken und – freies
+  Schenken". Meine Einwaende sind etwas weiter unten unter dem Punkt
+  ["Patente"][?id=patente] zu finden
+* Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen. Das Phänomen des
+  Erschaffens und Zerfalls ist ein sehr wertvolles Element in der
+  Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen oder
+  gefressen werden" ist auch Teil der Natur. Die Aussortierung der Schwachen
+  ist ebenfalls Teil der Natur. Ständiges Wachstum findet auch innerhalb einer
+  Spezies, wie z. B. Ameisen statt. Anstatt dass aber die ganze Welt von
+  Ameisen überhäuft ist, töten sich diese gegenseitig. Das ist natürlich nicht
+  der Gedanke hinter Gradido und auch nicht Teil des von ihnen konzipierten
+  Wirtschaftssystems, aber man kann schlecht mit dem Argument der Orientierung
+  an Natur überzeugen, wenn nur selektiv Konzepte der Natur entnommen werden.
+  Auch Massenaussterben sind Teil der Natur.<br />
+  Allerdings aendert diese Einschaetzung nichts daran, dass ich die Idee sehr
+  gut finde. Ich glaube allerdings, dass man an der Kommunikation arbeiten
+  kann. Viele Menschen sind fuer die Art und Weise, wie Gradido kommuniziert,
+  nicht offen.
+* Kritikpunkt: Freies Schenken<br />
+  Ich glaube, das ist ein Ideal, das entweder noch nicht ein Teil der aktuellen
+  Gesellschaft ist oder niemals eines sein wird. Es ist auf jeden Fall eine
+  Idee, die auch innerhalb des Systems auf Freiwilligkeit beruht, nicht auf
+  Motivation. Deswegen darf dieses Thema nicht forciert werden, sondern kann
+  nur beworben werden. Es kann nicht ein zentraler Stuetzpfeiler der
+  Geldtheorie sein, sondern muss eine Option, die sich eventuell sogar durch
+  eine neu entstandene Gesellschaftsdynamik an Attraktivitaet gewinnt.
+
 ## Eigene Gedanken
 
 Einer Wirtschaft muss es gut gehen, damit alle davon profitieren können. Eine
@@ -321,7 +562,7 @@ Privatsphäre oder dass die Finanzelite - welche für die ganzen
 Wirtschaftskrisen, Kriege, Ausbeutung, usw. verantwortlich sind - immer noch an
 dem Schaltheben sitzen.
 
-**Umweltschutz**
+### **Umweltschutz**
 
 Historischer Kontext ist wichtig. Sowohl bei der Entstehung von Theorien als
 auch bei der Umsetzung von Ideen. Als Gesell die Idee des Freigeldes hatte, gab
@@ -342,38 +583,7 @@ funktionieren können. Man muss sich in Deutschland nur die Auto-Industrie vor
 Augen führen, bei der es eine ganze Reihe an Unternehmensbranchen gibt, welche
 notwendig sind, damit Autos hergestellt werden können.
 
-Ich habe allerdings noch eine offene Frage und ein bisschen Kritik am
-Gradido-System:
-
-* Offene Frage: Am Anfang jedes Schöpfungs-/Entwertungs-Zyklus soll für jeden
-  Bürger eine gewisse Menge an Geld geschöpft werden, welche dann dreigeteilt
-  wird. Gäbe es nur die Realwirtschaft, ist der Wert des Geldes dem des
-  Bruttosozialproduktes entsprechen. Wie will Gradido damit umgehen, wenn das
-  Bruttosozialprodukt schneller/langsamer als die Bevölkerung wächst oder was,
-  wenn das Bruttosozialprodukt schrumpft?
-* Kritikpunkt: Es wird nichts über weitere Sozialsicherungen gesagt. Dazu
-  gehört z. B. das Gesundheitssystem. Es sollte in einem Geldsystem
-  mitaufgenommen werden, da der Zugang zu einer bedingungslosen Versorgung
-  meiner Meinung nach ein Menschenrecht sein sollte. Hier sollte bedacht
-  werden, dass viele ausländische Pharma-Unternehmen ihre Medikamente nicht in
-  Deutschland verkaufen würden, würde nicht genug Geld dafür bereitgestellt.
-  * Macht es hier Sinn, das Drittel, das der Staat für seine Dienste an der
-    Allgemeinheit bekommt, unterteilt wird? Oder sollte die neu geschöpfte
-    Geldmenge anders eingeteilt werden? Soll die Finanzierung weiterhin als
-    eine Form einer Steuer eingetrieben werden?
-* Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen. Das Phänomen des
-  Erschaffens und Zerfalls ist ein sehr wertvolles Element in der
-  Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen oder
-  gefressen werden" ist auch Teil der Natur. Die Aussortierung der Schwachen
-  ist ebenfalls Teil der Natur. Ständiges Wachstum findet auch innerhalb einer
-  Spezies, wie z. B. Ameisen statt. Anstatt dass aber die ganze Welt von
-  Ameisen überhäuft ist, töten sich diese gegenseitig. Das ist natürlich nicht
-  der Gedanke hinter Gradido und auch nicht Teil des von ihnen konzipierten
-  Wirtschaftssystems, aber man kann schlecht mit dem Argument der Orientierung
-  an Natur überzeugen, wenn nur selektiv Konzepte der Natur entnommen werden.
-  Auch Massenaussterben sind Teil der Natur.
-
-**Demokratische Kontrolle des Geldsystems**
+### **Demokratische Kontrolle des Geldsystems**
 
 Damit ein Geldsystem nicht wieder untergraben werden kann, wird Transparenz und
 Demokratie benötigt. Es braucht also eine weitere Gewalt im Staat. In meinem
@@ -397,7 +607,7 @@ hätte diese Gewalt "Monetative" heißen können.
   melden müssen, sonst wird die nächste Person ausgelost)
 </em>
 
-**Patente**
+### **Patente**
 
 Gradido beschreibt das Problem mit den Patenten folgendermaßen:
 
@@ -433,7 +643,7 @@ B. für Privatpersonen Gutscheine gegeben werden, solange diese im Einklang mit
 dem Naturschutz sind, eine Art Treuepunkte-System, das sich aber auch lohnen
 muss.
 
-**Sparen & die Rolle der Banken**
+### Sparen & die Rolle der Banken
 
 Für die meisten Menschen funktionieren Banken wie eine Art Tresor. Man kann
 dort Geld aufbewahren und bei Bedarf abbuchen und verwenden. Im Freigeldsystem
@@ -466,6 +676,23 @@ Eine Person mit Geld, die also ihr Geld zur Verfügung stellt, erhält also,
 anstatt über Zinsen Gewinne zu erzielen, die Garantie, dass das Ersparte nicht
 an Wert verliert, also ein Entkommen vom Negativzins.
 
+### Zyklisches Reflektieren
+
+Die Welt viel zu komplex ist um Vorhersagen ueber die Entwicklung eines Systems
+machen kann. Daher ist es notwendig, als Gesellschaft regelmaessig ueber die
+Erfolge und Missstaende zu diskutieren. Und dieses Reflektieren ist gerade beim
+Geldsystem besonderns wichtig. Zum einen da es direkt das Leben jedes einzelnen
+betrifft, zum anderen weil es einer der einfachsten Angriffspunkte fuer
+Manipulation zu Gunsten einer kleinen Gruppe ist.
+
+Meiner Meinung nach macht es Sinn, in einem definierten, festgelegten Abstand,
+einen Konvent einzuberufen, der versucht, den aktuellen Zustand zu evaluieren
+um eventuelle Gefahren zu finden und Verbesserungen festzustellen.
+
+Wichtig ist, dass diese Evaluation durch ein Konvent stattfindet, anstatt dass
+es von Experten analysiert wird, da die Gefahren der Manipulation und
+Bestechung gegeben sind.
+
 ### Gefahren eines Wechsels des Geldsystems
 
 Es gibt Argumente, die dagegen sprechen, das Geldsystem zu ändern. Einige davon
@@ -475,6 +702,47 @@ Lösungen anbieten muss, damit diese Probleme nicht auftreten.
 #### Problem 1: Die Firmen würden auswandern und dadurch gingen Arbeitsplätze verloren
 
 ---
+---
+---
+---
+---
+---
+
+# Notizen und Kapitel im Konzeptionsstadium
+
+* Geldschoepfung & Folgen (Staatliches & privates Geld)
+* Buch: [Schulden - Die ersten 5000 Jahre von David
+  Graeber](https://www.klett-cotta.de/buch/Gesellschaft_/_Politik/Schulden/22512)
+* Unterschied zwischen: Tausch in der Gemeinschaft und Tausch mit Fremden
+* Machtfrage: Wer schoepft das Geld -> Wer ist Glaeubiger, Wer ist Schuldner
+* Lissabon-Vertrag: Verboten, dass Zentralbanken den Staaten direkt Geld geben
+* Artikel 123
+* Artikel 125: no bail out klausel
+* Bildung sollte Geldschoepfung und dessen Folgen beinhalten
+* Transparenz: Staatsanleihen: Wer hat die Staatsanleihen, wem werden die
+  Zinsen gezahlt
+* Was ist Staatsverschuldung und desdrn Folgen. Wer buergt letztendlich fuer
+  die Staatsanleihen
+* Erpressbarkeit durch Verkauf von Staatsanleihen
+* Investoren in Staatsanleihen koennen auslaendische Maechte sein
+* Verteilungsmacht UND Schoepfungsmacht
+* Ausgleichszahlungen unter Banken: Nur Zentralbankgeld; Koennen sich
+  ausgleichen
+* Freigeld: Wie wird ein hoeheres Bruttosozialprodukt gedeckt? Mehr Geld?
+* Glass-Stegal-Act
+* Geschichte der Bank of England & Fed
+* Wer organisiert die Zentralbank
+* Muss man auf Finanzexperten hoeren?
+* Ist eine Demokratie moeglich, wenn die reichsten Menschen das Gekd erzeugen?
+  (Die Macht ist bei den Glaeubigern)
+* Demokratie & Techgiganten
+* Ist der Goldstandard notwendig? (Nein)
+* Damit ein Geld funktioniert, muss das Geld das Geld sein, das der Staat fuer
+  Steuern verlangt, wodurch eine Nachfrage geschaffen wird
+* Kampf der Banken gegen das Geld von Lincoln
+* Was ist die FED und ihre Geschichte?
+* FED kann (Robert Reich unter Clinton) ueber Zins den Praesidenten
+  belohnen/bestrafen
 
 ### Tauschmittelfunktion
 
@@ -529,39 +797,3 @@ Siehe [57:50 ' 'Interview mit Ken Jebsen](https://apolut.net/bernd-senf/)
 von Karl Walker
 
 ## Alternative Geldtheorien
-
-# Notizen
-
-* Geldschoepfung & Folgen (Staatliches & privates Geld)
-* Buch: [Schulden - Die ersten 5000 Jahre von David
-  Graeber](https://www.klett-cotta.de/buch/Gesellschaft_/_Politik/Schulden/22512)
-* Unterschied zwischen: Tausch in der Gemeinschaft und Tausch mit Fremden
-* Machtfrage: Wer schoepft das Geld -> Wer ist Glaeubiger, Wer ist Schuldner
-* Lissabon-Vertrag: Verboten, dass Zentralbanken den Staaten direkt Geld geben
-* Artikel 123
-* Artikel 125: no bail out klausel
-* Bildung sollte Geldschoepfung und dessen Folgen beinhalten
-* Transparenz: Staatsanleihen: Wer hat die Staatsanleihen, wem werden die
-  Zinsen gezahlt
-* Was ist Staatsverschuldung und desdrn Folgen. Wer buergt letztendlich fuer
-  die Staatsanleihen
-* Erpressbarkeit durch Verkauf von Staatsanleihen
-* Investoren in Staatsanleihen koennen auslaendische Maechte sein
-* Verteilungsmacht UND Schoepfungsmacht
-* Ausgleichszahlungen unter Banken: Nur Zentralbankgeld; Koennen sich
-  ausgleichen
-* Freigeld: Wie wird ein hoeheres Bruttosozialprodukt gedeckt? Mehr Geld?
-* Glass-Stegal-Act
-* Geschichte der Bank of England & Fed
-* Wer organisiert die Zentralbank
-* Muss man auf Finanzexperten hoeren?
-* Ist eine Demokratie moeglich, wenn die reichsten Menschen das Gekd erzeugen?
-  (Die Macht ist bei den Glaeubigern)
-* Demokratie & Techgiganten
-* Ist der Goldstandard notwendig? (Nein)
-* Damit ein Geld funktioniert, muss das Geld das Geld sein, das der Staat fuer
-  Steuern verlangt, wodurch eine Nachfrage geschaffen wird
-* Kampf der Banken gegen das Geld von Lincoln
-* Was ist die FED und ihre Geschichte?
-* FED kann (Robert Reich unter Clinton) ueber Zins den Praesidenten
-  belohnen/bestrafen
