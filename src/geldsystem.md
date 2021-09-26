@@ -6,20 +6,20 @@
 
 Die Art und Weise, wie Geld funktioniert, ist ein Thema, das in der
 Gesellschaft noch nicht so weit verbreitet ist. Dabei gibt es kaum ein Thema,
-das eine solch immense Wichtigkeit fuer den Alltag und die Entwicklung des
+das eine solch immense Wichtigkeit für den Alltag und die Entwicklung des
 ganzen Lebens hat.
 
 Das Thema Geld ist leider hochkomplex, daher lohnt es sich, bevor man in die
-Theorie einsteigt, sich erst einmal anzuschauen, welche Funktion Geld erfuellen
+Theorie einsteigt, sich erst einmal anzuschauen, welche Funktion Geld erfüllen
 sollte und ob das, was in Wirklichkeit dann passiert, damit vereinbar ist.
 
 Erst dann kann man anfangen Analyse zu betreiben und zu schauen, welche
 Wirkmechanismen es gibt, die die Funktionen, die man von Geld erwartet, sogar
-unterbinden. Dabei wird es dann um Umlaufsicherung, Wertstabilitaet, In- und
-Deflation, wirtschaftliche Zusammenbrueche und die sogenannte Akkumulation von
+unterbinden. Dabei wird es dann um Umlaufsicherung, Wertstabilität, In- und
+Deflation, wirtschaftliche Zusammenbrüche und die sogenannte Akkumulation von
 Kapital gehen.
 
-## Begriffsdefinition Geld & Waehrung
+## Begriffsdefinition Geld & Währung
 
 > Geld – das sind die vom Staat hergestellten Münzen und Banknoten, die als
 > Zahlungsmittel verwendet werden und somit einen gewissen Wert besitzen. Es
@@ -39,47 +39,47 @@ Kapital gehen.
 > [Geld ist nicht gleich Währung – Wie aus Münzen wertloses Papiergeld wurde](https://www.solit-kapital.de/geld-ist-nicht-gleich-waehrung/)
 
 Um das praktisch zu verdeutlichen, kann man den US-Dollar als Beispiel
-heranfuehren, zumindest bis 1971:
+heranführen, zumindest bis 1971:
 
 Von 1869 bis 1971 galt in den USA der sogenannte Goldstandard. Das bedeutete,
 dass jeder Dollar einen Gegenwert in Gold hatte, der von den USA hinterlegt
-wurde. Man haette also jederzeit sein Geld in den entsprechenden Gegenwert an
-Gold eintauschen koennen. Dadurch wurde der Wert des Geldes staatlich
-garantiert. Die Banknoten, die "green backs", waren also die Waehrung des
-Landes und das Geld war das Gold.
+wurde. Man hätte also jederzeit sein Geld in den entsprechenden Gegenwert an
+Gold eintauschen können. Dadurch wurde der Wert des Geldes staatlich
+garantiert. Die Banknoten, die "green backs", waren also die Währung des Landes
+und das Geld war das Gold.
 
-## Resourcen zum Einstieg in die Thematik
+## Ressourcen zum Einstieg in die Thematik
 
-Als erste, gute Einfuehrung gibt es Interviews mit und Vortrage von [Paul
-Schreyer](https://paulschreyer.wordpress.com/) ueber sein Buch ["Wer regiert das
+Als erste, gute Einführung gibt es Interviews mit und Vortrage von [Paul
+Schreyer](https://paulschreyer.wordpress.com/) über sein Buch ["Wer regiert das
 Geld"](https://www.westendverlag.de/buch/wer-regiert-das-geld/). In diesem Buch
-zeigt Herr Schreyer auf, wer eigentlich Geld schoepfen darf, warum man dadurch
+zeigt Herr Schreyer auf, wer eigentlich Geld schöpfen darf, warum man dadurch
 so immense Macht hat und warum das den Funktionen, die Geld haben sollte, nicht
-nur nicht nuetzt, sondern sogar entgegenarbeitet.
+nur nicht nützt, sondern sogar entgegenarbeitet.
 
-Eine weitere, sehr gute Einfuehrung in das Thema sind die beiden
-Dokumentationen - leider nur auf Englisch verfuegbar - ["A Century of
+Eine weitere, sehr gute Einführung in das Thema sind die beiden
+Dokumentationen - leider nur auf Englisch verfügbar - ["A Century of
 Enslavement"](https://www.corbettreport.com/federalreserve/) von James Corbett,
 und [The Money Masters](https://www.youtube.com/watch?v=cTPopNG6LRM) von
 Patrick S.J. Carmack undWilliam T. Still. Sie legt dar, 
 
 Einen etwas tieferen Einblick bekommt man, wenn man sich Bernd Senf widmet. Er
-war fuer ueber 30 Jahre Professor fuer Volkswirtschaft. In seinem [Interview
-mit Ken Jebsen](https://apolut.net/bernd-senf/) gibt er einen groben Ueberblick
-ueber eine ganze Menge an Themen ueber Geld. Einen strukturierteren Einblick,
-auch ueber die geschichtliche Entwicklung, wieso das Geld ueberhaupt so ist,
-wie es ist, kann man in seinem Buch ["Die blinden Flecke der
+war für über 30 Jahre Professor für Volkswirtschaft. In seinem [Interview mit
+Ken Jebsen](https://apolut.net/bernd-senf/) gibt er einen groben Überblick über
+eine ganze Menge an Themen über Geld. Einen strukturierten Einblick, auch über
+die geschichtliche Entwicklung, wieso das Geld überhaupt so ist, wie es ist,
+kann man in seinem Buch ["Die blinden Flecke der
 Oekonomie"](https://www.metropolis-verlag.de/Die-blinden-Flecken-der-Oekonomie/1084/book.do)
 nachlesen.
 
-Weitere Werke, die allerdings sowohl in Inhalt als auch in ihrere Sprache
+Weitere Werke, die allerdings sowohl in Inhalt als auch in ihrer Sprache
 wesentlich anspruchsvoller sind, sind ["Geld ohne Zinsen und
 Inflation"](https://www.google.de/books/edition/Geld_ohne_Zinsen_und_Inflation/fsGwSQAACAAJ?hl=de)
 von Margrit Kennedy und ["Geld &
 Wachstum"](https://www.google.de/books/edition/Geld_Wachstum/q47YPQAACAAJ?hl=de)
 von Hans Chr. Binswanger.
 
-Am Ende stehen dann die Hauptwerker der groessten Inspiratoren (heute wuerde
+Am Ende stehen dann die Hauptwerke der größten Inspiratoren (heute würde
 man vielleicht eher "influencer" sagen) alternativer Geldtheorien: ["Das
 Kapital"](https://www.google.de/books/edition/Das_Kapital/MzN8oAEACAAJ?hl=de)
 von Karl Marx und ["Die Natürliche Wirtschaftsordnung Durch Freiland und
@@ -88,7 +88,7 @@ von Silvio Gesell
 
 ## Die Funktion, die Geld haben sollte
 
-Zur Funktion, die Geld erfuellen sollen, schreibt die Bundesbank folgendes:
+Zur Funktion, die Geld erfüllen sollen, schreibt die Bundesbank folgendes:
 
 > Entscheidend ist, dass es allgemein als Zahlungsmittel akzeptiert wird. Geld
 > muss drei Funktionen erfüllen:  Die Tauschmittelfunktion, die Funktion als
@@ -100,47 +100,47 @@ Zur Funktion, die Geld erfuellen sollen, schreibt die Bundesbank folgendes:
 > dienen, muss Geld haltbar und wertbeständig sein.
 > [Was ist Geld?](https://www.bundesbank.de/de/service/schule-und-bildung/erklaerfilme/was-ist-geld--800972#:~:text=Entscheidend%20ist%2C%20dass%20es%20allgemein,Ware%20zu%20tauschen%20ist%20umst%C3%A4ndlich.)
 
-Das Interessante an dieser Erwartung ist, was nicht erwartet wird. Also fuege
+Das Interessante an dieser Erwartung ist, was nicht erwartet wird. Also füge
 ich ein paar Beispiele ein, die meiner Meinung nach auch von Geld erwartet
-werden sollten. Im Kaputel "Die Funktionen, die Geld in der modernen,
-globalisierten Welt erfuellt" werde ich versuchen zu zeigen, dass Geld sehr
-wohl eine immense Auswirkung auf die folgenden Punkte hat. Deswegen muss man
-sie in die Funktion des Geldes mit einbeziehen:
+werden sollten. Im Kapitel "Die Funktionen, die Geld in der modernen,
+globalisierten Welt erfüllt" werde ich versuchen zu zeigen, dass Geld sehr wohl
+eine immense Auswirkung auf die folgenden Punkte hat. Deswegen muss man sie in
+die Funktion des Geldes mit einbeziehen:
 
 * Geld sollte eine Tauschmittelfunktion haben
 * Geld sollte eine Funktion als Recheneinheit haben
 * Geld sollte eine Funktion als Wertaufbewahrungsmittel haben
-  * Hier moechte ich anfuegen: Fuer wie lange? Diese Frage wird spaeter ein
+  * Hier möchte ich anfügen: Für wie lange? Diese Frage wird später ein
     zentrales Thema
-* Geld sollte eine Funktion haben, Armut entgegen zu wirken
+* Geld sollte eine Funktion haben, Armut entgegenzuwirken
 * Geld sollte nicht die Funktion haben, als Machtinstrumente missbraucht zu
   werden
-* Geld sollte eine Funktion haben, der Zerstoerung der Umwelt entgegen zu wirken
-* Geld sollte eine Funktion haben, einen fuer Menschen schaedlichen und von
-  Menschen gemachten Klimawandel entgegen zu wirken
+* Geld sollte eine Funktion haben, der Zerstörung der Umwelt entgegenzuwirken
+* Geld sollte eine Funktion haben, einem für Menschen schädlichen und von
+  Menschen gemachten Klimawandel entgegenzuwirken
 * Geld sollte eine Funktion haben, dass Menschen ihr Leben frei gestalten
-  koennen, unabhaengig davon, wo bzw. wann sie das moechten
+  können, unabhängig davon, wo bzw. wann sie das möchten
 
-Wir haben uns durch den Kapitalismus daran gewoehnt, dass Konkurrenz zu
-Innovation fuehrt. Ich folgere, dass wir in die Liste folgenden weiteren Punkt
-aufnehmen muessen:
+Wir haben uns durch den Kapitalismus daran gewöhnt, dass Konkurrenz zu
+Innovation führt. Ich folgere, dass wir in die Liste folgenden weiteren Punkt
+aufnehmen müssen:
 
-* Das Geldsystem sollte fuer Innovation sorgen
-  * Wichtig ist hier, dass gefoerderte Innovationen gesellschaftlich sinnvoll
-    sein sollten. Dies gilt besonders fuer die Bereiche Medizin und
-    Vergroesserung des Wohlstands der Massen
+* Das Geldsystem sollte für Innovation sorgen
+  * Wichtig ist hier, dass geförderte Innovationen gesellschaftlich sinnvoll
+    sein sollten. Dies gilt besonders für die Bereiche Medizin und Vergrößerung
+    des Wohlstands der Massen
   * Auch sollte klar sein, dass Innovationen im Einklang mit der Natur
-    geschehen sollten. Ich denke, dass mir jeder Zustimmen wird, dass unsere
-    aktuelle Art des Wirtschaftens fuer die Natur extrem schaedlich ist.
+    geschehen sollten. Ich denke, dass mir jeder zustimmen wird, dass unsere
+    aktuelle Art des Wirtschaftens für die Natur extrem schädlich ist.
 
 ## Die Funktionen, die Geld gerade hat
 
 * Die Armut nimmt mehr und mehr zu, Reichtum konzentriert sich bei immer weniger Menschen/Firmen
   * [Piketty, Thomas; Das Kapital im 21. Jahrhundert](https://www.chbeck.de/piketty-kapital-21-jahrhundert/product/13923624)
   * [Fehler im Geldsystem](https://www.youtube.com/watch?v=tyic-Q_gJ2w)
-* Geld ist ein zentraler Anreiz fuer Kriege
+* Geld ist ein zentraler Anreiz für Kriege
   * [What You Are Not Being Told About the Afghanistan War](https://www.corbettreport.com/what-you-are-not-being-told-about-the-afghanistan-war/)
-* Geld ist ein zentraler Anreiz, Armut ein zentraler Faktor fuer (moderne) Sklaverei
+* Geld ist ein zentraler Anreiz, Armut ein zentraler Faktor für (moderne) Sklaverei
   * [Unsichtbare Hände - Sklaverei heute im 21. Jahrhundert](https://www.youtube.com/watch?v=oLlMhPONVY4)  
     Zitat: "Ist Sklaverei etwa ein Element globaler Wirtschaft geworden?
     Sklaverei gibt es weltweit und die Geschichten darueber wuerden eine ganze
@@ -153,13 +153,13 @@ aufnehmen muessen:
     drittgroesste Einnahmequelle der Organisierten Kriminalitaet"
   * [Nameless: a Documentary about Child Sex Trafficking](https://www.youtube.com/watch?v=kPC6esXqX3U)
   * [Buying Children in Cambodia | Nefarious Documentary Clip](https://www.youtube.com/watch?v=lIsCEprvtJM)
-* Das aktuelle Geldsystem ermoeglicht eine extrem hohe Machtkonzentration
+* Das aktuelle Geldsystem ermöglicht eine extrem hohe Machtkonzentration
   * @TODO: Beleg
-* Geld fliesst in die Finanzwirtschaft, die von der Realwirtschaft losgeloest
+* Geld fließt in die Finanzwirtschaft, die von der Realwirtschaft losgelöst
   ist. Dadurch entstehen riesige Blasen, die die Existenz vieler bedrohen,
   sobald sie platzen
   * [Interview KenFm mit Ernst Wolff ueber: Finanz-Tsunami](https://apolut.net/ernst-wolff/)
-* Das Geldsystem untergraebt die Demokratie
+* Das Geldsystem untergräbt die Demokratie
   * [Our democracy no longer represents the people. Here's how we fix it](https://www.youtube.com/watch?v=PJy8vTu66tE&t=903s)
   * [Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B)
     * Zitat: " we have been able to produce some striking findings. One is the
@@ -168,7 +168,7 @@ aufnehmen muessen:
       stands of organized interest groups are controlled for, **the preferences
       of the average American appear to have only a minuscule, near-zero,
       statistically non-significant impact upon public policy**"
-* Gewinne werden ueber Umweltschutz gestellt
+* Gewinne werden über Umweltschutz gestellt
   * [Die Erdzerstörer - Doku - ARTE](https://www.arte.tv/de/videos/073938-000-A/die-erdzerstoerer/)
   * [Gift im Trinkwasser. Wo die Textilindustrie die Umwelt zerstört](https://www.youtube.com/watch?v=ODGSns4-0yA)
   * [Fracking is Dangerous: The High Cost of Cheap Gas](https://www.youtube.com/watch?v=_wfEaFi8KZg)
@@ -179,288 +179,307 @@ aufnehmen muessen:
 ## Alternative Modelle
 
 Es gibt zu viele Alternativen, ich kenne viele nicht, oder nicht genug im
-Detail. Ich moechte hier nur die Theorien vorstellen, die meiner Meinung nach
-entweder wichtig bei der Loesungsfindung sind.  Auf Theorien, die zum
-Verstaendnis der Probleme wichtig sind, gehe ich spaeter, in einem anderen
-Kapitel ein. Es ist wichtig, sich auch intensiv mit den Theorien zu
-beschaeftigen, die nicht Teil meiner Vision sind. Denn viele Vorstellungen der
-kapitalistischen Theorien sind heute weit verbreitet und muessen entsprechend
-diskutiert werden. Wichtig ist dabei zu verstehen, dass man zwischen folgenden
-Szenarien unterscheiden muss:
+Detail. Ich möchte hier nur die Theorien vorstellen, die meiner Meinung nach
+entweder wichtig bei der Lösungsfindung sind. Auf Theorien, die zum Verständnis
+der Probleme wichtig sind, gehe ich später, in einem anderen Kapitel ein. Es
+ist wichtig, sich auch intensiv mit den Theorien zu beschäftigen, die keine
+Teile meiner Vision sind. Denn viele Vorstellungen der kapitalistischen
+Theorien sind heute weit verbreitet und müssen entsprechend diskutiert werden.
+Wichtig ist dabei zu verstehen, dass man zwischen folgenden Szenarien
+unterscheiden muss:
 
 * Ersetzen der kapitalistischen Wirtschaftstheorie
 * Von kapitalistischer Wirtschaftstheorie in eine andere Theorie inkrementell
-  uebergehen
+  übergehen
 * Verbessern einzelner Aspekte innerhalb der kapitalistischen Wirtschaftstheorie
 
 Es gibt viele Argumente, die entweder darauf beruhen, dass man weiterhin
 versuche im kapitalistischen Wirtschaftssystem zu bleiben. Ein gutes Beispiel
-hierfuer ist das Thema "Umverteilung von Oben nach Unten". Die Antwort lautet
-meistens (z. B.
-[hier (Milton Friedman - Redistribution of Wealth)](https://www.youtube.com/watch?v=MRpEV2tmYz4)
-oder [hier (Friedrich Hayek on Redistribution of Wealth)](https://www.youtube.com/watch?v=Ym15cJAR9M4)),
-dass man dadurch den Anreiz fuer
-Produktivitaet und damit Fortschritt und Innovation, letztendlich vernichten
-wuerde. Dass man auch eine ganz andere Theorie anwenden koenne, die die
-gleichen Ziele beinhalte, wird dabei ausgeblendet.
-Andere Argumente unterstellen, man wuerde ploetzlich, quasi ueber Nacht, alle
-regeln einfach aendern. Dazu gehoert, dass das bisherige Kapital einfach
-abziehen wuerde. Dadurch wuerden automatisch dem Land Geld entzogen und den
-Arbeitern ihre Jobs genommen werden. Auch hier wird ausgeblendet, dass es
-durchaus Konzepte fuer einen graduellen Uebergang gibt. Die Zeitraeume sind
-hierfuer auch nicht einige Wochen oder Monate, sondern Jahre. Gradido z. B.
-schlagen einen Zeitrahmen des Uebergangs von 10 Jahren vor. Jedes Jahr sollen
-10 % des Geldes, das im Umlauf ist, durch das neue Geld ersetzt werden.
+hierfür ist das Thema "Umverteilung von Oben nach Unten". Die Antwort lautet
+meistens (z. B. [hier (Milton Friedman - Redistribution of
+Wealth)](https://www.youtube.com/watch?v=MRpEV2tmYz4) oder [hier (Friedrich
+Hayek on Redistribution of
+Wealth)](https://www.youtube.com/watch?v=Ym15cJAR9M4)), dass man dadurch den
+Anreiz für Produktivität und damit Fortschritt und Innovation, letztendlich
+vernichten wurde. Dass man auch eine ganz andere Theorie anwenden könne, die
+die gleichen Ziele beinhalte, wird dabei ausgeblendet. Andere Argumente
+unterstellen, man würde plötzlich, quasi über Nacht, alle Regeln einfach
+ändern. Dazu gehört, dass das bisherige Kapital einfach abziehen würde. Dadurch
+würden automatisch dem Land Geld entzogen und den Arbeitern ihre Jobs genommen
+werden. Auch hier wird ausgeblendet, dass es durchaus Konzepte für einen
+graduellen Übergang gibt. Die Zeiträume sind hierfür auch nicht einige Wochen
+oder Monate, sondern Jahre. Gradido z. B. schlagen einen Zeitrahmen des
+Übergangs von 10 Jahren vor. Jedes Jahr sollen 10 % des Geldes, das im Umlauf
+ist, durch das neue Geld ersetzt werden.
 
-### Marxistische Wirtschafstheorie
+### Marxistische Wirtschaftstheorie
 
 Ich muss zugeben, ich habe nicht verstanden, welche wirtschaftliche Vision Karl
 Marx hatte. So ziemlich alles, das ich bisher gelesen hatte, war entweder eine
 Kritik am Kapitalismus oder Ideen, wie sich das Proletariat gegen die Macht der
-Kapitalisten wehren koennten.
+Kapitalisten wehren könnten. Das einzige, womit ich mich beschäftigt habe ist
+der Sozialismus
 
-Das einzige, womit ich mich beschaeftigt habe ist der Sozialismus
+#### Sozialismus Was man mit dem Begriff genau meint, muss erst einmal erklärt
 
-#### Sozialismus
-
-Was man mit dem Begriff genau meint, muss erst einmal erklaert werden, da es
-keine einheitliche Definition gibt, sondern extrem viele Stroemungen/Theorien.
-Die wohl bekannteste ist der kapitalistischen Sozialismus (zumindest nenne ich
-ihn so), der versucht innerhalb des kapitalistischen Systems einige soziale
-Elemente einzubauen, der sogenannte Sozialstaat. Dazu gehoert:
-Arbeitslosenversicherung, Krankenversicherung, Altersvorsorge,
+werden, da es keine einheitliche Definition gibt, sondern extrem viele
+Strömungen/Theorien. Die wohl bekannteste ist der kapitalistische Sozialismus
+(zumindest nenne ich ihn so), der versucht innerhalb des kapitalistischen
+Systems einige soziale Elemente einzubauen, der sogenannte Sozialstaat. Dazu
+gehört: Arbeitslosenversicherung, Krankenversicherung, Altersvorsorge,
 Monopol-Verhinderung, usw.
 
 Die Grundidee, so wie ich das verstehe, hat nichts wirklich mit einer
-oekonomischen Theorie zu tun, sondern ist viel mehr eine Sammlung an
-Erwartungen an eine Oekonomie, damit eine gewisse Idealsituation hergestellt
-werden kann. Nur einzelne Aspekte beziehen sich dabei auf (nicht unerhebliche)
-Teile der Oekonomie, so z. B. die Frage nach dem Besitz. Das Thema Besitz
-selbst hat natuerlich weitreichende Implikationen auf Themen wie Wirtschaften,
-Geldschoepfung, usw., aber es ist eben nur ein Teil, daher eher eine Erwartung
-and die Oekonomie, als eine ganze Oekonomietheorie.
+ökonomischen Theorie zu tun, sondern ist viel mehr eine Sammlung an Erwartungen
+an eine Ökonomie, damit eine gewisse Idealsituation hergestellt werden kann.
+Nur einzelne Aspekte beziehen sich dabei auf (nicht unerhebliche) Teile der
+Ökonomie, so z. B. die Frage nach dem Besitz. Das Thema Besitz selbst hat
+natürlich weitreichende Implikationen auf Themen wie Wirtschaften,
+Geldschöpfung, usw., aber es ist eben nur ein Teil, daher eher eine Erwartung
+und die Ökonomie, als eine ganze Ökonomie-Theorie.
 
 ### Freiwirtschaft - Natürliche Wirtschaftsordnung
 
-Die Freiwirtschaft ist eine oekonomische Theorie von Silvio Gesell, welche man
-nicht mit Freihandel verwechseln darf. Gesell hatte sich in Latein-Amerika
-damit beschaeftigt, warum Oekonomien Probleme wie Rezessionen und
-Wirtschaftskrisen haben.
+Die Freiwirtschaft ist eine ökonomische Theorie von Silvio Gesell, welche man
+nicht mit Freihandel verwechseln darf. Gesell hatte sich in Lateinamerika damit
+beschäftigt, warum Ökonomien Probleme wie Rezessionen und Wirtschaftskrisen
+haben. Die Idee ist relativ simpel: Geld soll rosten, also über Zeit an Wert
+verlieren. So kann man z. B. für Banknoten am Ende des Monats einen Stempel
+kaufen müssen, wodurch aus einer Geldmenge X (Wert der Banknote + Gebühren)
+eine geringere Geldmenge (Wert der Banknote) entsteht. Sind alle Stellen für
+Stempel voll, verliert der Geldschein seinen Wert komplett.
+
+Dieser Vorgang hat weitreichende Implikationen:
+
+* Geld kann nicht mehr einfach so gehortet werden, da die Hortung einen
+  Wertverlust bedeuten würde
+  * Als Konsequenz kann Geld nicht mehr erpresserisch von den Kapitalbesitzern
+    benutzt werden, die es nur gegen einen Zins herausgeben möchten
+* Banken können zwar Geld aufbewahren (dazu unten mehr), ohne dass man dadurch
+  Geld verliert, aber das wird immer nur für einen Teil des Geldes möglich
+  sein.
+  * Da man immer nur einen Teil seines Geldes sparen kann, wird man das
+    restliche Geld ausgeben wollen, da es ja sonst an Wert verlieren würde.
+    Dabei spielt es keine Rolle, wofür es ausgegeben wird, z. B. zum Konsum,
+    für Kunst/Kultur oder als Investment, z. B. in andere Währungen
+
+Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in
+Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger
+Antrieb des damaligen Aufschwungs gewesen sein könnt.
 
 ## Eigene Gedanken
 
-Einer Wirtschaft muss es gut gehen, damit alle davon profitieren koennen. Eine
-gute Wirtschaft im dem Sinne, dass sie der gesamten Bevoelkerung nutzt, muss
-dafuer sorgen, dass die Waehrung permanent im Umfluss ist, also nicht gehortet
-wird. Das ist auch eines der erklaerten Ziele der Zentralbanken, welche durch
-Zinssenkung die Wirtschaft ankurbeln moechten, da dadurch mehr Geld in den
+Einer Wirtschaft muss es gut gehen, damit alle davon profitieren können. Eine
+gute Wirtschaft in dem Sinne, dass sie der gesamten Bevölkerung nutzt, muss
+dafür sorgen, dass die Währung permanent im Umlauf ist, also nicht gehortet
+wird. Das ist auch eines der erklärten Ziele der Zentralbanken, welche durch
+Zinssenkung die Wirtschaft ankurbeln möchten, da dadurch mehr Geld in den
 Umlauf kommt.
 
 Ich finde dabei den Mechanismus, den Silvio Gesell mit dem Freigeld beschreibt,
-sehr interessant. Dieser sorgt dafuer, dass man bestrebt ist, sein Geld
+sehr interessant. Dieser sorgt dafür, dass man bestrebt ist, sein Geld
 auszugeben, wodurch es im Umlauf ist. Hier ist ein Beispiel: Ich habe 100 Euro.
 Wenn ich sie spare (also behalte), dann ist der Wert, der vom Geldschein
 ausgeht, exakt 100 Euro. Benutze ich den Schein allerdings und gebe die 100
 Euro aus, dann bekomme ich etwas, das ebenfalls einen Wert von 100 Euro hat.
-Jetzt ist der Wert, den der 100 Euro Schein geschaffen hat, schon bei 200 Euro,
-da ich etwas fuer 100 Euro erhalten habe und der neue Besitzer der 100 Euro
-ebenfalls 100 Euro hat. Wird dieser schein mehrmals benutzt, vervielfacht sich
-der Wert. Es gibt zwei theoretische Extremfaelle, die natuerlich in der Praxis
-so natuerlich nicht moeglich waeren:
+Jetzt ist der Wert, den der 100-Euro-Schein geschaffen hat, schon bei 200 Euro,
+da ich etwas für 100 Euro erhalten habe und der neue Besitzer der 100 Euro
+ebenfalls 100 Euro hat. Wird dieser Schein mehrmals benutzt, vervielfacht sich
+der Wert. Es gibt zwei theoretische Extremfälle, die natürlich in der Praxis so
+nicht möglich sind:
 
 > **Es wird alles Geld gehortet, niemand gibt Geld aus.**
 
-Dadurch waere die Wirtschaft tot, denn es wuerden ja keine Geschaefte mehr
-stattfinden
+Dadurch wäre die Wirtschaft tot, denn es würden ja keine Geschäfte mehr
+stattfinden.
 
 > **Alles Geld wird sofort wieder ausgegeben**
 
-Dadurch waere die Wirtschaft in einem Mega-Konsum-Status. Die Menge an Geld,
-die dabei, z. B. innerhalb eines Tages, benutzt wird, uebersteigt um ein
-Vielfaches die Menge an Geld, die es eigentlich gibt, der Geldschein aus dem
-Beispiel oben wurde ja auch mehrmals benutzt, obwohl es ihn nur einmal gibt.
+Dadurch wäre die Wirtschaft in einem Mega-Konsum-Status. Die Menge an Geld, die
+dabei, z. B. innerhalb eines Tages, benutzt wird, übersteigt um ein Vielfaches
+die Menge an Geld, die es eigentlich gibt, der Geldschein aus dem Beispiel oben
+wurde ja auch mehrmals benutzt, obwohl es ihn nur einmal gibt.
 
 In einer wohl etwas realistischer Ansatz ist irgendwo zwischen den beiden
-Extremen. D. h. jeder kann etwas sparen, aber eben nicht alles.
-Was diesen Punkt angeht, muss man allerdings extrem vorsichtig sein. Es gibt
-auch Wirtschaftsideen, die versuchen werden, genau das zu etablieren, dabei
-aber trotzdem nicht das Allgemeinwohl im Interesse haben. So arbeiten Teile der
+Extremen. D. h. jeder kann etwas sparen, aber eben nicht alles. Was diesen
+Punkt angeht, muss man allerdings extrem vorsichtig sein. Es gibt auch
+Wirtschaftsideen, die versuchen werden, genau das zu etablieren, dabei aber
+trotzdem nicht das Allgemeinwohl im Interesse haben. So arbeiten Teile der
 Finanzelite gerade an einem digitalen Zentralbankgeld. Mit diesem Geld soll es
-ein Grundeinkommen geben, das daran gekoppelt ist, dass ein bestimmer Teil
-davon ausgegeben werden muss, sonst verliert es an Wert. Allerdings waere man
-damit immernoch in einem kapitalistischen System, welches die Akkumulation von
-Kapital foerdert, da nicht alles Geld diesem Wertverlust ausgesetzt ist,
-sondern lediglich das Geld, das mit dem Grundeinkommen verteilt wird.
+ein Grundeinkommen geben, das daran gekoppelt ist, dass ein bestimmter Teil
+davon ausgegeben werden muss, sonst verliert es an Wert. Allerdings wäre man
+damit immer noch in einem kapitalistischen System, welches die Akkumulation von
+Kapital fördert, da nicht alles Geld diesem Wertverlust ausgesetzt ist, sondern
+lediglich das Geld, das mit dem Grundeinkommen verteilt wird.
 
-Das Problem waere weiterhin, dass die besitzende Klasse weiterhin ueber immens
-grosse Geldmengen verfuegen kann, dass die Umverteilung von der besitzlosen
+Das Problem wäre weiterhin, dass die besitzende Klasse weiterhin über immens
+große Geldmengen verfügen kann, dass die Umverteilung von der besitzlosen
 Klasse hin zur besitzenden Klasse weiterhin stattfindet, sodass es am Ende eine
-kleine, besitzende Klasse gibt und der Grossteil vom Grundeinkommen abhaengig
-wird, wodurch ein extremes Machtgefaelle entstuenden. Weitere Probleme sind
-Privatsphaere oder dass die Finanzelite - welche fuer die ganzen
-Wirtschaftskrisen, Kriege, Ausbeutung, usw. verantwortlich sind -
-immernoch an den Schaltheben sitzen.
+kleine, besitzende Klasse gibt und der Großteil vom Grundeinkommen abhängig
+wird, wodurch ein extremes Machtgefälle entstünden. Weitere Probleme sind
+Privatsphäre oder dass die Finanzelite - welche für die ganzen
+Wirtschaftskrisen, Kriege, Ausbeutung, usw. verantwortlich sind - immer noch an
+dem Schaltheben sitzen.
 
 **Umweltschutz**
 
 Historischer Kontext ist wichtig. Sowohl bei der Entstehung von Theorien als
 auch bei der Umsetzung von Ideen. Als Gesell die Idee des Freigeldes hatte, gab
-es einige Probleme, mit denen wir heute zu kaempfen haben, noch nicht. Eines
-davon ist, dass wir die Natur immer mehr ausbeuten und zerstoeren. Wuerden wir
-ein Freigeld-System einfuehren, wuerde eine Gesellschaft, die man zurecht als
+es einige Probleme, mit denen wir heute zu kämpfen haben, noch nicht. Eines
+davon ist, dass wir die Natur immer mehr ausbeuten und zerstören. Würden wir
+ein Freigeld-System einführen, würde eine Gesellschaft, die man zurecht als
 Konsumgesellschaft bezeichnet.
 
 Was diesen Aspekt angeht, finde ich den Ansatz von Gradido am besten. Das
-verschwundene Geld am Ende eines Zyklus, muss neu geschoepft werden. Wenn ein
-Drittel fuer sowohl Umweltschutz als auch fuer die Restauration der Umwelt
-eingesetzt wuerde, wuerde eine gigantische "gruene Wirtschaft" aus dem Boden
-spriessen, da es sich finanziell lohnt. Das wuerde nicht nur bedeuten, dass es
-Unternehmen gaebe, die sich um Umweltrestauration kuemmern (ich nenne sie
-einfach mal "primaere Unternehmen"), sonder auch einen ganzen "Rattenschwanz"
-an Unternehmen, die notwendig sind, damit die primaeren Unternehmen ueberhaupt
-funktionieren koennen. Man muss sich in Deutschland nur die Auto-Industrie vor
-Augen fuehren, bei der es eine ganze Reihe an Unternehmensbranchen gibt, welche
-notwendig sind, damit Autos hergestellt werden koennen.
+verschwundene Geld am Ende eines Zyklus muss neu geschöpft werden. Wenn ein
+Drittel für sowohl Umweltschutz als auch für die Restauration der Umwelt
+eingesetzt würde, würde eine gigantische "grüne Wirtschaft" aus dem Boden
+sprießen, da es sich finanziell lohnt. Das würde nicht nur bedeuten, dass es
+Unternehmen gäbe, die sich um Umweltrestauration kümmern (ich nenne sie einfach
+mal "primäre Unternehmen"), sondern auch einen ganzen "Rattenschwanz" an
+Unternehmen, die notwendig sind, damit die primären Unternehmen überhaupt
+funktionieren können. Man muss sich in Deutschland nur die Auto-Industrie vor
+Augen führen, bei der es eine ganze Reihe an Unternehmensbranchen gibt, welche
+notwendig sind, damit Autos hergestellt werden können.
 
 Ich habe allerdings noch eine offene Frage und ein bisschen Kritik am
 Gradido-System:
 
-* Offene Frage: Am Anfang jedes Schoepfungs-/Entwertungszyklus soll fuer jeden
-  Buerger eine gewisse Menge an Geld geschoepft werden, welche dann dreigeteilt
-  wird. Gaebe es nur die Realwirtschaft, ist der Wert des Geldes dem des
+* Offene Frage: Am Anfang jedes Schöpfungs-/Entwertungs-Zyklus soll für jeden
+  Bürger eine gewisse Menge an Geld geschöpft werden, welche dann dreigeteilt
+  wird. Gäbe es nur die Realwirtschaft, ist der Wert des Geldes dem des
   Bruttosozialproduktes entsprechen. Wie will Gradido damit umgehen, wenn das
-  Bruttosozialprodukt schneller/langsamer als die Bevoelkerung waechst oder
-  was, wenn das Bruttosozialprodukt schrumpft?
-* Kritikpunkt: Es wird nichts ueber weitere Sozialsicherungen gesagt. Dazu
-  gehoert z. B. das Gesundheitssystem. Es sollte in einem
-  Geldsystem mitaufgenommen werden, da der Zugang zu einer bedingungslosen
-  Versorgung meiner Meinung nach ein Menschenrecht sein sollte. Hier sollte
-  bedacht werden, dass viele auslaendische Pharma-Unternehmen ihre Medikamente
-  nicht in Deutschland verkaufen wuerden, wuerde nicht genug Geld dafuer
-  bereitgestellt.
-  * Macht es hier Sinn, das Drittel, das der Staat fuer seine Dienste an der
-    Allgemeinheit bekommt, unterteilt wird? Oder sollte die neugeschoepfte
+  Bruttosozialprodukt schneller/langsamer als die Bevölkerung wächst oder was,
+  wenn das Bruttosozialprodukt schrumpft?
+* Kritikpunkt: Es wird nichts über weitere Sozialsicherungen gesagt. Dazu
+  gehört z. B. das Gesundheitssystem. Es sollte in einem Geldsystem
+  mitaufgenommen werden, da der Zugang zu einer bedingungslosen Versorgung
+  meiner Meinung nach ein Menschenrecht sein sollte. Hier sollte bedacht
+  werden, dass viele ausländische Pharma-Unternehmen ihre Medikamente nicht in
+  Deutschland verkaufen würden, würde nicht genug Geld dafür bereitgestellt.
+  * Macht es hier Sinn, das Drittel, das der Staat für seine Dienste an der
+    Allgemeinheit bekommt, unterteilt wird? Oder sollte die neu geschöpfte
     Geldmenge anders eingeteilt werden? Soll die Finanzierung weiterhin als
     eine Form einer Steuer eingetrieben werden?
-* Kritipunkt: Es wird zu sehr auf die Natur hingewiesen. Das Phaenomen des
+* Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen. Das Phänomen des
   Erschaffens und Zerfalls ist ein sehr wertvolles Element in der
-  Geldwirtschaft. Dennoch ist die Natur alles andere als fair. Fressen oder
-  gefressen werden ist auch Teil der Natur. Die Aussortierung der Schwachen ist
-  ebenfalls Teil der Natur. Staendiges Wachstum findet auch innerhalb einer
+  Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen oder
+  gefressen werden" ist auch Teil der Natur. Die Aussortierung der Schwachen
+  ist ebenfalls Teil der Natur. Ständiges Wachstum findet auch innerhalb einer
   Spezies, wie z. B. Ameisen statt. Anstatt dass aber die ganze Welt von
-  Ameisen ueberhaeuft ist, toeten sich diese Gegenseitig. Das ist natuerlich
-  nicht der Gedanke hinter Gradido und auch nicht Teil des von ihnen
-  konzipierten Wirtschaftsystems, aber man kann schlecht mit dem Argument der
-  Orientierung an Natur ueberzeugen, wenn nur selektiv Konzepte der Natur
-  entnommen werden. Auch Massenaussterben sind Teil der Natur.
+  Ameisen überhäuft ist, töten sich diese gegenseitig. Das ist natürlich nicht
+  der Gedanke hinter Gradido und auch nicht Teil des von ihnen konzipierten
+  Wirtschaftssystems, aber man kann schlecht mit dem Argument der Orientierung
+  an Natur überzeugen, wenn nur selektiv Konzepte der Natur entnommen werden.
+  Auch Massenaussterben sind Teil der Natur.
 
 **Demokratische Kontrolle des Geldsystems**
 
 Damit ein Geldsystem nicht wieder untergraben werden kann, wird Transparenz und
-Demokratie benoetigt. Es braucht also eine weitere Gewalt im Staat. In meinem
+Demokratie benötigt. Es braucht also eine weitere Gewalt im Staat. In meinem
 Artikel ["Demokratie"](./demokratie.md) habe ich vorgestellt, wie ich
-mir einen demokratischen Prozess vorstellen koennte, repraesentative Demokratie
-sollte es hier auf jeden Fall nicht geben. So koennte z. B. die Verwaltung in
-einem Losverfahren zufaellig aus der gesamten Bevoelkerung ausgewaehlt werden.
-Sollte jemand nicht teilnehmen wollen, kann er das Los ablehnen und es wird
-solange weiter ausgelost, bist alle Plaetze vergeben sind. Bevor die
-Ausgewaehlten ihren Job beginnen koennen, nehmen sie an einer Schulung teil,
-deren Inhalt auch direkt von der Bevoelkerung bestimmt werden muss. Erst nach
-Abschluss der Schulung loesen die vorherige Gruppe ab. Waere der Name nicht
-bereits vergeben, haette diese Gewalt "Monetative" heissen koennen.
+mir einen demokratischen Prozess vorstellen könnte, repräsentative Demokratie
+sollte es hier auf jeden Fall nicht geben. So könnte z. B. die Verwaltung in
+einem Losverfahren zufällig aus der gesamten Bevölkerung ausgewählt werden.
+Sollte jemand nicht teilnehmen wollen, kann er das Los ablehnen und es wird so
+lange weiter ausgelost, bis alle Plätze vergeben sind. Bevor die Ausgewählten
+ihren Job beginnen können, nehmen sie an einer Schulung teil, deren Inhalt auch
+direkt von der Bevölkerung bestimmt werden muss. Erst nach Abschluss der
+Schulung lösen die vorherige Gruppe ab. Wäre der Name nicht bereits vergeben,
+hätte diese Gewalt "Monetative" heißen können.
 <br />
 <br />
 <em style="display: block;font-size: 14px; line-height: 1.2">
-  (**Offene Frage**: Sollen Buerger bereits vor einer Auslosung angeben koenne, ob
-  sie ausgeloest werden koennen oder nicht? Momentante Meinung: Lieber nicht. Zum
-  einen Teil kann es zu Diskriminierung fuehren. Mehr sinn macht vielleicht ein
-  opt-in Prinzip, nachdem sich die Ausgelosten innerhalb von z. B. 3 Tagen melden
-  muessen, sonst wird die naechste Person ausgelost)
+  (Offene Frage: Sollen Bürger bereits vor einer Auslosung angeben könne, ob
+  sie ausgelöst werden können oder nicht? Momentane Meinung: Lieber nicht. Zum
+  einen Teil kann es zu Diskriminierung führen. Mehr Sinn ergibt vielleicht ein
+  Opt-in Prinzip, nachdem sich die Ausgelosten innerhalb von z. B. 3 Tagen
+  melden müssen, sonst wird die nächste Person ausgelost)
 </em>
 
 **Patente**
 
-Gradido beschreibt das Problem mit den Patenten folgendermassen:
+Gradido beschreibt das Problem mit den Patenten folgendermaßen:
 
 > Ursprünglich wurde das Patentrecht, ähnlich wie das Urheberrecht, mit der Absicht
 geschaffen, das geistige Eigentum der Erfinder zu schützen, damit diese nicht von
 geschäftstüchtigen Unternehmern über den Tisch gezogen und ausgebeutet werden
 können.
 
-Wenn es um die Abschaffung von Patenten geht, gibt es ein sehr haeufig
-vorgebrachte Argument: Wenn es keine Patente gaebe, wuerde auch die Menge an
-Erfindungen abnehmen, da es sich nicht mehr lohnen wuerde.
+Wenn es um die Abschaffung von Patenten geht, gibt es ein sehr häufig
+vorgebrachte Argument: Wenn es keine Patente gäbe, würde auch die Menge an
+Erfindungen abnehmen, da es sich nicht mehr lohnen würde.
 
-Ich habe keine wissenschaftliche Beweise fuer die eine oder die andere Seite,
-aber das Argument klingt fuer mich erst einmal Schluessig. Das heisst, dass
-eine gerechte Patent-Regelung sowohl Patente erlauben muss, als auch deren
-Vorenthaltung zum Nutzen der Oeffentlichkeit verboten sein muss. Es sollte
-gesetzlich geregelt sein, dass Patente, die im Interesse der Oeffentlichkeit
-sind, auch der Gesellschaft zugaenglich gemacht werden. Diese Forderung wuerde
+Ich habe keine wissenschaftlichen Beweise für die eine oder die andere Seite,
+aber das Argument klingt für mich erst einmal schlüssig. Das heißt, dass eine
+gerechte Patent-Regelung sowohl Patente erlauben muss, als auch deren
+Vorenthaltung zum Nutzen der Öffentlichkeit verboten sein muss. Es sollte
+gesetzlich geregelt sein, dass Patente, die im Interesse der Öffentlichkeit
+sind, auch der Gesellschaft zugänglich gemacht werden. Diese Forderung würde
 aber ebenfalls wieder das Problem des fehlenden Anreizes verursachen. Daher
-waere meine Idee folgende: Je nach Kategorie, kann ein Erfinder ein Patent fuer
+wäre meine Idee folgende: Je nach Kategorie, kann ein Erfinder ein Patent für
 eine gewisse Zeit halten, um davon zu profitieren. Bei Medizin sollte dieser
-Zeitrahmen sehr kurz sein. Bei Waschmaschinen kann er ruhig deutlich laenger
+Zeitrahmen sehr kurz sein. Bei Waschmaschinen kann er ruhig deutlich langer
 sein. Sobald der Zeitraum abgelaufen ist, wird das Patent vom Staat abgekauft,
 wogegen nichts getan werden kann. Allerdings wird der Preis anhand des zuvor
 erbrachten Gewinns ermittelt. Dadurch entsteht ein Schutz vor einer
-Muell-Patent-Flutung, gleichzeitig werden wertvolle Patente entsprechend
+Müll-Patent-Flutung, gleichzeitig werden wertvolle Patente entsprechend
 entlohnt. Der Faktor, der zur Berechnung genutzt wird, ist dabei
-unterschiedlich hoch, so dass z. B. Medizin einen hoeheren Faktor bekommt als
+unterschiedlich hoch, sodass z. B. Medizin einen höheren Faktor bekommt als
 Waschmaschinen, wodurch ein besonderer Anreiz im Erfinden von gesellschaftlich
-nuetzlichen Patenten steckt. Patente koennen auch freiweillig frueher abgegeben
-werden. Wie das entlohnt werden koennte, muss diskutiert werden. So koennten z.
-B. fuer Privatpersonen Gutscheine gegeben werden, solange diese im Einklang mit
+nützlichen Patenten steckt. Patente können auch freiwillig früher abgegeben
+werden. Wie das entlohnt werden könnte, muss diskutiert werden. So könnten z.
+B. für Privatpersonen Gutscheine gegeben werden, solange diese im Einklang mit
 dem Naturschutz sind, eine Art Treuepunkte-System, das sich aber auch lohnen
 muss.
 
 **Sparen & die Rolle der Banken**
 
-Fuer die meisten Menschen funktionieren Banken wie eine Art Tresor. Man kann
+Für die meisten Menschen funktionieren Banken wie eine Art Tresor. Man kann
 dort Geld aufbewahren und bei Bedarf abbuchen und verwenden. Im Freigeldsystem
-wird es immernoch Banken geben, aber ihre Rolle wird sich in eine Art
-Umschlagplatz fuer Geld verwandeln.
+wird es immer noch Banken geben, aber ihre Rolle wird sich in eine Art
+Umschlagplatz für Geld verwandeln.
 
-Menschen werden immernoch sparen koennen, da sie ihr Geld zur Bank bringen. Das
-Problem, das Freigeld loesen soll, ist nicht die Anhaeufung per se, sondern die
+Menschen werden immer noch sparen können, da sie ihr Geld zur Bank bringen. Das
+Problem, das Freigeld lösen soll, ist nicht die Anhäufung per se, sondern die
 Entnahme des Geldes aus dem Geldfluss. Wenn man einer Bank nun Geld gibt, dann
 verliert das Geld trotzdem am Ende einer Zeitspanne einen gewissen Wert, aber
 das ist dann das "Problem" der Bank.
 
 Ich habe hierzu einen interessanten Vergleich gelesen: Wenn man jemandem einen
-Apfel leiht, dann erwartet man, dass man nicht den selben Apfel zurueckbekommt,
-sondern einen neuen. Trotzdem hat der Wert des Apfels, der urspruenglich
+Apfel leiht, dann erwartet man, dass man nicht denselben Apfel zurückbekommt,
+sondern einen neuen. Trotzdem hat der Wert des Apfels, der ursprünglich
 verliehen wurde, abgenommen. Das Geld, das man der Bank geliehen hat, muss als
 in gleicher Menge wieder abhebbar sein. Aufgabe der Bank ist es also, das Geld,
 das sie bekommt, wieder in Umlauf zu bringen. Das kann sie dadurch machen, in
-dem sie Kredite vergibt, welche gegen eine Gebuehr ausgegeben wird. Auf diese
+dem sie Kredite vergibt, welche gegen eine Gebühr ausgegeben wird. Auf diese
 Weise sichert sich die Bank ihre Gewinne und das Geld bleibt im Umlauf.
 
 Technisch betrachtet gibt man der Bank einen Kredit, wenn man ihr das eigene
 Geld leiht. Die Bank verpflichtet sich, das Geld wieder in vollem Umfang
-zurueckzugeben. Damit Banken in diesem Sinne funktionieren koennen, koennen sie
+zurückzugeben. Damit Banken in diesem Sinne funktionieren können, können sie
 aber keinen Zins auf das angelegte Geld geben, da sie sonst einem permanenten
-Wachstumszwang unterlaegen und sich in einem Schwundgeldsystem dadurch selbst
-in den Ruin treiben.
+Wachstumszwang unterlägen und sich in einem Schwundgeldsystem dadurch selbst in
+den Ruin treiben.
 
-Eine Person mit Geld, die also ihr Geld zur Verfuegung stellt, erhaelt also,
-anstatt ueber Zinsen Gewinne zu erzielen, die Garantie, dass das Ersparte nicht
+Eine Person mit Geld, die also ihr Geld zur Verfügung stellt, erhält also,
+anstatt über Zinsen Gewinne zu erzielen, die Garantie, dass das Ersparte nicht
 an Wert verliert, also ein Entkommen vom Negativzins.
 
-### Gefahren eines Wechsel des Geldsystems
+### Gefahren eines Wechsels des Geldsystems
 
-Es gibt Argumente, die dagegen sprechen, das Geldsystem zu aendern. Einige
-davon haben durchaus ihre Berechtigung. Das bedeutet, das ein neues Geldsystem
-Loesungen anbieten muss, damit diese Probleme nicht auftreten.
+Es gibt Argumente, die dagegen sprechen, das Geldsystem zu ändern. Einige davon
+haben durchaus ihre Berechtigung. Das bedeutet, dass ein neues Geldsystem
+Lösungen anbieten muss, damit diese Probleme nicht auftreten.
 
-#### Problem 1: Die Firmen wuerden auswandern und dadurch gingen Arbeitsplaetze verloren
+#### Problem 1: Die Firmen würden auswandern und dadurch gingen Arbeitsplätze verloren
 
 ---
 
 ### Tauschmittelfunktion
 
-Die Bundesbank erklaert die Notwendigkeit einer Tauschmittelfunktioni
-folgendermassen:
+Die Bundesbank erklärt die Notwendigkeit einer Tauschmittelfunktion
+folgendermaßen:
 
 > Geld dient in erster Linie als Tausch- oder Zahlungsmittel. Ware gegen Ware
 > zu tauschen ist umständlich. Ohne Geld wären lange Tauschketten nötig, bis
@@ -472,43 +491,33 @@ folgendermassen:
 > Ware direkt gegen Geld getauscht werden kann.
 > [Was ist Geld?](https://www.bundesbank.de/de/service/schule-und-bildung/erklaerfilme/was-ist-geld--800972#:~:text=Entscheidend%20ist%2C%20dass%20es%20allgemein,Ware%20zu%20tauschen%20ist%20umst%C3%A4ndlich.)
 
-Es leuchtet ein, dass Geld also 
+Es leuchtet ein, dass Geld also
 
 Die meisten Menschen betrachten Geld lediglich als ein Tauschmittel. Das ist
-insofern bemerkenswert, da sie alle versuchen, Geld anzusparen. Durch das
-Sparen wird Geld ausserdem zum Wert-Aufbewahrungsmittel, denn es transportiert
-einen gewissen Wert, z. B. 100 Euro, in die Zukunft. Der eine
-Hunder-Euro-Schein wird auch in einem Jahr noch 100 Euro wert sein. Dadurch
-bekommt Geld selbst einen Wert. Das ist wichtig zu verstehen, ich werde nachher
-genauer darauf eingehen. Ein Hunter-Euro-Schein ist also 100 Euro wert plus dem
-Wert, den ich ihm zuschreibe, weil ich es behalten kann. Ich koennte statt der
-100 Euro auch einen Fernseher fuer 100 Euro kaufen. Den werde ich allerdings
-nicht wieder fuer 100 Euro in der Zukunft verkaufen koennen.
+bemerkenswert, da sie alle versuchen, Geld anzusparen. Durch das Sparen wird
+Geld außerdem zum Wert-Aufbewahrungsmittel, denn es transportiert einen
+gewissen Wert, z. B. 100 Euro, in die Zukunft. Der eine 100-Euro-Schein wird
+auch in einem Jahr noch 100 Euro wert sein. Dadurch bekommt Geld selbst einen
+Wert. Das ist wichtig zu verstehen, ich werde nachher genauer darauf eingehen.
+Ein 100-Euro-Schein ist also 100 Euro wert plus dem Wert, den ich ihm
+zuschreibe, weil ich es behalten kann. Ich könnte statt der 100 Euro auch einen
+Fernseher für 100 Euro kaufen. Den werde ich allerdings nicht wieder für 100
+Euro in der Zukunft verkaufen können.
 
-Die Funktionen, die Geld erfuellen soll, sind fuer die Meisten die Folgenden:
-* Erleichterung von Tausch (kein Tauschhandel, also z. B. Schuhe fuer Fleisch,
+Die Funktionen, die Geld erfüllen soll, sind für die Meisten die Folgenden:
+* Erleichterung von Tausch (kein Tauschhandel, also z. B. Schuhe für Fleisch,
   mehr)
-* Stabilitaetsgarantie fuer die Wirtschaft
+* Stabilitätsgarantie für die Wirtschaft
 
-## Die Funktionen, die Geld in der modernen, globalisierten Welt erfuellt
-
-* Foerderung der Konzentration von Reichtum
-* Befoerdert das Ausbeuten der Natur fuer Profite (zu Lasten von Umwelt und
-  Klima)
-* Befoerdert das Ausbeuten von Menschen fuer Profite (Lohnabhaengigkeit,
-  moderne Sklaverei und Krieg)
-
-## Erforderliche Bedingungen, damit Geld seine eigentliche Funktionen erfuellen kann
-
-## Der Zusammenhang zwischen Oekonomie, Politik und Geostrategie
+## Der Zusammenhang zwischen Ökonomie, Politik und Geostrategie
 
 Das Buch mit dem Titel
 [Finanz-Tsunami](https://www.google.de/books/edition/Finanz_Tsunami/bdz2swEACAAJ?hl=de)
-von Ernst Wolff erklaert sehr anschaulich, "[w]ie das globale Finanzsystem uns
+von Ernst Wolff erklärt sehr anschaulich, "[w]ie das globale Finanzsystem uns
 alle bedroht" (Untertitel des Buches). Im [Interview mit
 KenFM](https://apolut.net/ernst-wolff/) stellt Herr Wolff die geschichtlichen
-Zusammenhaenge von Geldsystem und Politik/Geostrategie dar, sodass man bereits
-einen guten Ueberblick ueber die Inhalte des Buchs bekommt.
+Zusammenhänge von Geldsystem und Politik/Geostrategie dar, sodass man bereits
+einen guten Überblick über die Inhalte des Buchs bekommt.
 
 ## Geschichte
 
@@ -520,35 +529,6 @@ Siehe [57:50 ' 'Interview mit Ken Jebsen](https://apolut.net/bernd-senf/)
 von Karl Walker
 
 ## Alternative Geldtheorien
-
-### Planwirtschaft
-
-### Freigeld
-
-Diese Idee wurde von Silvio Gesell entwickelt. Die Idee ist relativ simpel:
-Geld soll rosten, also ueber Zeit an Wert verlieren. So kann man z. B. fuer
-Banknoten am Ende des Monats einen Stempel kaufen muessen, wodurch aus einer
-Geldmenge X (Wert der Banknote + Gebuehren) eine geringere Geldmenge (Wert der
-Banknote) entsteht. Sind alle Stellen fuer Stempel voll, verliert der
-Geldschein seinen Wert komplett.
-
-Dieser Vorgang hat weitreichende Implikationen:
-
-* Geld kann nicht mehr einfach so gehortet werden, da die Hortung einen
-  Wertverlust bedeuten wuerde
-  * Als Konsequenz kann Geld nicht mehr erpresserisch von den Kapitalbesitzern
-    benutzt werden, die es nur gegen einen Zins herausgeben moechten
-* Banken koennen zwar Geld aufbewahren (dazu unten mehr), ohne dass man dadurch
-  Geld verliert, aber das wird immer nur fuer einen Teil des Geldes moeglich
-  sein.
-  * Da man immer nur einen Teil seines Geldes sparen kann, wird man das
-    restliche Geld ausgeben wollen, da es ja sonst an Wert verlieren wuerde.
-    Dabei spielt es keine Rolle, wofuer es ausgegeben wird, z. B. zum Konsum,
-    fuer Kunst/Kultur oder als Investment, z. B. in andere Waehrungen
-
-Karl Walker meint, dass es ein aehnliches Prinzip bereits im Mittelalter in
-Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger
-Antrieb des damaligen Aufschwungs gewesen sein koennt.
 
 # Notizen
 
