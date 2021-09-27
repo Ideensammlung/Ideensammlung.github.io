@@ -247,34 +247,32 @@ und die Ökonomie, als eine ganze Ökonomie-Theorie.
 
 Die Freiwirtschaft ist eine ökonomische Theorie von Silvio Gesell. Gesell hatte
 sich in Lateinamerika damit beschäftigt, warum Ökonomien Probleme wie
-Rezessionen und Wirtschaftskrisen haben.  Seine Loesungen sind relativ simpel
-und werden in drei Gruppen unterteil
+Rezessionen und Wirtschaftskrisen haben. Seine Lösungen sind relativ simpel und
+werden in drei Gruppen unterteilt.
 
 #### Zusammenfassung
 
-* Freigeld bezeichnet eine Waehrungsreform in der Geld ueber Zeit an Wert
+* Freigeld bezeichnet eine Währungsreform, in der Geld über Zeit an Wert
   verliert.
-  * Dies soll der Umlaufsichering dienen, Zinsen verhindern (also die
-    Machtgrundlage der besitzenden Klasse ueber die besitzlose Klasse) und
-    sogar Wirtschaftskrisen verhinden, da Inflation und Deflation unterbunden
-    werden
-* Freiland fordert die Ueberfuehrung des Bodens an den Staat, damit das von der
-  Natur bereitgestellt Gut der Allgemeinheit zur Verfuegung steht und die
-  besitzende Klasse keine Ausweichmoeglichkeit auf Boden hat, welche die Preise
-  sprengen wuerde
+  * Dies soll der Umlaufsicherung dienen, Zinsen verhindern (also die
+    Machtgrundlage der besitzenden Klasse über die besitzlose Klasse) und sogar
+    Wirtschaftskrisen verhindern, da Inflation und Deflation unterbunden werden
+* Freiland fordert die Überführung des Bodens an den Staat, damit das von der
+  Natur bereitgestellt Gut der Allgemeinheit zur Verfügung steht und die
+  besitzende Klasse keine Ausweichmöglichkeit auf Boden hat, welche die Preise
+  sprengen würde
 * Freihandel ist in so ziemlich allen wirtschaftlichen Theorien gefordert, so
-  auch hier. Also nicht wirklich etwas neues
+  auch hier. Also nicht wirklich etwas Neues
 
-#### Freigeld
+##### Freigeld
 
 Geld soll rosten, also über Zeit an Wert verlieren. So kann man z. B. für
 Banknoten am Ende des Monats einen Stempel kaufen müssen, wodurch aus einer
 Geldmenge X (Wert der Banknote + Gebühren) eine geringere Geldmenge (Wert der
 Banknote) entsteht. Sind alle Stellen für Stempel voll, verliert der Geldschein
-seinen Wert komplett.
-Das Geld ist ausserdem nicht mehr an Gold gekoppelt, da eine Goldknappheit fuer
-Deflation, Goldueberschuss fuer Inflation sorgen koennten und die Goldmenge
-nicht im gleichen Masse wachsen kann wie eine Wirtschaft.
+seinen Wert komplett. Das Geld ist außerdem nicht mehr an Gold gekoppelt, da
+eine Goldknappheit für Deflation, Goldüberschuss für Inflation sorgen könnten
+und die Goldmenge nicht im gleichen Masse wachsen kann wie eine Wirtschaft.
 
 Dieser Vorgang hat weitreichende Implikationen:
 
@@ -290,25 +288,23 @@ Dieser Vorgang hat weitreichende Implikationen:
     Dabei spielt es keine Rolle, wofür es ausgegeben wird, z. B. zum Konsum,
     für Kunst/Kultur oder als Investment, z. B. in andere Währungen
 
-Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in
-Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger
-Antrieb des damaligen Aufschwungs gewesen sein könnt.
+Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger Antrieb des damaligen Aufschwungs gewesen sein könnt.
 
-#### Freiland
+##### Freiland
 
-Neben dem Leistungslosen Einkommen durch Zinsen gibt es auch ein leistungsloses
-Einkommen durch den Besitz von Land, welches Gesell "Bodenrente" nennt.
-Nach Gesell ist Boden ein von der Natur bereitgestelltes Gut und sollte daher
-der Allgemeinheit zur Verfuegung stehen. Es soll also nicht mehr privates
-Eigentum sein koennen.
+Neben dem leistungslosen Einkommen durch Zinsen gibt es auch ein leistungsloses
+Einkommen durch den Besitz von Land, welches Gesell "Bodenrente" nennt. Nach
+Gesell ist Boden ein von der Natur bereitgestelltes Gut und sollte daher der
+Allgemeinheit zur Verfügung stehen. Es soll also nicht mehr privates Eigentum
+sein können.
 
-Wer Land braucht, kann es vom Staat mieten. Die Einkuenfte, die durch das
-Vermieten entstehen, kommen dem Staat zu Gute, wodurch er mehr Geld zum
+Wer Land braucht, kann es vom Staat mieten. Die Einkünfte, die durch das
+Vermieten entstehen, kommen dem Staat zugute, wodurch er mehr Geld zum
 Wirtschaften hat.
 
-Die Gebaeude und alles andere, das auf diesem Boden sein kann, darf allerdings
-privates Eigentum sein. D. h. dass die Gebaeude auch entsprechend vermietet
-werden koennen. Allerdings muss der Besitzer entsprechend eine Bodenmiete
+Die Gebäude und alles andere, das auf diesem Boden sein kann, darf allerdings
+privates Eigentum sein. D. h., dass die Gebäude auch entsprechend vermietet
+werden können. Allerdings muss der Besitzer entsprechend eine Bodenmiete
 zahlen.
 
 > Diese Bodenreform bedingt die Schaffung einer rechtlichen Trennung zwischen
@@ -352,14 +348,14 @@ Wikipedia schreibt hierzu:
 
 #### Anmerkung
 
-Ein in dieser Idee noch fehlendes Konzept ist das der Freiressourcen. Obowhl
-fuer Deutschland nicht so relevant wie fuer andere Laender, muessen die
-Ressourcen eines Landes zum Wohle der Bevoelkerung genutzt werden. D. h., dass
-der Abbau und Verkauf von Ressourcen nicht in privater Hand sein darf.
+Ein in dieser Idee noch fehlendes Konzept ist das der Freiressourcen. Obwohl
+für Deutschland nicht so relevant wie für andere Länder, müssen die Ressourcen
+eines Landes zum Wohle der Bevölkerung genutzt werden. D. h., dass der Abbau
+und Verkauf von Ressourcen nicht in privater Hand sein darf.
 
-Man sieht an den Rohstoffen der Welt welches Elend der private Sektor in diesem
-Feld produziert. Die oelreichsten Laender haben die groessten Probleme, da sich
-die Imperien um diese Rohstoffe streiten.
+Man sieht an den Rohstoffen der Welt, welches Elend der private Sektor in
+diesem Feld produziert. Die ölreichen Länder haben die größten Probleme, da
+sich die Imperien um diese Rohstoffe streiten.
 
 ### Gradido
 
@@ -369,53 +365,53 @@ die Imperien um diese Rohstoffe streiten.
 > 
 > [Gradido ebook; Seite 82; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-Wer das Prinzip des Freigelds bereits verstanden hat, muesste von diesem System
+Wer das Prinzip des Freigelds bereits verstanden hat, müsste von diesem System
 eigentlich fasziniert sein. Es garantiert einen permanenten Umlauf von Geld,
-wodurch die meisten Menschen mehr Geld benutzen koennen als momentan.
-Gleichzeitig muessen keine Steuern gezahlt werden. Das heisst, man hat noch
-einmal mehr Geld zur Verfuegung.
+wodurch die meisten Menschen mehr Geld benutzen können als momentan.
+Gleichzeitig müssen keine Steuern gezahlt werden. Das heißt, man hat noch
+einmal mehr Geld zur Verfügung.
 
-Damit das System aber nicht in Massenkonsum und kompletter Umweltzerstoerung
-hinauslaeuft, gibt es einen Umweltfond. Dieser Umweltfond ist genauso hoch wie
+Damit das System aber nicht in Massenkonsum und kompletter Umweltzerstörung
+hinausläuft, gibt es einen Umweltfonds. Dieser Umweltfonds ist genauso hoch wie
 der Staatshaushalt, also gewaltig. Damit kann eine umweltfreundliche Industrie
-gefoerdert werden, da es einen enormen finanziellen Anreiz gibt.
+gefördert werden, da es einen enormen finanziellen Anreiz gibt.
 
 Gradido ist also eine Erweiterung des Freigelds, da nahezu alle Konzepte
-uebernommen wurden.
+übernommen wurden.
 
 ##### Zusammenfassung
 
-* Die Waehrung heisst "Gradido"
-* Die Geld geht in einem definierten Zeitabstand kaputt. Gleichzeitig wird
-  genau so viel Geld erstellt (geschoepft), wie kaputt geht
-  * Dieses Geld entsteht, im Gegensatz zu heute, nicht aus Schulden<br />
-    => Es gibt keine Staatsschulden durch Geldschoepfung
-  * Geld wird so verteilt/zerstoert, dass jede Person mit ungefaehr
+* Die Währung heißt "Gradido"
+* Das Geld geht in einem definierten Zeitabstand kaputt. Gleichzeitig wird
+  genau so viel Geld erstellt (geschöpft), wie kaputtgeht
+  * Dieses Geld entsteht, im Gegensatz zu heute, nicht aus Schulden ⇨ Es gibt
+    keine Staatsschulden durch Geldschöpfung
+  * Geld wird so verteilt/zerstört, dass jede Person mit ungefähr
     sechzigtausend Gradido herauskommt (wer mehr hat, der verliert mehr bei der
     Entwertung, wer weniger hat, verliert weniger als entwertet wird)
 * Das neue Geld wird gedreiteilt und in drei Funktionen aufgeteilt
   * Aktives Grundeinkommen
   * Finanzierung des Staatshaushalts (beinhaltet Sozialleistungen wie
     Krankenversicherung)
-  * Fond fuer Umweltschutz und -restaurierung
+  * Fond für Umweltschutz und -restaurierung
 * Es gibt keine Steuern, da der Staatshaushalt jeden Monat durch das neue Geld
   finanziert wird
 * Kredite sind zinsfrei. Die Idee des Kredits ist nicht die Geldvermehrung
   (leistungsloses Einkommen, das nur wenigen in der Gesellschaft nutzt),
   sondern der Werterhalt (anstatt dass Geld vernichtet wird, verleiht man es
-  und bekommt den gleichen Betrag zurueck)
+  und bekommt den gleichen Betrag zurück)
 * Es gibt keine Schulden. Niemand kann weniger als 0 Gradido auf dem Konto
-  haben; Dies ist angelehnt an die Natur, in der es auch kein "Negativ" gibt
+  haben; dies ist angelehnt an die Natur, in der es auch kein "Negativ" gibt
 
 Durch die Entwertung von Geld ist jeder bestrebt sein Geld entweder auszugeben
-oder zu verleihen. Dadurch ist Geld staendig im Umlauf, wodurch jeder auch mehr
-Geld bekommt. Denn auch Unternehmen muessen wir Geld irgendwie wieder
-loswerden. Das geht durch Lohnsteigerungen, Neuanstellungen, Reinvestition,
-Gewinnausschuettung an Angestellt, usw.  Wer dennoch mehr Geld braucht, kann
-sich einfach einen Kredit nehmen. Ausserdem soll eine Schenkwirtschaft
+oder zu verleihen. Dadurch ist Geld ständig im Umlauf, wodurch jeder auch mehr
+Geld bekommt. Denn auch Unternehmen müssen wir Geld irgendwie wieder loswerden.
+Das geht durch Lohnsteigerungen, Neuanstellungen, Reinvestition,
+Gewinnausschüttung an Angestellte, usw. Wer dennoch mehr Geld braucht, kann
+sich einfach einen Kredit nehmen. Außerdem soll eine Schenkwirtschaft
 entstehen. In diesem Punkt bin ich mir nicht sicher, ob das realisierbar ist,
-da dies etwas mit dem Gesellschaftlichen Zustand zu tun hat und nicht mit dem
-oekonoemischen System.
+da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
+ökonomischen System.
 
 ##### Das Dreifache Wohl
 
@@ -566,19 +562,20 @@ oekonoemischen System.
 ###### Zusammenfassung
 
 > Halten wir fest:
-* * Die dreifache Geldschöpfung bildet zusammen mit der Vergänglichkeit ein
-*   selbstregulierendes System, das die Geldmenge konstant hält. Die Geldmenge
-*   kann nicht verändert werden, weder durch Schulden noch durch Spekulationen
-*   noch durch irgendwelche anderen Manipulationen.
-* * Der Kreislauf von Werden und Vergehen ist Naturgesetz. Wird dieses Naturgesetz
-*   nicht freiwillig in das Geld- Wirtschaftssystem integriert, so bekommen wir es
-*   unfreiwillig und schmerzhaft zu spüren – in Form von Wirtschafts- und
-*   Finanzkrisen, Inflation, Geldcrash, Not, Hunger, Krankheiten, Kriegen und
-*   Naturkatastrophen.
-* * Da der Kreislauf von Werden und Vergehen als fester Bestandteil in der
-*   Natürlichen Ökonomie des Lebens integriert ist, bleiben die oben genannten
-*   unfreiwilligen Formen der Vergänglichkeit aus oder werden zumindest stark
-*   abgemildert.
+>
+> * Die dreifache Geldschöpfung bildet zusammen mit der Vergänglichkeit ein
+>   selbstregulierendes System, das die Geldmenge konstant hält. Die Geldmenge
+>   kann nicht verändert werden, weder durch Schulden noch durch Spekulationen
+>   noch durch irgendwelche anderen Manipulationen.
+> * Der Kreislauf von Werden und Vergehen ist Naturgesetz. Wird dieses Naturgesetz
+>   nicht freiwillig in das Geld- Wirtschaftssystem integriert, so bekommen wir es
+>   unfreiwillig und schmerzhaft zu spüren – in Form von Wirtschafts- und
+>   Finanzkrisen, Inflation, Geldcrash, Not, Hunger, Krankheiten, Kriegen und
+>   Naturkatastrophen.
+> * Da der Kreislauf von Werden und Vergehen als fester Bestandteil in der
+>   Natürlichen Ökonomie des Lebens integriert ist, bleiben die oben genannten
+>   unfreiwilligen Formen der Vergänglichkeit aus oder werden zumindest stark
+>   abgemildert.
 >
 > [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
@@ -604,6 +601,8 @@ oekonoemischen System.
 
 ##### Schenkwirtschaft & Freies Schenken
 
+@TODO: Inhalt fehlt
+
 ##### Offene Frage und ein bisschen Kritik am Gradido-System:
 
 * Offene Frage: Am Anfang jedes Schöpfungs-/Entwertungs-Zyklus soll für jeden
@@ -613,33 +612,32 @@ oekonoemischen System.
   Bruttosozialprodukt schneller/langsamer als die Bevölkerung wächst oder was,
   wenn das Bruttosozialprodukt schrumpft?
 * Kritikpunkt: Open Source: Freie Forschung und Entwicklung<br />
-  Das Gradidomodell schlaegt vor: "Open Source für alle Forschungsgebiete. Wir
+  Das Gradidomodell schlägt vor: "Open Source für alle Forschungsgebiete. Wir
   brauchen freie Forschung, freie Entwicklung, freies Denken und – freies
-  Schenken". Meine Einwaende sind etwas weiter unten unter dem Punkt
-  ["Patente"][?id=patente] zu finden
-* Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen. Das Phänomen des
-  Erschaffens und Zerfalls ist ein sehr wertvolles Element in der
-  Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen oder
-  gefressen werden" ist auch Teil der Natur. Die Aussortierung der Schwachen
-  ist ebenfalls Teil der Natur. Ständiges Wachstum findet auch innerhalb einer
-  Spezies, wie z. B. Ameisen statt. Anstatt dass aber die ganze Welt von
-  Ameisen überhäuft ist, töten sich diese gegenseitig. Das ist natürlich nicht
-  der Gedanke hinter Gradido und auch nicht Teil des von ihnen konzipierten
-  Wirtschaftssystems, aber man kann schlecht mit dem Argument der Orientierung
-  an Natur überzeugen, wenn nur selektiv Konzepte der Natur entnommen werden.
-  Auch Massenaussterben sind Teil der Natur.<br />
-  Allerdings aendert diese Einschaetzung nichts daran, dass ich die Idee sehr
-  gut finde. Ich glaube allerdings, dass man an der Kommunikation arbeiten
-  kann. Viele Menschen sind fuer die Art und Weise, wie Gradido kommuniziert,
-  nicht offen.
+  Schenken". Meine Einwände sind etwas weiter unten unter dem Punkt
+  ["Patente"](./src/geldsystem?id=patente) zu finden
+* Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen.<br />
+  Das Phänomen des Erschaffens und Zerfalls ist ein sehr wertvolles Element in
+  der Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen
+  oder gefressen werden" ist auch Teil der Natur. Die Aussortierung der
+  Schwachen ist ebenfalls Teil der Natur. Ständiges Wachstum findet auch
+  innerhalb einer Spezies, wie z. B. Ameisen statt. Anstatt dass aber die ganze
+  Welt von Ameisen überhäuft ist, töten sich diese gegenseitig. Das ist
+  natürlich nicht der Gedanke hinter Gradido und auch nicht Teil des von ihnen
+  konzipierten Wirtschaftssystems, aber man kann schlecht mit dem Argument der
+  Orientierung an Natur überzeugen, wenn nur selektiv Konzepte der Natur
+  entnommen werden.  Auch Massenaussterben sind Teil der Natur.  Allerdings
+  ändert diese Einschätzung nichts daran, dass ich die Idee sehr gut finde. Ich
+  glaube allerdings, dass man an der Kommunikation arbeiten kann. Viele
+  Menschen sind für die Art und Weise, wie Gradido kommuniziert, nicht offen.
 * Kritikpunkt: Freies Schenken<br />
   Ich glaube, das ist ein Ideal, das entweder noch nicht ein Teil der aktuellen
-  Gesellschaft ist oder niemals eines sein wird. Es ist auf jeden Fall eine
+  Gesellschaft ist oder niemals eines sein wird.  Es ist auf jeden Fall eine
   Idee, die auch innerhalb des Systems auf Freiwilligkeit beruht, nicht auf
   Motivation. Deswegen darf dieses Thema nicht forciert werden, sondern kann
-  nur beworben werden. Es kann nicht ein zentraler Stuetzpfeiler der
-  Geldtheorie sein, sondern muss eine Option, die sich eventuell sogar durch
-  eine neu entstandene Gesellschaftsdynamik an Attraktivitaet gewinnt.
+  nur beworben werden. Es kann nicht ein zentraler Stützpfeiler der Geldtheorie
+  sein, sondern muss eine Option, die sich eventuell sogar durch eine neu
+  entstandene Gesellschaftsdynamik an Attraktivität gewinnt.
 
 ## Eigene Gedanken
 
@@ -811,15 +809,15 @@ an Wert verliert, also ein Entkommen vom Negativzins.
 
 ### Zyklisches Reflektieren
 
-Die Welt viel zu komplex ist um Vorhersagen ueber die Entwicklung eines Systems
-machen kann. Daher ist es notwendig, als Gesellschaft regelmaessig ueber die
-Erfolge und Missstaende zu diskutieren. Und dieses Reflektieren ist gerade beim
-Geldsystem besonderns wichtig. Zum einen da es direkt das Leben jedes einzelnen
-betrifft, zum anderen weil es einer der einfachsten Angriffspunkte fuer
-Manipulation zu Gunsten einer kleinen Gruppe ist.
+Die Welt ist viel zu komplex, um Vorhersagen über die Entwicklung eines Systems
+machen kann. Daher ist es notwendig, als Gesellschaft regelmäßig über die
+Erfolge und Missstände zu diskutieren. Und dieses Reflektieren ist gerade beim
+Geldsystem besonders wichtig. Zum einen, da es direkt das Leben jedes einzelnen
+betrifft, zum anderen, weil es einer der einfachsten Angriffspunkte für
+Manipulation zugunsten einer kleinen Gruppe ist.
 
-Meiner Meinung nach macht es Sinn, in einem definierten, festgelegten Abstand,
-einen Konvent einzuberufen, der versucht, den aktuellen Zustand zu evaluieren
+Meiner Meinung nach ergibt es Sinn, in einem definierten, festgelegten Abstand,
+einen Konvent einzuberufen, der versucht, den aktuellen Zustand zu evaluieren,
 um eventuelle Gefahren zu finden und Verbesserungen festzustellen.
 
 Wichtig ist, dass diese Evaluation durch ein Konvent stattfindet, anstatt dass
@@ -832,7 +830,7 @@ Es gibt Argumente, die dagegen sprechen, das Geldsystem zu ändern. Einige davon
 haben durchaus ihre Berechtigung. Das bedeutet, dass ein neues Geldsystem
 Lösungen anbieten muss, damit diese Probleme nicht auftreten.
 
-#### Problem 1: Die Firmen würden auswandern und dadurch gingen Arbeitsplätze verloren
+* Problem 1: Die Firmen würden auswandern und dadurch gingen Arbeitsplätze verloren
 
 ---
 ---
