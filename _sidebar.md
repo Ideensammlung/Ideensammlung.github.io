@@ -1,5 +1,5 @@
 
-- [Homepage](README.md?id=ideensammlung)
+- [Homepage](?id=ideensammlung)
 - [Vorwort](preface.md?id=vorwort)
 - [<span class="underline">Verfassung</span>](src/constitution?id=verfassung)
 - [Demokratie](src/demokratie?id=demokratie)

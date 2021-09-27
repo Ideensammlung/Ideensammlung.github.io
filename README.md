@@ -1,4 +1,5 @@
-Eine ordentliche Darstellung kann hier gefunden werden: [Github pages](https://ideensammlung.github.io/)
+Eine ordentliche Darstellung kann hier gefunden werden: [Github
+pages](https://ideensammlung.github.io/#/?id=ideensammlung)
 
 # Ideensammlung
 
