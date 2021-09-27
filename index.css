@@ -14,3 +14,8 @@
 .underline {
   text-decoration: underline;
 }
+
+.markdown-section li > blockquote,
+.markdown-section li > blockquote > p {
+  margin: 0;
+}

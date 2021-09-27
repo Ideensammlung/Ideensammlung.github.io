@@ -140,11 +140,11 @@ aufnehmen müssen:
   * [Fehler im Geldsystem](https://www.youtube.com/watch?v=tyic-Q_gJ2w)
 * Geld ist ein zentraler Anreiz für Kriege
   * [What You Are Not Being Told About the Afghanistan War](https://www.corbettreport.com/what-you-are-not-being-told-about-the-afghanistan-war/)
-  * Zitat:
+  * [Gradido ebook](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)<br />
     > Es gibt wohl kaum etwas Lebensfeindlicheres auf dieser Welt, als das
     > aktuelle Geldsystem. Alle Kriege und alle von Menschen gemachten
     > Katastrophen sind direkte oder indirekte Folgen davon.<br />
-    > [Gradido ebook; Seite 64; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+    > -- Seite 64
 * Geld ist ein zentraler Anreiz, Armut ein zentraler Faktor für (moderne) Sklaverei
   * [Unsichtbare Hände - Sklaverei heute im 21. Jahrhundert](https://www.youtube.com/watch?v=oLlMhPONVY4)<br />
     Zitat: "Ist Sklaverei etwa ein Element globaler Wirtschaft geworden?
@@ -245,14 +245,36 @@ und die Ökonomie, als eine ganze Ökonomie-Theorie.
 
 ### Freiwirtschaft - Natürliche Wirtschaftsordnung
 
-Die Freiwirtschaft ist eine ökonomische Theorie von Silvio Gesell, welche man
-nicht mit Freihandel verwechseln darf. Gesell hatte sich in Lateinamerika damit
-beschäftigt, warum Ökonomien Probleme wie Rezessionen und Wirtschaftskrisen
-haben. Die Idee ist relativ simpel: Geld soll rosten, also über Zeit an Wert
-verlieren. So kann man z. B. für Banknoten am Ende des Monats einen Stempel
-kaufen müssen, wodurch aus einer Geldmenge X (Wert der Banknote + Gebühren)
-eine geringere Geldmenge (Wert der Banknote) entsteht. Sind alle Stellen für
-Stempel voll, verliert der Geldschein seinen Wert komplett.
+Die Freiwirtschaft ist eine ökonomische Theorie von Silvio Gesell. Gesell hatte
+sich in Lateinamerika damit beschäftigt, warum Ökonomien Probleme wie
+Rezessionen und Wirtschaftskrisen haben.  Seine Loesungen sind relativ simpel
+und werden in drei Gruppen unterteil
+
+#### Zusammenfassung
+
+* Freigeld bezeichnet eine Waehrungsreform in der Geld ueber Zeit an Wert
+  verliert.
+  * Dies soll der Umlaufsichering dienen, Zinsen verhindern (also die
+    Machtgrundlage der besitzenden Klasse ueber die besitzlose Klasse) und
+    sogar Wirtschaftskrisen verhinden, da Inflation und Deflation unterbunden
+    werden
+* Freiland fordert die Ueberfuehrung des Bodens an den Staat, damit das von der
+  Natur bereitgestellt Gut der Allgemeinheit zur Verfuegung steht und die
+  besitzende Klasse keine Ausweichmoeglichkeit auf Boden hat, welche die Preise
+  sprengen wuerde
+* Freihandel ist in so ziemlich allen wirtschaftlichen Theorien gefordert, so
+  auch hier. Also nicht wirklich etwas neues
+
+#### Freigeld
+
+Geld soll rosten, also über Zeit an Wert verlieren. So kann man z. B. für
+Banknoten am Ende des Monats einen Stempel kaufen müssen, wodurch aus einer
+Geldmenge X (Wert der Banknote + Gebühren) eine geringere Geldmenge (Wert der
+Banknote) entsteht. Sind alle Stellen für Stempel voll, verliert der Geldschein
+seinen Wert komplett.
+Das Geld ist ausserdem nicht mehr an Gold gekoppelt, da eine Goldknappheit fuer
+Deflation, Goldueberschuss fuer Inflation sorgen koennten und die Goldmenge
+nicht im gleichen Masse wachsen kann wie eine Wirtschaft.
 
 Dieser Vorgang hat weitreichende Implikationen:
 
@@ -272,7 +294,74 @@ Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in
 Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger
 Antrieb des damaligen Aufschwungs gewesen sein könnt.
 
-#### Gradido
+#### Freiland
+
+Neben dem Leistungslosen Einkommen durch Zinsen gibt es auch ein leistungsloses
+Einkommen durch den Besitz von Land, welches Gesell "Bodenrente" nennt.
+Nach Gesell ist Boden ein von der Natur bereitgestelltes Gut und sollte daher
+der Allgemeinheit zur Verfuegung stehen. Es soll also nicht mehr privates
+Eigentum sein koennen.
+
+Wer Land braucht, kann es vom Staat mieten. Die Einkuenfte, die durch das
+Vermieten entstehen, kommen dem Staat zu Gute, wodurch er mehr Geld zum
+Wirtschaften hat.
+
+Die Gebaeude und alles andere, das auf diesem Boden sein kann, darf allerdings
+privates Eigentum sein. D. h. dass die Gebaeude auch entsprechend vermietet
+werden koennen. Allerdings muss der Besitzer entsprechend eine Bodenmiete
+zahlen.
+
+> Diese Bodenreform bedingt die Schaffung einer rechtlichen Trennung zwischen
+> Boden und darauf befindlichen Einrichtungen analog dem in Deutschland seit
+> 1919 existierenden Erbbaurecht, im Gegensatz zum davon abweichend gegenwärtig
+> generell praktizierten Recht, das nicht zwischen Boden und Bauten
+> unterscheidet, sondern beides zusammen als Grundstück bezeichnet und
+> rechtlich als Ganzes behandelt.
+>
+> Mit der neuen Ordnung wären Handel und Spekulation mit Boden nicht mehr
+> möglich, nach wie vor jedoch Kauf und Verkauf der privaten Einrichtungen.
+> Beim Verkauf eines Bauwerks müsste der Käufer vom Verkäufer auch den
+> Bodennutzungsvertrag mit der betreffenden Behörde übernehmen.
+>
+> Eine Bodenreform nach freiwirtschaftlichem Modell wäre notwendig, um zu
+> verhindern, dass Großgeldbesitzer, deren leistungslose Einkommen aus Zinsen
+> nach der Einführung von Freigeld beschnitten sein würden, auf den Aufkauf von
+> Grundstücken ausweichen. Dadurch würden die Grundstückspreise in
+> unermessliche Höhen klettern und damit auch die Bodenrente in privater Hand,
+> sehr zum Nachteil aller Übrigen, weil jeder Mensch zum Leben und Arbeiten auf
+> Boden angewiesen ist.
+>
+> [Wikpedia > Freiwirtschaft > Freiland](https://de.wikipedia.org/wiki/Freiwirtschaft#Freiland)
+
+#### Freihandel
+
+Wikipedia schreibt hierzu:
+
+> Ein weiterer Aspekt, der zur Freiwirtschaft gehört, ist der Freihandel. Damit
+> ist die Abschaffung nationaler Wirtschaftsgrenzen gemeint. Da Freihandel von
+> praktisch allen Ökonomen gefordert und befürwortet wird, ist Freihandel der
+> einzige Freiwirtschaftliche Aspekt, der sich soweit global durchzusetzen
+> scheint. Organisationen wie die WTO üben international großen Druck auf
+> Staaten aus, Zoll- und Importbarrieren zu reduzieren und Exportsubventionen
+> abzuschaffen, in der mit der ursprünglichen Freiwirtschaftsbewegung
+> übereinstimmenden Überzeugung, dass intensive Handelsbeziehungen und
+> -verflechtungen einen langfristigen Frieden zwischen den Ländern der Welt
+> sicherstellen.
+>
+> [Wikpedia > Freiwirtschaft > Freihandel](https://de.wikipedia.org/wiki/Freiwirtschaft#Freihandel)
+
+#### Anmerkung
+
+Ein in dieser Idee noch fehlendes Konzept ist das der Freiressourcen. Obowhl
+fuer Deutschland nicht so relevant wie fuer andere Laender, muessen die
+Ressourcen eines Landes zum Wohle der Bevoelkerung genutzt werden. D. h., dass
+der Abbau und Verkauf von Ressourcen nicht in privater Hand sein darf.
+
+Man sieht an den Rohstoffen der Welt welches Elend der private Sektor in diesem
+Feld produziert. Die oelreichsten Laender haben die groessten Probleme, da sich
+die Imperien um diese Rohstoffe streiten.
+
+### Gradido
 
 > Das alte Geld ist ein Schuldschein, ein Versprechen auf Leistungen, ein
 > Zahlungsmittel. Gradido ist seinem Wesen nach eher eine Dokumentation
@@ -280,7 +369,53 @@ Antrieb des damaligen Aufschwungs gewesen sein könnt.
 > 
 > [Gradido ebook; Seite 82; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Schenkwirtschaft
+Wer das Prinzip des Freigelds bereits verstanden hat, muesste von diesem System
+eigentlich fasziniert sein. Es garantiert einen permanenten Umlauf von Geld,
+wodurch die meisten Menschen mehr Geld benutzen koennen als momentan.
+Gleichzeitig muessen keine Steuern gezahlt werden. Das heisst, man hat noch
+einmal mehr Geld zur Verfuegung.
+
+Damit das System aber nicht in Massenkonsum und kompletter Umweltzerstoerung
+hinauslaeuft, gibt es einen Umweltfond. Dieser Umweltfond ist genauso hoch wie
+der Staatshaushalt, also gewaltig. Damit kann eine umweltfreundliche Industrie
+gefoerdert werden, da es einen enormen finanziellen Anreiz gibt.
+
+Gradido ist also eine Erweiterung des Freigelds, da nahezu alle Konzepte
+uebernommen wurden.
+
+##### Zusammenfassung
+
+* Die Waehrung heisst "Gradido"
+* Die Geld geht in einem definierten Zeitabstand kaputt. Gleichzeitig wird
+  genau so viel Geld erstellt (geschoepft), wie kaputt geht
+  * Dieses Geld entsteht, im Gegensatz zu heute, nicht aus Schulden<br />
+    => Es gibt keine Staatsschulden durch Geldschoepfung
+  * Geld wird so verteilt/zerstoert, dass jede Person mit ungefaehr
+    sechzigtausend Gradido herauskommt (wer mehr hat, der verliert mehr bei der
+    Entwertung, wer weniger hat, verliert weniger als entwertet wird)
+* Das neue Geld wird gedreiteilt und in drei Funktionen aufgeteilt
+  * Aktives Grundeinkommen
+  * Finanzierung des Staatshaushalts (beinhaltet Sozialleistungen wie
+    Krankenversicherung)
+  * Fond fuer Umweltschutz und -restaurierung
+* Es gibt keine Steuern, da der Staatshaushalt jeden Monat durch das neue Geld
+  finanziert wird
+* Kredite sind zinsfrei. Die Idee des Kredits ist nicht die Geldvermehrung
+  (leistungsloses Einkommen, das nur wenigen in der Gesellschaft nutzt),
+  sondern der Werterhalt (anstatt dass Geld vernichtet wird, verleiht man es
+  und bekommt den gleichen Betrag zurueck)
+* Es gibt keine Schulden. Niemand kann weniger als 0 Gradido auf dem Konto
+  haben; Dies ist angelehnt an die Natur, in der es auch kein "Negativ" gibt
+
+Durch die Entwertung von Geld ist jeder bestrebt sein Geld entweder auszugeben
+oder zu verleihen. Dadurch ist Geld staendig im Umlauf, wodurch jeder auch mehr
+Geld bekommt. Denn auch Unternehmen muessen wir Geld irgendwie wieder
+loswerden. Das geht durch Lohnsteigerungen, Neuanstellungen, Reinvestition,
+Gewinnausschuettung an Angestellt, usw.  Wer dennoch mehr Geld braucht, kann
+sich einfach einen Kredit nehmen. Ausserdem soll eine Schenkwirtschaft
+entstehen. In diesem Punkt bin ich mir nicht sicher, ob das realisierbar ist,
+da dies etwas mit dem Gesellschaftlichen Zustand zu tun hat und nicht mit dem
+oekonoemischen System.
 
 ##### Das Dreifache Wohl
 
@@ -467,9 +602,7 @@ Antrieb des damaligen Aufschwungs gewesen sein könnt.
 >
 > [Gradido ebook; Seite 74; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Freies Schenken
-
-> 
+##### Schenkwirtschaft & Freies Schenken
 
 ##### Offene Frage und ein bisschen Kritik am Gradido-System:
 
@@ -795,5 +928,3 @@ Siehe [57:50 ' 'Interview mit Ken Jebsen](https://apolut.net/bernd-senf/)
 ~ 1050 bis 1350 AD. Nachlesbar in
 ["Das Geld in der Geschichte"](https://docplayer.org/44579910-Karl-walker-das-geld-in-der-geschichte.html)
 von Karl Walker
-
-## Alternative Geldtheorien
