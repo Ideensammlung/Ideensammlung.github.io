@@ -250,6 +250,11 @@ sich in Lateinamerika damit beschäftigt, warum Ökonomien Probleme wie
 Rezessionen und Wirtschaftskrisen haben. Seine Lösungen sind relativ simpel und
 werden in drei Gruppen unterteilt.
 
+Diese Idee wurde sogar bereits mit großem Erfolg ausprobiert:
+
+* [Das Wunder von Wörgl](https://www.youtube.com/watch?v=BDp7pTtKnGI)
+* [Der Geldmacher - Das Experiment des Michael Unterguggenberger](https://www.youtube.com/watch?v=93KxNe6wHXs)
+
 #### Zusammenfassung
 
 * Freigeld bezeichnet eine Währungsreform, in der Geld über Zeit an Wert
@@ -295,6 +300,18 @@ können:
 > Wirtschaft  - d.h. die Beanspruchung des Bodens bzw. der Ressourcen  - aus
 > den Augen verlieren darf, selbst wenn man den monetären Faktoren die primäre
 > Bedeutung beimisst. Das hat Gesell deutlicher erkannt als Keynes.
+
+---
+
+Folgendes Zitat ist aus dem kurzen Video ["Das Wunder von
+Wörgl"; 02:14](https://youtu.be/BDp7pTtKnGI?t=134):
+
+> Als der amerikanische Wirtschaftswissenschaftler Irving Fisher von dem
+> Wörgl-Experiment erfährt, rät er Roosevelt, so die Depression zu bekämpfen.
+> Zwar löst Fisher eine lebhafte Debatte im Parlament aus, doch Roosevelt
+> entscheidet sich überraschend gegen ein nationales Freigeld. Der Präsident
+> hofft mit Finanzspritzen und einem staatlichen Monopol auf Goldbesitz den
+> Dollar zu sichern.
 
 #### Freigeld
 
