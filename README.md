@@ -26,8 +26,14 @@ Meinung/Interpretation gekennzeichnet sind.
 
 ## Übersicht
 
-* [Vorwort](./preface.md)
-* [Demokratie](./src/demokratie.md)
+##### Artikel
+
+* [Vorwort](./preface.md?id=vorwort)
+* [Demokratie](./src/demokratie.md?id=demokratie)
+
+##### Entwuerfe
+
+* [Geldsystem](./src/geldsystem.md?id=entwurf)
 
 ## Mitwirken
 
