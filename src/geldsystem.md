@@ -264,7 +264,39 @@ werden in drei Gruppen unterteilt.
 * Freihandel ist in so ziemlich allen wirtschaftlichen Theorien gefordert, so
   auch hier. Also nicht wirklich etwas Neues
 
-##### Freigeld
+#### Bekannte Stimmen zu Gesells Idee
+
+Dass an Gesells Idee etwas dran ist, ist auch einigen bekannten und
+einflussreichen Ökonomen aufgefallen, daher möchte ich hier zur Einleitung ein
+paar Zitate einfügen, welche
+[hier](https://www.silvio-gesell.de/oekonomen.html) nachgeschlagen werden
+können:
+
+> **Prof. Dr. John Maynard Keynes**<br />
+> Ich glaube, dass die Zukunft mehr vom Geiste Gesells als von jenem von Marx lernen wird.
+
+> **Prof. Dr. Irving Fisher**<br />
+> „Freigeld könnte der beste Regulator der Umlaufgeschwindigkeit des Geldes
+> sein, die der verwirrendste Faktor in der Stabilisierung des Preisniveaus
+> ist. Bei richtiger Anwendung könnte es uns tatsächlich binnen weniger Wochen
+> aus der Krise heraushelfen. ... Ich bin ein bescheidener Schüler des
+> Kaufmanns Gesell.“
+
+> **Prof. Dr. Hans Christoph Binswanger**<br />
+> Gesell ist der Begründer der ‚Freiwirtschaftslehre’, ein ökonomischer
+> Outsider, der jedoch von Keynes in gewissem Sinne als Vorläufer anerkannt
+> wurde. Er wird daher auch heute vor allem als Keynesianer, ja geradezu als
+> eine Art Hyper-Keynesianer interpretiert, d.h. als Vertreter einer Schule,
+> die im Interesse einer Krisenvermeidung einen möglichst tiefen (nominalen)
+> Zins propagiert. Gesell hatte aber auch erkannt, dass mit der Reduktion der
+> Zinssätze ein Krisenproblem allein nicht lösbar ist. Er schlägt deswegen als
+> notwendiges Korrelat zur Einführung des ‚Freigeldes’ die Einführung des
+> ‚Freilands’ vor.  ... Es zeigt sich, dass man nie die reale Seite der
+> Wirtschaft  - d.h. die Beanspruchung des Bodens bzw. der Ressourcen  - aus
+> den Augen verlieren darf, selbst wenn man den monetären Faktoren die primäre
+> Bedeutung beimisst. Das hat Gesell deutlicher erkannt als Keynes.
+
+#### Freigeld
 
 Geld soll rosten, also über Zeit an Wert verlieren. So kann man z. B. für
 Banknoten am Ende des Monats einen Stempel kaufen müssen, wodurch aus einer
@@ -290,7 +322,7 @@ Dieser Vorgang hat weitreichende Implikationen:
 
 Karl Walker meint, dass es ein ähnliches Prinzip bereits im Mittelalter in Mitteleuropa bereits seine Anwendung gefunden hat, und deswegen ein wichtiger Antrieb des damaligen Aufschwungs gewesen sein könnt.
 
-##### Freiland
+#### Freiland
 
 Neben dem leistungslosen Einkommen durch Zinsen gibt es auch ein leistungsloses
 Einkommen durch den Besitz von Land, welches Gesell "Bodenrente" nennt. Nach
@@ -713,6 +745,54 @@ Unternehmen, die notwendig sind, damit die primären Unternehmen überhaupt
 funktionieren können. Man muss sich in Deutschland nur die Auto-Industrie vor
 Augen führen, bei der es eine ganze Reihe an Unternehmensbranchen gibt, welche
 notwendig sind, damit Autos hergestellt werden können.
+
+### Bedingungsloses oder aktives Grundeinkommen
+
+Auch hier finde ich die Idee von Gradido sehr gut. Ein Drittel des geschöpften
+Geldes geht in Form eines Grundeinkommens an die Bevölkerung. Die Idee von
+Gradido ist, dass ein aktives Grundeinkommen ein paar Vorteile gegenüber dem
+bedingungslosen Grundeinkommen habe:
+
+##### Positive Auswirkungen
+
+> Wegen der vielfältigen wohltuenden Auswirkungen, welche die Bedingungslose
+> Teilhabe mit sich bringt, bevorzugen wir das Aktive Grundeinkommen, zumal das
+> geschöpfte Geld dadurch leistungsgedeckt ist und automatisch
+> Vollbeschäftigung erreicht wird.
+>
+> [Gradido ebook; Seite 84; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+##### Neiddebatte
+
+> Die Idee des Bedingungslosen Grundeinkommens löst so genannte »Neiddebatten«
+> aus. Die arbeitenden Menschen fragen sich, wieso sie das Geld oder die
+> Produkte erwirtschaften sollen, die andere Menschen verbrauchen, welche in
+> ihren Augen nicht arbeiten. Befürworter des Bedingungslosen Grundeinkommens
+> versuchen diese Neiddebatten mit allerlei Argumenten zu entschärfen, was
+> ihnen jedoch nicht wirklich gelingt.
+>
+> [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
+
+#### Drohende Arbeitslosigkeit durch Robotisierung
+
+Durch den Fortschritt in der Robotik und der künstlichen Intelligenz werden
+bald viele Arbeitsplätze nicht mehr für Menschen zur Verfügung stehen. Zusammen
+mit einem Grundeinkommen besteht hierin eine gewaltige Chance für unsere
+Gesellschaft: Die Aufgaben, die niemand/sehr wenige machen möchten, fallen weg,
+werden aber trotzdem erledigt. Jeder kann sich also voll und ganz auf das
+konzentrieren, was einen erfüllt.
+
+Eine Grundsicherung in einem kapitalistischen System kann meiner Meinung nach
+nur fehlschlagen:
+
+* Das Geld wird durch die bekannten Mechanismen sowieso wieder nach oben
+  verteilt
+* Es entsteht eine Inflation durch die Steigerung der Geldmenge, wodurch das
+  Grundeinkommen ständig und immer höher angepasst werden müsste, wodurch die
+  Inflation noch mehr verstärkt wird. Ein Teufelskreis...
+
+In einem Schwundgeldsystem hingegen ist genau das Gegenteil der Fall. Es gibt
+keine Inflation oder Deflation
 
 ### **Demokratische Kontrolle des Geldsystems**
 
