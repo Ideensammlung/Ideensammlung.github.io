@@ -255,7 +255,7 @@ Diese Idee wurde sogar bereits mit großem Erfolg ausprobiert:
 * [Das Wunder von Wörgl](https://www.youtube.com/watch?v=BDp7pTtKnGI)
 * [Der Geldmacher - Das Experiment des Michael Unterguggenberger](https://www.youtube.com/watch?v=93KxNe6wHXs)
 
-#### Zusammenfassung
+#### Zusammenfassung: Freiwirtschaft
 
 * Freigeld bezeichnet eine Währungsreform, in der Geld über Zeit an Wert
   verliert.
@@ -428,7 +428,7 @@ gefördert werden, da es einen enormen finanziellen Anreiz gibt.
 Gradido ist also eine Erweiterung des Freigelds, da nahezu alle Konzepte
 übernommen wurden.
 
-##### Zusammenfassung
+##### Zusammenfassung: Gradido
 
 * Die Währung heißt "Gradido"
 * Das Geld geht in einem definierten Zeitabstand kaputt. Gleichzeitig wird
@@ -461,6 +461,24 @@ sich einfach einen Kredit nehmen. Außerdem soll eine Schenkwirtschaft
 entstehen. In diesem Punkt bin ich mir nicht sicher, ob das realisierbar ist,
 da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 ökonomischen System.
+
+> Halten wir fest:
+>
+> * Die dreifache Geldschöpfung bildet zusammen mit der Vergänglichkeit ein
+>   selbstregulierendes System, das die Geldmenge konstant hält. Die Geldmenge
+>   kann nicht verändert werden, weder durch Schulden noch durch Spekulationen
+>   noch durch irgendwelche anderen Manipulationen.
+> * Der Kreislauf von Werden und Vergehen ist Naturgesetz. Wird dieses Naturgesetz
+>   nicht freiwillig in das Geld- Wirtschaftssystem integriert, so bekommen wir es
+>   unfreiwillig und schmerzhaft zu spüren – in Form von Wirtschafts- und
+>   Finanzkrisen, Inflation, Geldcrash, Not, Hunger, Krankheiten, Kriegen und
+>   Naturkatastrophen.
+> * Da der Kreislauf von Werden und Vergehen als fester Bestandteil in der
+>   Natürlichen Ökonomie des Lebens integriert ist, bleiben die oben genannten
+>   unfreiwilligen Formen der Vergänglichkeit aus oder werden zumindest stark
+>   abgemildert.
+>
+> [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
 ##### Das Dreifache Wohl
 
@@ -607,26 +625,6 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 > geregelt wird.
 >
 > [Gradido ebook; Seite 69; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
-
-###### Zusammenfassung
-
-> Halten wir fest:
->
-> * Die dreifache Geldschöpfung bildet zusammen mit der Vergänglichkeit ein
->   selbstregulierendes System, das die Geldmenge konstant hält. Die Geldmenge
->   kann nicht verändert werden, weder durch Schulden noch durch Spekulationen
->   noch durch irgendwelche anderen Manipulationen.
-> * Der Kreislauf von Werden und Vergehen ist Naturgesetz. Wird dieses Naturgesetz
->   nicht freiwillig in das Geld- Wirtschaftssystem integriert, so bekommen wir es
->   unfreiwillig und schmerzhaft zu spüren – in Form von Wirtschafts- und
->   Finanzkrisen, Inflation, Geldcrash, Not, Hunger, Krankheiten, Kriegen und
->   Naturkatastrophen.
-> * Da der Kreislauf von Werden und Vergehen als fester Bestandteil in der
->   Natürlichen Ökonomie des Lebens integriert ist, bleiben die oben genannten
->   unfreiwilligen Formen der Vergänglichkeit aus oder werden zumindest stark
->   abgemildert.
->
-> [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
 ##### Kredite und Geldanlagen
 
