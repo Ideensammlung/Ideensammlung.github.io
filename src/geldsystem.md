@@ -27,7 +27,7 @@ Kapital gehen.
 * [Die Funktionen, die Geld gerade hat](./src/geldsystem?id=die-funktionen-die-geld-gerade-hat)
 * [Alternative Modelle](./src/geldsystem?id=alternative-modelle)
   * [Marxistische Wirtschaftstheorie](./src/geldsystem?id=marxistische-wirtschaftstheorie)
-    * [Sozialismus Was man mit dem Begriff genau meint, muss erst einmal erklärt](./src/geldsystem?id=sozialismus-was-man-mit-dem-begriff-genau-meint-muss-erst-einmal-erkl%c3%a4rt)
+    * [Sozialismus](./src/geldsystem?id=sozialismus)
   * [Freiwirtschaft - Natürliche Wirtschaftsordnung](./src/geldsystem?id=freiwirtschaft-nat%c3%bcrliche-wirtschaftsordnung)
     * [Zusammenfassung: Freiwirtschaft](./src/geldsystem?id=zusammenfassung-freiwirtschaft)
     * [Bekannte Stimmen zu Gesells Idee](./src/geldsystem?id=bekannte-stimmen-zu-gesells-idee)
@@ -264,13 +264,14 @@ Kritik am Kapitalismus oder Ideen, wie sich das Proletariat gegen die Macht der
 Kapitalisten wehren könnten. Das einzige, womit ich mich beschäftigt habe ist
 der Sozialismus
 
-#### Sozialismus Was man mit dem Begriff genau meint, muss erst einmal erklärt
+#### Sozialismus
 
-werden, da es keine einheitliche Definition gibt, sondern extrem viele
-Strömungen/Theorien. Die wohl bekannteste ist der kapitalistische Sozialismus
-(zumindest nenne ich ihn so), der versucht innerhalb des kapitalistischen
-Systems einige soziale Elemente einzubauen, der sogenannte Sozialstaat. Dazu
-gehört: Arbeitslosenversicherung, Krankenversicherung, Altersvorsorge,
+Was man mit dem Begriff genau meint, muss erst einmal erklärt werden, da es
+keine einheitliche Definition gibt, sondern extrem viele Strömungen/Theorien.
+Die wohl bekannteste ist der kapitalistische Sozialismus (zumindest nenne ich
+ihn so), der versucht innerhalb des kapitalistischen Systems einige soziale
+Elemente einzubauen, der sogenannte Sozialstaat. Dazu gehört:
+Arbeitslosenversicherung, Krankenversicherung, Altersvorsorge,
 Monopol-Verhinderung, usw.
 
 Die Grundidee, so wie ich das verstehe, hat nichts wirklich mit einer
