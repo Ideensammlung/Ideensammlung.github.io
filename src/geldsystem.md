@@ -19,6 +19,45 @@ unterbinden. Dabei wird es dann um Umlaufsicherung, Wertstabilität, In- und
 Deflation, wirtschaftliche Zusammenbrüche und die sogenannte Akkumulation von
 Kapital gehen.
 
+## Inhalte
+
+* [Begriffsdefinition Geld & Währung](./src/geldsystem?id=begriffsdefinition-geld-amp-w%c3%a4hrung)
+* [Ressourcen zum Einstieg in die Thematik](./src/geldsystem?id=ressourcen-zum-einstieg-in-die-thematik)
+* [Die Funktion, die Geld haben sollte](./src/geldsystem?id=die-funktion-die-geld-haben-sollte)
+* [Die Funktionen, die Geld gerade hat](./src/geldsystem?id=die-funktionen-die-geld-gerade-hat)
+* [Alternative Modelle](./src/geldsystem?id=alternative-modelle)
+  * [Marxistische Wirtschaftstheorie](./src/geldsystem?id=marxistische-wirtschaftstheorie)
+    * [Sozialismus Was man mit dem Begriff genau meint, muss erst einmal erklärt](./src/geldsystem?id=sozialismus-was-man-mit-dem-begriff-genau-meint-muss-erst-einmal-erkl%c3%a4rt)
+  * [Freiwirtschaft - Natürliche Wirtschaftsordnung](./src/geldsystem?id=freiwirtschaft-nat%c3%bcrliche-wirtschaftsordnung)
+    * [Zusammenfassung: Freiwirtschaft](./src/geldsystem?id=zusammenfassung-freiwirtschaft)
+    * [Bekannte Stimmen zu Gesells Idee](./src/geldsystem?id=bekannte-stimmen-zu-gesells-idee)
+    * [Freigeld](./src/geldsystem?id=freigeld)
+    * [Freiland](./src/geldsystem?id=freiland)
+    * [Freihandel](./src/geldsystem?id=freihandel)
+    * [Anmerkung](./src/geldsystem?id=anmerkung)
+  * [Gradido](./src/geldsystem?id=gradido)
+    * [Zusammenfassung: Gradido](./src/geldsystem?id=zusammenfassung-gradido)
+    * [Das Dreifache Wohl](./src/geldsystem?id=das-dreifache-wohl)
+    * [Keine Geldschöpfung durch Schulden](./src/geldsystem?id=keine-geldsch%c3%b6pfung-durch-schulden)
+    * [Dreifache Geldschöpfung](./src/geldsystem?id=dreifache-geldsch%c3%b6pfung)
+      * [Das Aktive Grundeinkommen](./src/geldsystem?id=das-aktive-grundeinkommen)
+      * [Staatseinkommen](./src/geldsystem?id=staatseinkommen)
+      * [Ausgleichs- und Umweltfonds](./src/geldsystem?id=ausgleichs-und-umweltfonds)
+      * [ein selbstregulierendes System](./src/geldsystem?id=ein-selbstregulierendes-system)
+    * [Kredite und Geldanlagen](./src/geldsystem?id=kredite-und-geldanlagen)
+    * [Freiheit von Steuern und Pflichtversicherungen](./src/geldsystem?id=freiheit-von-steuern-und-pflichtversicherungen)
+    * [Schenkwirtschaft & Freies Schenken](./src/geldsystem?id=schenkwirtschaft-amp-freies-schenken)
+    * [Offene Frage und ein bisschen Kritik am Gradido-System](./src/geldsystem?id=offene-frage-und-ein-bisschen-kritik-am-gradido-system)
+* [Eigene Gedanken](./src/geldsystem?id=eigene-gedanken)
+  * [Umweltschutz](./src/geldsystem?id=umweltschutz)
+  * [Bedingungsloses oder aktives Grundeinkommen](./src/geldsystem?id=bedingungsloses-oder-aktives-grundeinkommen)
+    * [Drohende Arbeitslosigkeit durch Robotisierung](./src/geldsystem?id=drohende-arbeitslosigkeit-durch-robotisierung)
+  * [Demokratische Kontrolle des Geldsystems](./src/geldsystem?id=demokratische-kontrolle-des-geldsystems)
+  * [Patente](./src/geldsystem?id=patente)
+  * [Sparen & die Rolle der Banken](./src/geldsystem?id=sparen-amp-die-rolle-der-banken)
+  * [Zyklisches Reflektieren](./src/geldsystem?id=zyklisches-reflektieren)
+  * [Gefahren eines Wechsels des Geldsystems](./src/geldsystem?id=gefahren-eines-wechsels-des-geldsystems)
+
 ## Begriffsdefinition Geld & Währung
 
 > Geld – das sind die vom Staat hergestellten Münzen und Banknoten, die als
@@ -428,7 +467,7 @@ gefördert werden, da es einen enormen finanziellen Anreiz gibt.
 Gradido ist also eine Erweiterung des Freigelds, da nahezu alle Konzepte
 übernommen wurden.
 
-##### Zusammenfassung: Gradido
+#### Zusammenfassung: Gradido
 
 * Die Währung heißt "Gradido"
 * Das Geld geht in einem definierten Zeitabstand kaputt. Gleichzeitig wird
@@ -480,7 +519,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Das Dreifache Wohl
+#### Das Dreifache Wohl
 
 > Die vielfältigen Interaktionen der Naturwesen miteinander dienen dem Wohle
 > des Einzelnen (die Biene trinkt Nektar), dem Wohle der Gemeinschaft (das
@@ -496,7 +535,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 > 
 > [Gradido ebook; Seite 56; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Keine Geldschöpfung durch Schulden
+#### Keine Geldschöpfung durch Schulden
 
 > aus gutem Grund wird unser heutiges Geld oft als Fiat-Money bezeichnet<br />
 > . . . <br />
@@ -523,7 +562,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 57f; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Dreifache Geldschöpfung
+#### Dreifache Geldschöpfung
 
 > Für jeden Menschen werden monatlich 3 mal 1000 Gradido geschöpft. Mit 1000
 > Gradido pro Person pro Monat bietet die Natürliche Ökonomie des Lebens die
@@ -535,7 +574,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 64; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-###### Das Aktive Grundeinkommen
+##### Das Aktive Grundeinkommen
 
 > Die erste Geldschöpfung von 1000 Gradido ist für das Grundeinkommen bestimmt. Jeder
 > Bürger hat Anspruch auf ein Grundeinkommen von 1000 Gradido. Dabei sind zwei
@@ -558,7 +597,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-###### Staatseinkommen
+##### Staatseinkommen
 
 > Die zweite Geldschöpfung von 1000 Gradido pro Kopf pro Monat fließt in den
 > Staatshaushalt. Ohne Steuern eintreiben zu müssen steht damit jedem Land ein
@@ -580,7 +619,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-###### Ausgleichs- und Umweltfonds
+##### Ausgleichs- und Umweltfonds
 
 > Die dritte Geldschöpfung ist für die Sanierung und Bewahrung unserer Umwelt
 > vorgesehen. Mit 1000 Gradido pro Kopf pro Monat ist der weltweite
@@ -611,7 +650,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 66; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-###### ein selbstregulierendes System
+##### ein selbstregulierendes System
 
 > Das »Werden« ist die dreifache Geldschöpfung von 3.000 Gradido. Das Vergehen
 > beträgt 50 % im Jahr. Dies sind ungefähr 5% im Monat. Das durchschnittliche
@@ -626,7 +665,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 69; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Kredite und Geldanlagen
+#### Kredite und Geldanlagen
 
 > Wie könnt ihr große Beträge finanzieren, wenn das Geld vergänglich ist?
 > »Durch Kredite. Beide Parteien haben ihren Vorteil dabei. Der Kreditgeber
@@ -637,7 +676,7 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 70; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Freiheit von Steuern und Pflichtversicherungen
+#### Freiheit von Steuern und Pflichtversicherungen
 
 > Das GradidoModell bietet ein perfektes Gesundheits- und Sozialwesen, ganz
 > ohne Krankenversicherung, Rentenversicherung, Pflegeversicherung und sonstige
@@ -646,11 +685,11 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 74; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Schenkwirtschaft & Freies Schenken
+#### Schenkwirtschaft & Freies Schenken
 
 @TODO: Inhalt fehlt
 
-##### Offene Frage und ein bisschen Kritik am Gradido-System:
+#### Offene Frage und ein bisschen Kritik am Gradido-System:
 
 * Offene Frage: Am Anfang jedes Schöpfungs-/Entwertungs-Zyklus soll für jeden
   Bürger eine gewisse Menge an Geld geschöpft werden, welche dann dreigeteilt
@@ -768,7 +807,7 @@ Geldes geht in Form eines Grundeinkommens an die Bevölkerung. Die Idee von
 Gradido ist, dass ein aktives Grundeinkommen ein paar Vorteile gegenüber dem
 bedingungslosen Grundeinkommen habe:
 
-##### Positive Auswirkungen
+**Positive Auswirkungen**
 
 > Wegen der vielfältigen wohltuenden Auswirkungen, welche die Bedingungslose
 > Teilhabe mit sich bringt, bevorzugen wir das Aktive Grundeinkommen, zumal das
@@ -777,7 +816,7 @@ bedingungslosen Grundeinkommen habe:
 >
 > [Gradido ebook; Seite 84; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
-##### Neiddebatte
+**Neiddebatte**
 
 > Die Idee des Bedingungslosen Grundeinkommens löst so genannte »Neiddebatten«
 > aus. Die arbeitenden Menschen fragen sich, wieso sie das Geld oder die
