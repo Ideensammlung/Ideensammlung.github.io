@@ -598,6 +598,14 @@ da dies etwas mit dem gesellschaftlichen Zustand zu tun hat und nicht mit dem
 >
 > [Gradido ebook; Seite 65; 2. Auflage](https://gradido.net/wp-content/uploads/2020/09/gradido-ebook-de.pdf)
 
+Ein Vorteil des aktiven Grundeinkommens ist die geringere Gefahr der
+Ausbeutung. Durch ein bedingungsloses Grundeinkommen kann die organisierte
+Kriminalitaet Menschen ausnutzen um ihr Grundeinkommen einzusacken. Bei einem
+aktiven Grundeinkommen sind die Menschen automatisch im Kontakt mit anderen
+und haben daher eine deutlich bessere Moeglichkeit, nach Hilfe zu suchen. Auf
+der anderen Seite koennen Missbrauch und Ausbeutung auch ohne die aktive Suche
+nach Hilfe besser erkannt werden.
+
 ##### Staatseinkommen
 
 > Die zweite Geldschöpfung von 1000 Gradido pro Kopf pro Monat fließt in den
