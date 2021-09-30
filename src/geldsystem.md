@@ -19,6 +19,25 @@ unterbinden. Dabei wird es dann um Umlaufsicherung, Wertstabilität, In- und
 Deflation, wirtschaftliche Zusammenbrüche und die sogenannte Akkumulation von
 Kapital gehen.
 
+## Zusammenfassung
+
+* Geldsystem und Demokratie sind Themen, die nicht getrennt voneinander gelöst
+  werden können
+* Das aktuelle Geldsystem hat einige Probleme
+  * Keine Umlaufsicherung, sondern Konzentration von Geld in den Händen weniger
+  * Profit ist wichtiger als alles andere (Frieden, Umwelt, soziale
+    Gerechtigkeit)
+* Die Folgen dieser Probleme sind extrem (Krieg, Armut, extreme Macht)
+* Ich schlage vor, dass wir
+  * uns "Gradido" genauer anschauen
+    * Es erweitert die "Schwundgeld"-Theorie von Silvio Gesell
+    * Hat Ideen für Umweltschutz/-restaurierung
+    * Bietet jedem freie Gestaltungsmöglichkeiten über ein aktives
+      Grundeinkommen
+    * Beinhaltet eine Lösung für Sozialsicherungen
+  * ein paar eigene Ideen (z. B. Patentlösung, zyklisches Reflektieren)
+    hinzufügen
+
 ## Inhalte
 
 * [Begriffsdefinition Geld & Währung](./src/geldsystem?id=begriffsdefinition-geld-amp-w%c3%a4hrung)
