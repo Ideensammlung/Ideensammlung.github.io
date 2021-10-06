@@ -68,8 +68,7 @@ dies zu belegen. Hier ist nur eine beispielhafte Liste:
   * [Dirk Pohlmann: "Der duale Staat: Recht, Macht und Ausnahmezustand"](https://www.bitchute.com/video/dy7rqknj8E2B/)
 * Die meisten Entscheidungen sind intransparent
   * [hermann ploppa – die macher hinter den kulissen](https://www.youtube.com/watch?v=RU7nAY-4ff0)
-* die Bürger haben keine Möglichkeit zum direkten Mitwirken an Entscheidungen und
-  Entscheidungsprozessen
+* die Bürger haben keine Möglichkeit, direkt an Entscheidungen und Entscheidungsprozessen mitzuwirken.
   * [Rainer Mausfeld – Warum schweigen die Lämmer? Vortrag im DAI Heidelberg](https://www.youtube.com/watch?v=-kLzmatet8w)
 * Parteien müssen sich nicht an die Versprechen des Wahlkampfes halten. Die
   Bevölkerung muss mit dem was die Regierung macht im Großen und Ganzen
@@ -404,8 +403,8 @@ restliche Vorgang aber noch erkennbar ist. Diese Aufnahmen müssen der
 Öffentlichkeit zur Verfügung stehen, damit sich jeder Bürger selbst ein
 Bild machen kann, sollte es zu Wahlbetrugsvorwürfen kommen.
 [Hier](https://www.csail.mit.edu/news/mit-experts-no-dont-use-blockchain-vote)
-ist ein Artikel des MIT, in dem erklärt wird, warum auch neue Technologie wie
-Blockchain diese Probleme hat.
+ist ein Artikel des MIT, in dem erklärt wird, warum auch neue Technologien wie
+Blockchain diese Probleme haben.
 
 Zu guter Letzt ist es noch wichtig, dass man einen Mechanismus etabliert, der
 permanent das System reflektiert, um eventuelle Schwachstellen in der
