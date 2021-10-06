@@ -180,7 +180,7 @@ hinzugefügt werden.
 
 So ist die Geldtheorie kein Element der Demokratie, da sie ja auch in anderen
 Staatsformen auftreten kann. Dennoch ist die Demokratie darauf angewiesen, dass
-das Geldsystem einen bestimmten Zweck erfüllt, da es im Staat/ in der
+das Geldsystem einen bestimmten Zweck erfüllt, da es im Staat / in der
 Verwaltungsstruktur nicht nur politische, sondern unter anderem auch finanzielle
 Macht geben kann. In diesem Sinne ist echte Demokratie also nur ein Mittel von
 Vielen, das eingesetzt werden kann, um eine von Vernunft geleitete Gesellschaft
@@ -291,12 +291,11 @@ Geschichte der Demokratie bisher keine große Rolle gespielt zu haben,
 
 ### Sind Blockaden und Reformstau etwas Schlechtes?
 
-Je nachdem wie man ein politisches System gestaltet kann es, dass solange man
-Mechanismen hat, die das Diktat der Mehrheit verhindern, es zu theoretisch
-unendlich-langen Blockaden, einem "Reformstau" kommen könnte. Bei genauerer
-Betrachtung entfällt dieses Argument allerdings, da auch die Mittel zur
-Konsensfindung so ausgestaltet werden können, dass lange Blockaden zu einer
-Seltenheit werden.
+Es kann es, solange man Mechanismen hat, die das Diktat der Mehrheit
+verhindern, theoretisch zu unendlich-langen Blockaden kommen. Das Resultat ist
+dann: Reformstau. Bei genauerer Betrachtung entfällt dieses Argument
+allerdings, da auch die Mittel zur Konsensfindung so ausgestaltet werden
+können, dass lange Blockaden zu einer Seltenheit werden.
 
 Ich versuche ein solches System, zumindest wie ich es mir gerade vorstellen
 könnte, im Folgenden vorzustellen.
