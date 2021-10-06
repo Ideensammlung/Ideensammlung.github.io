@@ -85,13 +85,13 @@ Weitere Regeln könnten sein:
 > ermöglichen, wird die Anzahl der Personen, die in Konventen sein können,
 > auf maximal das 1,5-fache der größten Konventsgruppengröße beschränkt.
 
-Erklärung: Wenn es unterschiedliche Konventgrößen gibt, z. B. 20, 50, 100,
-250, 500 & 1000, dann wäre das 1,5-fache eine Gesamtmenge von 1500. Das heißt es
-könnten gleichzeitig ein Konvent mit 1000, einer mit 250, einer
-mit 100, einer mit 50 und fünf mit 20 Teilnehmern nebeneinander existieren. Dadurch gibt es nicht zu viel
-Ablenkung von wichtigen Themen mit großen Konventen durch zu viele andere
-Konvente. Liegt gerade kein wichtiges Thema an, könnten auch 75 Konvente mit
-jeweils 20 Mitgliedern auf/für die Bundesebene tagen.
+Erklärung: Wenn es unterschiedliche Konventgrößen gibt, z. B. 20, 50, 100, 250,
+500 & 1000, dann wäre das 1,5-fache eine Gesamtmenge von 1500. Das heißt es
+könnten gleichzeitig ein Konvent mit 1000, einer mit 250, einer mit 100, einer
+mit 50 und fünf mit 20 Teilnehmern nebeneinander existieren. Dadurch gibt es
+nicht zu viel Ablenkung von wichtigen Themen mit großen Konventen durch zu
+viele andere Konvente. Liegt gerade kein wichtiges Thema an, könnten auch 75
+Konvente mit jeweils 20 Mitgliedern auf/für die Bundesebene tagen.
 
 ---
 
