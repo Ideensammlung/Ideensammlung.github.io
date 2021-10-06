@@ -6,7 +6,7 @@ die beste Idee einer Staatsform zu sein.
 halten 79 % der Deutschen die Demokratie für die beste Staatsform. Auch meine
 persönliche Einschätzung ist, dass Demokratie zwar nicht perfekt ist, aber
 das beste Mittel der Wahl zu sein scheint, wenn es darum geht, dass alle
-Menschen vor dem Gesetz gleich sein sollten, die Bevölkerung über sich selbst
+Menschen vor dem Gesetz gleich sein, die Bevölkerung über sich selbst
 entscheiden können und Chancengleichheit für alle vorhanden sein sollte.
 
 Eine für mich wichtige Erkenntnis ist, dass es immer Kräfte geben wird, die
@@ -47,14 +47,14 @@ sorgt, dass private Interessen keinen Einfluss mehr haben können.
 
 Es ist also insbesondere für eine Demokratie wichtig, eine Instanz zu haben,
 die permanent nach Lücken in der Demokratie sucht. Wie diese Lücken geschlossen
-werden hängt davon ab welche Form der Demokratie etabliert wurde. In der
+werden hängt davon ab, welche Form der Demokratie etabliert wurde. In der
 aleatorischen Demokratie könnte das Gremium entweder eine offizielle (also vom
 Staat selbst) Petition starten oder sogar direkt einen Konvent auslosen lassen,
 der in der Sache berät.
 
 ## Repräsentative Demokratie
 
-Die repräsentative Demokratie, wie wir sie in Deutschland aber auch in so gut
+Die repräsentative Demokratie, wie wir sie in Deutschland, aber auch in so gut
 wie allen anderen als demokratisch anerkannte Ländern haben, hat große
 Schwachstellen.
 
@@ -349,10 +349,10 @@ Situationen wie bei Amazon, z. B. in Verteilerzentren oder der Lieferung, kommen
 kann (siehe [Schnauze,
 Alexa](https://www.westendverlag.de/buch/schnauze-alexa/))
 
-Es gibt allerdings ein theoretisches Problem mit direkter Demokratie: Die
+Es gibt allerdings ein theoretisches Problem mit direkter Demokratie: die
 Unterdrückung durch die Herrschaft der Mehrheit. Es gibt zwar Literatur, die
 zeigt, dass in einer direkten Demokratie im Normalfall eine informierte
-Entscheidung getroffen würde aber die Herrschaft der Mehrheit kann nicht
+Entscheidung getroffen würde, aber die Herrschaft der Mehrheit kann nicht
 ausgeschlossen werden. Obwohl die Geschichte bisher gezeigt hat, dass die
 meisten Entscheidungen in direkten Demokratien mehr oder weniger rational
 getroffen werden, bestehen Möglichkeiten von Manipulation. Dies kann entweder
@@ -419,9 +419,9 @@ oben.
   Interesse die Abschaffung des partizipatorischen Systems ist.
   * Für Länder die "mitspielen" kann man ausmachen, dass Konvente sich
     unter Aufwand eigener Ressourcen vom jeweiligen Partner alle
-    Ressourcen/ Informationen beschaffen können, die für eine Entscheidung
+    Ressourcen / Informationen beschaffen können, die für eine Entscheidung
     notwendig sind
-  * Lost/ Wählt man eine Gruppe an Vertretern aus innerhalb der z. B. auch ein
+  * Lost / Wählt man eine Gruppe an Vertretern aus innerhalb der z. B. auch ein
     Vetorecht oder ein 100%-Konsens-Prinzip gilt? Die Gruppe könnte, je nach
     Wichtigkeit des Themas, größer/kleiner sein. (Wer bestimmt die
     Wichtigkeit?)
