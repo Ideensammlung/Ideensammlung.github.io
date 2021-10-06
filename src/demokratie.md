@@ -4,7 +4,7 @@ Die Demokratie, also Herrschaft des Volkes, scheint in der Gesellschaft gerade
 die beste Idee einer Staatsform zu sein.
 [Laut Tagesspiegel](https://www.tagesspiegel.de/politik/studie-zum-tag-der-demokratie-vier-von-zehn-deutschen-sind-mit-demokratischem-alltag-unzufrieden/25008372.html)
 halten 79 % der Deutschen die Demokratie für die beste Staatsform. Auch meine
-persönliche Einschätzung ist, dass Demokratie zwar nicht perfekt ist aber
+persönliche Einschätzung ist, dass Demokratie zwar nicht perfekt ist, aber
 das beste Mittel der Wahl zu sein scheint, wenn es darum geht, dass alle
 Menschen vor dem Gesetz gleich sein sollten, die Bevölkerung über sich selbst
 entscheiden können und Chancengleichheit für alle vorhanden sein sollte.
