@@ -1,5 +1,3 @@
-# Entwurf
-
 <div class="draft"></div>
 
 # Geldsystem

@@ -5,3 +5,4 @@
 - [Demokratie](src/demokratie?id=demokratie)
 - [Drafts](src/drafts.md?id=entwürfe)
   - [Geldsystem](src/geldsystem.md?id=entwurf)
+  - [DieBasis](src/diebasis.md?id=entwurf)
