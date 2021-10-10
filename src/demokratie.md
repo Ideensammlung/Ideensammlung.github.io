@@ -9,6 +9,50 @@ das beste Mittel der Wahl zu sein scheint, wenn es darum geht, dass alle
 Menschen vor dem Gesetz gleich sein, die Bevölkerung über sich selbst
 entscheiden können und Chancengleichheit für alle vorhanden sein sollte.
 
+## Zusammenfassung
+
+* Demokratie ist das einzige Mittel, dass es der Gesellschaft ermöglicht, Macht
+  und Willkür so gut wie möglich zu begrenzen.
+* Die repräsentative Demokratie hat enorme Schwächen und kann/wird so weit
+  ausgehöhlt, dass es nur noch zu einer Illusion von Demokratie wird
+* Es gibt eine ganze Reihe alternativer Ansätze, auf ein paar gehe ich kurz
+  ein:
+  * Aleatorische Demokratie (das Auslosen von Konventen, welche Optionen
+    erarbeiten)
+  * Partizipatorische Demokratie (Volksabstimmungen, Petitionen, Volksbegehren,
+    Demonstrationen & Streiks)
+* Ich schlage vor, einige Ideen zu kombinieren: Aleatorische Demokratie,
+  Elemente der partizipatorischen Demokratie, systemisches Konsensieren und
+  Veto-Reche für Minderheiten
+
+## Inhalte
+
+* [Vorbemerkung](./src/demokratie?id=vorbemerkungen)
+  * [Untergrabung der Demokratie verhindern](./src/demokratie?id=untergrabung-der-demokratie-verhindern)
+* [Repräsentative Demokratie](./src/demokratie?id=repr%c3%a4sentative-demokratie)
+* [Transparenz](./src/demokratie?id=transparenz)
+* [Alternative Demokratie-Modelle](./src/demokratie?id=alternative-demokratie-modelle)
+  * [Demokratie-Theorien](./src/demokratie?id=demokratie-theorien)
+    * [Aleatorische Demokratie](./src/demokratie?id=aleatorische-demokratie)
+    * [Partizipatorische Demokratie](./src/demokratie?id=partizipatorische-demokratie)
+* [Eigene Gedanken](./src/demokratie?id=eigene-gedanken)
+  * [Sind Blockaden und Reformstau etwas Schlechtes?](./src/demokratie?id=sind-blockaden-und-reformstau-etwas-schlechtes)
+  * [Kombinieren verschiedener Ideen](./src/demokratie?id=kombinieren-verschiedener-ideen)
+    * [Fundament - aleatorische Demokratie](./src/demokratie?id=fundament-aleatorische-demokratie)
+    * [Elemente aus der partizipatorischen Demokratie übernehmen](./src/demokratie?id=elemente-aus-der-partizipatorischen-demokratie-%c3%bcbernehmen)
+    * [Diktatur der Mehrheit verhindern - systemisches Konsensieren](./src/demokratie?id=diktatur-der-mehrheit-verhindern-systemisches-konsensieren)
+    * [Minderheitenschutz ohne Diktatur der Minderheit - Veto-Reche mit neuer Konsensbildung](./src/demokratie?id=minderheitenschutz-ohne-diktatur-der-minderheit-veto-reche-mit-neuer-konsensbildung)
+    * [Das Problem mit technischen Lösungen für Wahlen](./src/demokratie?id=das-problem-mit-technischen-l%c3%b6sungen-f%c3%bcr-wahlen)
+      * [Bugs oder absichtliche Manipulationen im Quellcode](./src/demokratie?id=bugs-oder-absichtliche-manipulationen-im-quellcode)
+      * [Quellcode-Verwaltung auf eigenem Server oder bei einem Anbieter](./src/demokratie?id=quellcode-verwaltung-auf-eigenem-server-oder-bei-einem-anbieter)
+      * [Angriffe außerhalb des Blockchain-Systems](./src/demokratie?id=angriffe-au%c3%9ferhalb-des-blockchain-systems)
+      * [Zentralisierte Software und dezentralisierte Software (Blockchain)](./src/demokratie?id=zentralisierte-software-und-dezentralisierte-software-blockchain)
+      * [Die Abhängigkeit von Strom](./src/demokratie?id=die-abh%c3%a4ngigkeit-von-strom)
+      * [Permanentes Reflektieren](./src/demokratie?id=permanentes-reflektieren)
+* [Offene Fragen](./src/demokratie?id=offene-fragen)
+
+## Vorbemerkungen
+
 Eine für mich wichtige Erkenntnis ist, dass es immer Kräfte geben wird, die
 versuchen, sich Macht einzuverleiben. Dabei spreche ich nicht von konkreten
 Personen, sondern davon, dass es durch die Natur des Menschen und der
@@ -39,7 +83,7 @@ Machtlosigkeit dient. Jeder in einer Gesellschaft sollte die Möglichkeit
 haben, sich ohne Zwang dem zu widmen, dem man sich widmen möchte. Das kann z.
 B. die Kunst oder das viel-Geld-verdienen sein.
 
-## Untergrabung der Demokratie verhindern
+### Untergrabung der Demokratie verhindern
 
 Dass es kein perfektes System gibt, muss ich wahrscheinlich niemandem erklären.
 Daher sollte es auch logisch sein, dass es kein Regelwerk geben kann, das dafür
@@ -117,7 +161,7 @@ folgendes:
 
 > Freedom of information can become a lasting success story only if it is
 > guaranteed by the legal system, firmly embedded as a principle in people’s
-> minds and routinely practised by institutions.
+> minds and routinely practised by institutions.<br />
 > [Freedom of information and transparency in Germany; Seite 4](https://www.reformgestaltung.de/fileadmin/user_upload/Dokumente/GIZ_Informationsfreiheit_en.pdf)
 
 In Deutschland gibt es seit 2006 das Freiheitsinformationsgesetz. Allerdings
@@ -129,7 +173,7 @@ wie z. B. heise.de bereits 2005 dokumentiert:
 > Beziehungen, die Belange der inneren und äußeren Sicherheit, auf ein
 > laufendes Gerichtsverfahren oder die fiskalischen Interessen des Bundes
 > auswirken könnte. Die Nachrichtendienste sollen gleich gänzlich den Anfragen
-> kritischer Bürger entzogen bleiben.
+> kritischer Bürger entzogen bleiben.<br />
 > [Informationsfreiheitsgesetz in der Kritik](https://www.heise.de/newsticker/meldung/Informationsfreiheitsgesetz-in-der-Kritik-144367.html)
 
 Wenn man versucht, mit der Politik schriftlich zu kommunizieren, ist oft
@@ -151,7 +195,7 @@ Die Piratenpartei sagt dazu in ihrem Wiki folgendes:
 > Nutznießern, so kommt es unweigerlich zu einer Ausbildung von
 > Machtstrukturen, die wenige Personen, gesellschaftliche Organisationen oder
 > staatliche Organe bevorzugt und so letztendlich den demokratischen Prozess
-> einer freiheitlichen Gesellschaft gefährdet.
+> einer freiheitlichen Gesellschaft gefährdet.<br />
 > [Parteiprogramm > Freiheit und Grundrechte > Transparenz des Staatswesens](https://wiki.piratenpartei.de/Parteiprogramm#Transparenz_des_Staatswesens)
 
 Auch müssten alle Dokumente and deren Entwürfe veröffentlicht werden. Die
