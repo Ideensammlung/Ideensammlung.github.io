@@ -30,11 +30,13 @@ Meinung/Interpretation gekennzeichnet sind.
 ##### Artikel
 
 * [Vorwort](./preface.md?id=vorwort)
+* [Verfassung](./src/constitution.md?id=verfassung)
 * [Demokratie](./src/demokratie.md?id=demokratie)
 
 ##### Entwuerfe
 
 * [Geldsystem](./src/geldsystem.md?id=entwurf)
+* [DieBasis](./src/diebasis.md?id=entwurf)
 
 ## Mitwirken
 
