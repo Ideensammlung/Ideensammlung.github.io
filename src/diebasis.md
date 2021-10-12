@@ -7,7 +7,7 @@ Qualität bestimmter Aspekte verbessern
 
 ## "living" Parteiprogramm
 
-Ich lehne den Namen an dem Begriff "living documentation" an, der aus der IT
+Ich lehne den Namen an den Begriff "living documentation" an, der aus der IT
 kommt. Dort wird Dokumentation im "lebenden Objekt" (der Software) gewartet,
 sodass sich die Dokumentation automatisch updatet, sobald die Software
 verändert wird.
@@ -18,7 +18,7 @@ verstanden habe, dann gibt es zwei Hauptpositionen:
 1. Ein Programm macht keinen Sinn, da die Themen nur vom Schwarm kommen können
    und daher nicht vorgegeben werden können
 2. Ein Programm muss vorhanden sein, damit potenzielle Wähler und Mitglieder
-   wissen, woraus sie sich einlassen
+   wissen, worauf sie sich einlassen
 
 Daher habe ich folgenden Vorschlag: Jede Arbeitsgruppe fasst ihren
 Zwischenstand zusammen. Daraus resultiert für jeden Kreis- und Landesverband
