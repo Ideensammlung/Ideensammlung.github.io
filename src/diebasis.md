@@ -5,6 +5,22 @@
 Hier möchte ich einige Ideen sammeln, die eventuell helfen könnten bzw. die
 Qualität bestimmter Aspekte verbessern
 
+## Geldsystem
+
+Das Thema "Basisdemokratie" klingt danach, als müsse man sich hauptsächlich mit
+der Demokratie-Form beschäftigen. Allerdings gehört das Thema "Geldsystem"
+mindestens genau so dazu.
+
+Wenn man sich die Pandemie genauer anguckt, kann man feststellen, dass das Ziel
+der Maßnahmen nicht das Überwinden von Pandemien ist. Es geht viel mehr darum,
+dass die Macht und Kontrolle der Machtelite weiter ausgeweitet wird. Ein
+zentraler Aspekt, der dabei zwar ohne Geheimnisse, aber ohne mediale
+Öffentlichkeit, umgesetzt wird, ist die Erschaffung eines neuen Geldsystems
+(Ernst Wolff, ebenfalls Mitglied von DieBasis,
+[berichtete](https://www.youtube.com/watch?v=VM-sNKNd-CU)).
+
+Es sollte daher eines der wichtigsten Punkte sein, die die Partei anpackt.
+
 ## "living" Parteiprogramm
 
 Ich lehne den Namen an dem Begriff "living documentation" an, der aus der IT
