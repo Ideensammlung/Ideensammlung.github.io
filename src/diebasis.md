@@ -48,6 +48,47 @@ Diese Methode stellt einen Kompromiss dar, der beide oben genannten Gruppen
 zufriedenstellen könnte, da es z. B. keinen von oben vorgegebenen Fahrplan gibt
 und auch nichts in Stein gemeißelt wird.
 
+### Software Idee
+
+Ich habe nun schon seit einiger Zeit eine Idee für eine Plattform, die
+vielseitig genutzt werden könnte. Aber auch für die Erarbeitung eines "living
+Parteiprogramm" könnte sie funktionieren:
+
+* Es können verschiedene Themen vorgestellt werden.
+* Zu jedem Thema können von Benutzern Optionen vorgestellt werden
+* Zu jeder Option können die Benutzer Pro- bzw. Contra-Kommentare einstellen
+* Die Pro- und Contra-Kommentare werden nebeneinander gestellt, damit beide
+  gleich gut einsehbar sind
+* Kommentar können lediglich "likes", aber keine "dislikes" bekommen, damit
+  eine Seite die jeweils andere nicht unterdrücken kann.
+* Auch jeder Kommentar zu einer Option und jeder Kommentar zu einem Kommentar
+  kann kommentiert werden.
+* Jedem Kommentar können "Ressourcen" angehängt werden (also eine Art
+  "Beweisliste" oder "Quellenangabe"), auch zu Kommentaren von Kommentaren.
+* Kommentare werden nach "likes" sortiert. Auch die Kommentare unter
+  Kommentaren
+
+Der ursprüngliche Gedanke war, dass man zur einer konkreten Wahl (Thema) die
+verschiedenen Parteien und Politiker (Optionen) vorstellt. Dann können Benutzer
+ihre positiven und negativen Kommentare hinterlassen. Dadurch dass die
+Kommentare mit den meisten "likes" oben sind, kann man die Kommentare mit der
+höchsten Wichtigkeit zuerst sehen und muss sich nicht durch "Troll-Kommentare"
+wühlen. Und selbst wenn es eine überwältigende Mehrheit auf entweder der Pro-
+oder Contra-Seite gibt, können die Argumente der Gegenseite dennoch genauso gut
+wahrgenommen werden.
+
+Ein Thema kann eine konkrete Idee sein, z. B. "Demokratie-Form". Optionen
+können z. B. "Aleatorische Demokratie", "Partizipatorische Demokratie",
+Mischformen, usw. sein. Zu allen Optionen gibt es dann Für- und Wider-Argumente
+in Form von Kommentaren, die getrennt aufgelistet werden.
+
+Was für die Basis noch fehlt, ist das Konzept, dass Benutzer einen Widerstand
+für die jeweiligen Optionen angeben können. Themen könnten Stichtage haben, bis
+zu denen Mitglieder ihren Widerstand angeben können. Andere Themen, wie z. B.
+die Demokratie-Form muss (vorerst) kein Stichtag haben, da es unklar ist, wann
+eine Entscheidung umgesetzt werden könnte. Bis dahin sollte man die Möglichkeit
+haben, die Optionen auszuarbeiten und zu verbessern.
+
 ## Blockchain-Technologie für direkte Demokratie
 
 Ich habe gesehen, dass es bereits technische Ansätze für Wahlen gibt. Diese
