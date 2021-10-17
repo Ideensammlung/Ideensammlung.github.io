@@ -6,3 +6,4 @@
 - [Drafts](src/drafts.md?id=entwürfe)
   - [Geldsystem](src/geldsystem.md?id=entwurf)
   - [DieBasis](src/diebasis.md?id=entwurf)
+  - [Kommunikation](src/communication.md?id=entwurf)
