@@ -1,4 +1,4 @@
-<div class="draft"></div>
+<div className="draft"></div>
 
 # Die Basis
 

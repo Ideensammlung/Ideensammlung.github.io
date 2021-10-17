@@ -1,4 +1,4 @@
-<div class="draft" id="entwurf"></div>
+<div className="draft" id="entwurf"></div>
 
 # Kommunikation
 

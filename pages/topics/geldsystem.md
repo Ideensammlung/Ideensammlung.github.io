@@ -1,4 +1,4 @@
-<div class="draft"></div>
+<div className="draft"></div>
 
 # Geldsystem
 
@@ -890,7 +890,7 @@ Schulung lösen die vorherige Gruppe ab. Wäre der Name nicht bereits vergeben,
 hätte diese Gewalt "Monetative" heißen können.
 <br />
 <br />
-<div class="offene-fragen">
+<div className="offene-fragen">
   (Offene Frage: Sollen Bürger bereits vor einer Auslosung angeben könne, ob
   sie ausgelöst werden können oder nicht? Momentane Meinung: Lieber nicht. Zum
   einen Teil kann es zu Diskriminierung führen. Mehr Sinn ergibt vielleicht ein
