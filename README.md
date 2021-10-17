@@ -1,5 +1,5 @@
 Eine ordentliche Darstellung kann hier gefunden werden: [Github
-pages](https://ideensammlung.github.io/#/?id=ideensammlung)
+pages](https://ideensammlung.github.io/)
 
 # Ideensammlung
 
@@ -29,14 +29,14 @@ Meinung/Interpretation gekennzeichnet sind.
 
 ##### Artikel
 
-* [Vorwort](./preface.md?id=vorwort)
-* [Verfassung](./src/constitution.md?id=verfassung)
-* [Demokratie](./src/demokratie.md?id=demokratie)
+* [Vorwort](./preface.md#vorwort)
+* [Verfassung](/topics/constitution.md#verfassung)
+* [Demokratie](/topics/demokratie.md#demokratie)
 
 ##### Entwuerfe
 
-* [Geldsystem](./src/geldsystem.md?id=entwurf)
-* [DieBasis](./src/diebasis.md?id=entwurf)
+* [Geldsystem](/topics/geldsystem.md#entwurf)
+* [DieBasis](/topics/diebasis.md#entwurf)
 
 ## Mitwirken
 

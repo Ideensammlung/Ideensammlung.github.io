@@ -1,0 +1,104 @@
+.container {
+  padding: 16px;
+}
+
+.container :global(a) {
+  color: inherit;
+  cursor: pointer;
+}
+
+.container :global(a:hover) {
+  text-decoration: underline;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 30px;
+  margin-bottom: 16px;
+}
+
+.navToggle {
+  display: none;
+  position: absolute;
+  top: 14px;
+  right: 10px;
+  text-indent: -9999px;
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+} 
+
+.navToggle:before {
+  content: '';
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  border-top: 3px solid #000;
+}
+
+.navToggle:after {
+  content: '';
+  width: 100%;
+  height: 8px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: block;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+}
+
+.inMenuClose {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 0;
+  }
+
+  .container.showNav {
+    height: 100vh;
+  }
+
+  .logo {
+    padding: 10px;
+    margin-bottom: 0;
+    position: relative;
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+    z-index: 1001;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .navToggle {
+    display: block;
+  }
+
+  .showNav .nav {
+    background: white;
+    display: block;
+    position: absolute;
+    top: 52px;
+    left: 0;
+    height: calc(100vh - 52px);
+    width: 100vw;
+    overflow: auto;
+    z-index: 1000;
+    padding-top: 10px;
+  }
+
+  .showNav .inMenuClose {
+    display: block;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-bottom: 20px;
+    padding: 10px 10px 0;
+    font-size: 14px;
+  }
+}

@@ -102,4 +102,4 @@ Konvente mit jeweils 20 Mitgliedern auf/für die Bundesebene tagen.
 > Dokumentation, sowie Entwürfe, welche Dokumentation und Kommunikation
 > voraus gingen, öffentlich einsehbar gemacht werden.
 
-Siehe oben, Kapitel [Demokratie > Transparenz](src/demokratie.md?id=transparenz)
+Siehe oben, Kapitel [Demokratie > Transparenz](/topics/demokratie.md#transparenz)

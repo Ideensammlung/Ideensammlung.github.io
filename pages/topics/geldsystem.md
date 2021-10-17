@@ -38,42 +38,42 @@ Kapital gehen.
 
 ## Inhalte
 
-* [Begriffsdefinition Geld & Währung](./src/geldsystem?id=begriffsdefinition-geld-amp-w%c3%a4hrung)
-* [Ressourcen zum Einstieg in die Thematik](./src/geldsystem?id=ressourcen-zum-einstieg-in-die-thematik)
-* [Die Funktion, die Geld haben sollte](./src/geldsystem?id=die-funktion-die-geld-haben-sollte)
-* [Die Funktionen, die Geld gerade hat](./src/geldsystem?id=die-funktionen-die-geld-gerade-hat)
-* [Alternative Modelle](./src/geldsystem?id=alternative-modelle)
-  * [Marxistische Wirtschaftstheorie](./src/geldsystem?id=marxistische-wirtschaftstheorie)
-    * [Sozialismus](./src/geldsystem?id=sozialismus)
-  * [Freiwirtschaft - Natürliche Wirtschaftsordnung](./src/geldsystem?id=freiwirtschaft-nat%c3%bcrliche-wirtschaftsordnung)
-    * [Zusammenfassung: Freiwirtschaft](./src/geldsystem?id=zusammenfassung-freiwirtschaft)
-    * [Bekannte Stimmen zu Gesells Idee](./src/geldsystem?id=bekannte-stimmen-zu-gesells-idee)
-    * [Freigeld](./src/geldsystem?id=freigeld)
-    * [Freiland](./src/geldsystem?id=freiland)
-    * [Freihandel](./src/geldsystem?id=freihandel)
-    * [Anmerkung](./src/geldsystem?id=anmerkung)
-  * [Gradido](./src/geldsystem?id=gradido)
-    * [Zusammenfassung: Gradido](./src/geldsystem?id=zusammenfassung-gradido)
-    * [Das Dreifache Wohl](./src/geldsystem?id=das-dreifache-wohl)
-    * [Keine Geldschöpfung durch Schulden](./src/geldsystem?id=keine-geldsch%c3%b6pfung-durch-schulden)
-    * [Dreifache Geldschöpfung](./src/geldsystem?id=dreifache-geldsch%c3%b6pfung)
-      * [Das Aktive Grundeinkommen](./src/geldsystem?id=das-aktive-grundeinkommen)
-      * [Staatseinkommen](./src/geldsystem?id=staatseinkommen)
-      * [Ausgleichs- und Umweltfonds](./src/geldsystem?id=ausgleichs-und-umweltfonds)
-      * [ein selbstregulierendes System](./src/geldsystem?id=ein-selbstregulierendes-system)
-    * [Kredite und Geldanlagen](./src/geldsystem?id=kredite-und-geldanlagen)
-    * [Freiheit von Steuern und Pflichtversicherungen](./src/geldsystem?id=freiheit-von-steuern-und-pflichtversicherungen)
-    * [Schenkwirtschaft & Freies Schenken](./src/geldsystem?id=schenkwirtschaft-amp-freies-schenken)
-    * [Offene Frage und ein bisschen Kritik am Gradido-System](./src/geldsystem?id=offene-frage-und-ein-bisschen-kritik-am-gradido-system)
-* [Eigene Gedanken](./src/geldsystem?id=eigene-gedanken)
-  * [Umweltschutz](./src/geldsystem?id=umweltschutz)
-  * [Bedingungsloses oder aktives Grundeinkommen](./src/geldsystem?id=bedingungsloses-oder-aktives-grundeinkommen)
-    * [Drohende Arbeitslosigkeit durch Robotisierung](./src/geldsystem?id=drohende-arbeitslosigkeit-durch-robotisierung)
-  * [Demokratische Kontrolle des Geldsystems](./src/geldsystem?id=demokratische-kontrolle-des-geldsystems)
-  * [Patente](./src/geldsystem?id=patente)
-  * [Sparen & die Rolle der Banken](./src/geldsystem?id=sparen-amp-die-rolle-der-banken)
-  * [Zyklisches Reflektieren](./src/geldsystem?id=zyklisches-reflektieren)
-  * [Gefahren eines Wechsels des Geldsystems](./src/geldsystem?id=gefahren-eines-wechsels-des-geldsystems)
+* [Begriffsdefinition Geld & Währung](/topics/geldsystem#begriffsdefinition-geld-amp-w%c3%a4hrung)
+* [Ressourcen zum Einstieg in die Thematik](/topics/geldsystem#ressourcen-zum-einstieg-in-die-thematik)
+* [Die Funktion, die Geld haben sollte](/topics/geldsystem#die-funktion-die-geld-haben-sollte)
+* [Die Funktionen, die Geld gerade hat](/topics/geldsystem#die-funktionen-die-geld-gerade-hat)
+* [Alternative Modelle](/topics/geldsystem#alternative-modelle)
+  * [Marxistische Wirtschaftstheorie](/topics/geldsystem#marxistische-wirtschaftstheorie)
+    * [Sozialismus](/topics/geldsystem#sozialismus)
+  * [Freiwirtschaft - Natürliche Wirtschaftsordnung](/topics/geldsystem#freiwirtschaft-nat%c3%bcrliche-wirtschaftsordnung)
+    * [Zusammenfassung: Freiwirtschaft](/topics/geldsystem#zusammenfassung-freiwirtschaft)
+    * [Bekannte Stimmen zu Gesells Idee](/topics/geldsystem#bekannte-stimmen-zu-gesells-idee)
+    * [Freigeld](/topics/geldsystem#freigeld)
+    * [Freiland](/topics/geldsystem#freiland)
+    * [Freihandel](/topics/geldsystem#freihandel)
+    * [Anmerkung](/topics/geldsystem#anmerkung)
+  * [Gradido](/topics/geldsystem#gradido)
+    * [Zusammenfassung: Gradido](/topics/geldsystem#zusammenfassung-gradido)
+    * [Das Dreifache Wohl](/topics/geldsystem#das-dreifache-wohl)
+    * [Keine Geldschöpfung durch Schulden](/topics/geldsystem#keine-geldsch%c3%b6pfung-durch-schulden)
+    * [Dreifache Geldschöpfung](/topics/geldsystem#dreifache-geldsch%c3%b6pfung)
+      * [Das Aktive Grundeinkommen](/topics/geldsystem#das-aktive-grundeinkommen)
+      * [Staatseinkommen](/topics/geldsystem#staatseinkommen)
+      * [Ausgleichs- und Umweltfonds](/topics/geldsystem#ausgleichs-und-umweltfonds)
+      * [ein selbstregulierendes System](/topics/geldsystem#ein-selbstregulierendes-system)
+    * [Kredite und Geldanlagen](/topics/geldsystem#kredite-und-geldanlagen)
+    * [Freiheit von Steuern und Pflichtversicherungen](/topics/geldsystem#freiheit-von-steuern-und-pflichtversicherungen)
+    * [Schenkwirtschaft & Freies Schenken](/topics/geldsystem#schenkwirtschaft-amp-freies-schenken)
+    * [Offene Frage und ein bisschen Kritik am Gradido-System](/topics/geldsystem#offene-frage-und-ein-bisschen-kritik-am-gradido-system)
+* [Eigene Gedanken](/topics/geldsystem#eigene-gedanken)
+  * [Umweltschutz](/topics/geldsystem#umweltschutz)
+  * [Bedingungsloses oder aktives Grundeinkommen](/topics/geldsystem#bedingungsloses-oder-aktives-grundeinkommen)
+    * [Drohende Arbeitslosigkeit durch Robotisierung](/topics/geldsystem#drohende-arbeitslosigkeit-durch-robotisierung)
+  * [Demokratische Kontrolle des Geldsystems](/topics/geldsystem#demokratische-kontrolle-des-geldsystems)
+  * [Patente](/topics/geldsystem#patente)
+  * [Sparen & die Rolle der Banken](/topics/geldsystem#sparen-amp-die-rolle-der-banken)
+  * [Zyklisches Reflektieren](/topics/geldsystem#zyklisches-reflektieren)
+  * [Gefahren eines Wechsels des Geldsystems](/topics/geldsystem#gefahren-eines-wechsels-des-geldsystems)
 
 ## Begriffsdefinition Geld & Währung
 
@@ -727,7 +727,7 @@ nach Hilfe besser erkannt werden.
   Das Gradidomodell schlägt vor: "Open Source für alle Forschungsgebiete. Wir
   brauchen freie Forschung, freie Entwicklung, freies Denken und – freies
   Schenken". Meine Einwände sind etwas weiter unten unter dem Punkt
-  ["Patente"](./src/geldsystem?id=patente) zu finden
+  ["Patente"](/topics/geldsystem#patente) zu finden
 * Kritikpunkt: Es wird zu sehr auf die Natur hingewiesen.<br />
   Das Phänomen des Erschaffens und Zerfalls ist ein sehr wertvolles Element in
   der Geldwirtschaft. Dennoch ist die Natur alles andere als fair. "Fressen
@@ -890,13 +890,13 @@ Schulung lösen die vorherige Gruppe ab. Wäre der Name nicht bereits vergeben,
 hätte diese Gewalt "Monetative" heißen können.
 <br />
 <br />
-<em style="display: block;font-size: 14px; line-height: 1.2">
+<div class="offene-fragen">
   (Offene Frage: Sollen Bürger bereits vor einer Auslosung angeben könne, ob
   sie ausgelöst werden können oder nicht? Momentane Meinung: Lieber nicht. Zum
   einen Teil kann es zu Diskriminierung führen. Mehr Sinn ergibt vielleicht ein
   Opt-in Prinzip, nachdem sich die Ausgelosten innerhalb von z. B. 3 Tagen
   melden müssen, sonst wird die nächste Person ausgelost)
-</em>
+</div>
 
 ### **Patente**
 

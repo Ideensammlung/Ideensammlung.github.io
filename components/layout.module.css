@@ -1,0 +1,37 @@
+.main {
+  display: grid;
+  grid-template-areas: 'sidebar content';
+  grid-template-columns: 320px auto;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.content {
+  grid-area: content;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.contentWrapper {
+  max-width: 660px;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    box-shadow: 0 0 4px rgba(0,0,0,0.4);
+  }
+
+  .main {
+    grid-template-areas:
+      'sidebar'
+      'content';
+    grid-template-columns: auto;
+  }
+}

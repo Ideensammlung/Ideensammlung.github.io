@@ -97,7 +97,7 @@ ausgearbeitet.
 
 Ich möchte anregen, diese Entwicklung vorerst zu pausieren. Zum einen habe ich
 einige
-[Einwände gegen technische Lösungen](./src/demokratie?id=das-problem-mit-technischen-l%c3%b6sungen-f%c3%bcr-wahlen),
+[Einwände gegen technische Lösungen](/topics/demokratie#das-problem-mit-technischen-l%c3%b6sungen-f%c3%bcr-wahlen),
 die ich mit der AG Basisdemokratie gerne erst einmal besprechen möchte. Zum
 anderen habe ich das Gefühl, dass einige bei der Entscheidung, welche Form der
 Basisdemokratie der Schwarm eigentlich will, komplett übergangen werden. Dazu
