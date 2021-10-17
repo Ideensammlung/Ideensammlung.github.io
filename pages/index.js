@@ -1,2 +1,5 @@
 import README from '../README.md'
-export default () => <README />
+
+export default function Index() {
+  return <README />
+}
