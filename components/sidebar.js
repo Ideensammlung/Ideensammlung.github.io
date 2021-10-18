@@ -19,6 +19,13 @@ export default function Sidebar() {
       </div>
 
       <nav className={styles.nav} role="navigation">
+        <span
+          onClick={() => setShowNav(false)}
+          className={styles.closeNavLink}
+        >
+          Close
+        </span>
+
         <SidebarMdx />
       </nav>
     </div>

@@ -24,6 +24,11 @@
 }
 
 @media (max-width: 768px) {
+  .main {
+    height: auto;
+    overflow: auto;
+  }
+
   .sidebar {
     box-shadow: 0 0 4px rgba(0,0,0,0.4);
   }
@@ -33,5 +38,10 @@
       'sidebar'
       'content';
     grid-template-columns: auto;
+  }
+
+  .contentWrapper {
+    max-width: 702px;
+    padding: 10px 62px 10px 10px;
   }
 }

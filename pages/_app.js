@@ -7,10 +7,10 @@ import Meta from '../components/meta'
 export default function MyApp({ Component, pageProps }) {
   useEffect(() => {
     if (location.hash) {
-      setTimeout(
-        () => document.querySelector(location.hash).scrollIntoView(),
-        1
-      );
+      setTimeout(() => {
+        const decoded = decodeURI(location.hash)
+        document.querySelector(decoded).scrollIntoView()
+      });
     }
   }, [])
 
