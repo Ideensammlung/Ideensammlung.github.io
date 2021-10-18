@@ -29,14 +29,14 @@ Meinung/Interpretation gekennzeichnet sind.
 
 ##### Artikel
 
-* [Vorwort](./preface.md#vorwort)
-* [Verfassung](/topics/constitution.md#verfassung)
-* [Demokratie](/topics/demokratie.md#demokratie)
+* [Vorwort](https://ideensammlung.github.io/preface)
+* [Verfassung](https://ideensammlung.github.io/topics/constitution)
+* [Demokratie](https://ideensammlung.github.io/topics/demokratie)
 
 ##### Entwuerfe
 
-* [Geldsystem](/topics/geldsystem.md#entwurf)
-* [DieBasis](/topics/diebasis.md#entwurf)
+* [Geldsystem](https://ideensammlung.github.io/topics/geldsystem)
+* [DieBasis](https://ideensammlung.github.io/topics/diebasis)
 
 ## Mitwirken
 
