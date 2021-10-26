@@ -374,6 +374,7 @@ solange folgende Punkte garantiert sind:
   durch eine Abstimmung getroffen werden, bei der alle betroffenen abstimmen
   können. Für Entscheidungen auf Bundesebene gilt das für alle Bürger, auf
   Landesebene alle Bürger des jeweiligen Landes, usw.
+* "Keine Aenderungen" sollte auch immer eine Option sein koennen
 
 #### Elemente aus der partizipatorischen Demokratie übernehmen
 
@@ -443,6 +444,37 @@ der Abstimmungen (z. B. bei Volksabstimmungen). Ein neuer Konvent müsste dann
 auf die Einwände der Minderheit, die vom Veto-Recht Gebrauch gemacht hat,
 eingehen, da neue Optionen erarbeitet werden müssen oder zumindest eine neue
 öffentliche Debatte angeregt werden muss.
+
+#### Administrative Ämter mit zufällig ausgewählten Experten besetzen
+
+Es wird sehr unübersichtlich und extrem schwer zu organisieren, wenn man bei
+wirklichen allen Entscheidungen erst eine Abstimmung durchführen muss, hier ein
+paar Beispiele:
+
+* Wer soll Botschafter in anderen Ländern werden?
+* Wer soll Verfassungsrichter werden können?
+* Wie werden Gruppen von diplomatischen Delegationen für Gespräche (im In- und
+  Ausland)
+* Wer wird Polizeipräsident
+
+Hier ist eine Form der aleatorischen Experten-Demokratie wohl am besten, da
+nicht jeder Bürger die notwendigen Kompetenzen (für z. B. eine Stelle als
+Verfassungsrichter) hat. Es sollte allerdings auch wichtig sein, dass man die
+gewählten Personen auch relativ schnell wieder abwählen kann. Deswegen werden
+aus den Expertengruppen für einen kurzen Zeitraum, z. B. 2 oder 6 Monate,
+entsprechend Vertreter gewählt. Der Zeitraum sollte lange genug sein, damit
+auch größere Projekte mit viel Vorbereitungszeit umgesetzt werden können.
+
+Der Arbeitgeber des jeweiligen Experten bekommt vom Staat für die Zeit, die der
+Experte fehlt, eine Entschädigung dafür, dass eine Arbeitskraft fehlt und muss
+das Gehalt für den Zeitraum nicht zahlen. Die per Zufall ausgewählten Experten
+bekommen vom Staat weiterhin ihre Gehälter und eventuell anfallende Transport &
+Hotelkosten erstattet.
+
+Wer zu einer jeweiligen Expertengruppe gehört, muss durch systemisches
+Konsensieren ermittelt werden. Für Verfassungsrichter wäre z. B. eine
+Möglichkeit, dass alle Juristen die Experten wären, von denen per Zufall die
+Verfassungsrichter ausgelost werden.
 
 #### Das Problem mit technischen Lösungen für Wahlen
 
@@ -561,6 +593,108 @@ Zu guter Letzt ist es noch wichtig, dass man einen Mechanismus etabliert, der
 permanent das System reflektiert, um eventuelle Schwachstellen in der
 Demokratie zu erkennen; siehe Kapitel "Untergrabung der Demokratie verhindern"
 oben.
+
+#### Vor- und Nachteile
+
+##### Vorteile
+
+###### Bessere Entscheidungen trotz geringerer Teilhabe
+
+Bessere Entscheidungen trotz geringerer Teilhabe, eines der Probleme von
+Volksabstimmungen ist, dass die Teilnahme abnimmt und eventuell nur von einer
+bestimmten sozialen Schicht ausgeübt wird, so schreibt Armin Schäfer in "Mehr
+Mitsprache, aber nur für wenige? - Direkte Demokratie und politische
+Gleichheit" folgendes:
+
+> Unmittelbare Entscheidungen durch die Bürger, so hoffen die Befürworter,
+> beleben die Demokratie und mindern Politikverdrossenheit, da sie den Willen
+> der Bevölkerung unverfälscht widerspiegeln. Dieser positiven Bewertung steht
+> entgegen, dass die Beteiligung an Volksabstimmungen in der Regel niedrig und
+> eine niedrige Beteiligung immer sozial ungleich ist. Bei vielen Themen mag
+> dies unproblematisch sein, da sich Befürworter und Gegner gleichmäßig über
+> die Bevölkerung verteilen. Doch falls die Einstellung zu einer Sachfrage von
+> denselben (sozioökonomischen) Faktoren abhängt, die auch die Teilnahme an der
+> Abstimmung beeinflussen, verzerrt die Ausweitung der direkten Demokratie
+> Entscheidungen zulasten sozial Schwacher.
+> ...
+> Die Teilnahme an Wahlen und Abstimmungen ist in Deutschland ein Recht, keine
+> Pflicht. Wenn Bürger freiwillig auf ihre Stimmabgabe verzichten, so könnte
+> man argumentieren, schadet dies der Legitimität des Ergebnisses nicht. Dieses
+> Argument wäre plausibel, wenn es für Bürger aller Schichten ähnlich
+> wahrscheinlich wäre, den Urnen fernzubleiben. Davon kann aber keine Rede
+> sein: Die Abstinenzrate ist eng mit der Schichtzugehörigkeit verbunden.
+>
+> [Quelle](https://www.mpifg.de/pu/ueber_mpifg/mpifg_jb/JB1112/MPIfG_11-12_09_Schaefer.pdf)
+
+Durch die Auslosung von Konventen, welche nicht durch Lobbyisten beeinflusst
+werden dürfen, werden die wählbaren Möglichkeiten näher am Wohl der Bürger
+orientiert. Es werden unterschiedliche sozioökonomische Hintergrund
+eingebunden, aber selbst bei einem sehr monoton ausgeprägtem Konvent gibt es
+immer noch die Möglichkeit eines Vetos.
+
+###### Skalierbarkeit
+
+Richtig angewandt, kann der Vorschlag sowohl auf kleiner, lokaler Ebene
+funktionieren als auch auf einer sehr großen Ebene. Dabei sind keine technisch
+aufwändigen Lösungen notwendig.
+
+Im Gegensatz zur partizipatorischen Demokratie (mit Volksabstimmungen,
+Petitionen, Volksbegehren, usw.) müssen die Bürger sich nicht so extrem auf dem
+Laufenden halten. Im Gegensatz zur repräsentativen Demokratie kann der Bürger
+aber stets an der Entscheidungsfindung teilnehmen, entweder über
+Optionsvorschläge für die Konvente, das Abstimmen in einer Volksabstimmung,
+sobald ein Konvent die Optionen erarbeitet hat oder indem durch Petitionen ein
+Konvent und damit eine öffentliche Debatte erzwungen wird.
+
+###### Geringere Huerde fuer Buerger
+
+Die meisten Demokratien haben ein ziemlich ausgeprägtes Problem, welches ein
+starkes Argument der repräsentativen Demokratie ist: Die Überschaubarkeit und
+Komplexität von Themen kann für viele Buerger eine große Barriere sein, um an
+der Demokratie teilhaben zu können.
+
+Durch die ausgelosten Konvente, welche sich mit einem Thema ausgiebig
+beschäftigen müssen, entlasten die Bürger auf gleiche Weise wie die
+repräsentative Demokratie. Gleichzeitig hat der Bürger die Möglichkeit, sowohl
+Ideen in die Diskussion einzuwerfen als auch am Ende über das Ergebnis
+abstimmen zu können.
+
+Sollte ein Teil der Bevölkerung das Gefühl haben, dass etwas geändert werden
+muss, können Sie per bindender Petition die Bildung eines Konvents auslösen.
+
+Gibt es also für einen Bürger eine wichtige Entscheidung, kann er einfach
+partizipieren. Bei den Entscheidungen, die einen Bürger für sich nicht so
+wichtig findet, kann er entspannt das Thema dem Konvent und denen überlassen,
+die es interessiert.
+
+###### Konkurrenzkampf um wichtige Funktionen werden verhindert
+
+Da die leitenden Funktionen innerhalb des Staats per Losverfahren bestimmt
+werden, entfällt der Konkurrenzkampf. Dadurch wird die Gefahr, dass bestimmte
+Persönlichkeitsmerkmale, welche eine destruktive Auswirkung hätten, nicht eine
+überdurchschnittliche Chance bekämen (siehe ["Narzissmus,
+Machiavellismus und Psychopathie in
+Organisationen"](https://link.springer.com/book/10.1007/978-3-658-17239-8)).
+
+##### Nachteile
+
+###### Hohe Komplexität der Idee selbst
+
+Die Idee selbst ist sehr komplex. Sie umfasst verschiedene Konzepte, zu denen
+es jeweils bereits eine ganze Bandbreite an Literatur gibt.
+
+Es müsste daher eine gute Dokumentation und sehr gutes Info-Material geben,
+aber selbst das erreicht nur Interessierte.
+
+###### Große Hürde eine solche Idee als Regierung umzusetzen
+
+Durch die oben beschriebene Komplexität hat diese Idee den Nachteil, dass es,
+im Vergleich zu Volksabstimmungen, um ein Vielfaches schwerer ist, diese Idee
+als eine Gesetzesänderung zu etablieren.
+
+Es muss erfolgreich vorgelebt werden, etwas, das mit Volksabstimmung bereits
+passiert und auch in der Geschichte schon öfter funktioniert hat (z. B. in der
+Weimarer Republik).
 
 ## Offene Fragen
 
