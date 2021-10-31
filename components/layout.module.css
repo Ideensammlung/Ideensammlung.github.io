@@ -45,3 +45,17 @@
     padding: 10px 62px 10px 10px;
   }
 }
+
+@media print {
+  .main {
+    display: grid;
+    grid-template-areas: 'content';
+    grid-template-columns: auto;
+    height: auto;
+    overflow: auto;
+  }
+
+  .sidebar {
+    display: none;
+  }
+}

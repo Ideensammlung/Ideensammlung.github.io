@@ -63,6 +63,9 @@ Einige Paragrafen aus dem Grundgesetz sollten meiner Meinung nach entweder
 > Diese Verfassung verliert ihre Gültigkeit an dem Tage, an dem eine neue
 > Verfassung in Kraft tritt, die von dem deutschen Volke in freier Entscheidung
 > beschlossen worden ist.
+> Dem deutschen Volke soll in regelmaessigen Abstaenden die Moeglichkeit
+> eingeraeumt werden, ohne Zutun irgendwelcher Interessensvertreter oder
+> Kampagnen, ueber diese Moeglichkeit zu diskutieren.
 > Die einzigen Paragraphen, welche aus der jetzigen Verfassung dabei enthalten
 > sein müssen, sind dieser Artikel, Art 79 GG dieser Verfassung, sowie alle in
 > Art 79 dieser Verfassung bestimmten Artikel

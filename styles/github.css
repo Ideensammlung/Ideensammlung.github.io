@@ -21,10 +21,18 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-body {
-  font-family: Helvetica, arial, sans-serif;
+html {
   font-size: 18px;
   line-height: 1.6;
+}
+
+@media print {
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+body {
+  font-family: Helvetica, arial, sans-serif;
   background-color: white;
   color: #333;
 }
@@ -66,6 +74,12 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
+@media print {
+  h1, h2 {
+    page-break-before: always;
+  }
+}
+
 h2:first-child, h1:first-child, h1:first-child + h2, h3:first-child, h4:first-child, h5:first-child, h6:first-child {
   margin-top: 0;
   padding-top: 0;
@@ -100,31 +114,35 @@ h6 tt, h6 code {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 1.66rem;
   color: black;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 1.55rem;
   border-bottom: 1px solid #cccccc;
   color: black;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 1.44rem;
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 1.2rem;
 }
 
 h5 {
-  font-size: 14px;
+  font-size: 1.1rem;
 }
 
 h6 {
-  color: #777777;
-  font-size: 14px;
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+h6 + p {
+  margin-top: 0;
 }
 
 p, blockquote, table, pre {
@@ -204,7 +222,7 @@ dl {
 }
 
 dl dt {
-  font-size: 14px;
+  font-size: 0.77rem;
   font-weight: bold;
   font-style: italic;
   padding: 0;
@@ -399,7 +417,7 @@ pre code {
 .highlight pre {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
-  font-size: 13px;
+  font-size: 0.72rem;
   line-height: 19px;
   overflow: auto;
   padding: 6px 10px;
@@ -409,7 +427,7 @@ pre code {
 pre {
   background-color: #f8f8f8;
   border: 1px solid #cccccc;
-  font-size: 13px;
+  font-size: 0.72rem;
   line-height: 19px;
   overflow: auto;
   padding: 6px 10px;

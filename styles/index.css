@@ -41,3 +41,9 @@ body {
 .markdown-section li > blockquote > p {
   margin: 0;
 }
+
+@media print {
+  .toc {
+    display: none;
+  }
+}
