@@ -21,9 +21,15 @@ entscheiden können und Chancengleichheit für alle vorhanden sein sollte.
     erarbeiten)
   * Partizipatorische Demokratie (Volksabstimmungen, Petitionen, Volksbegehren,
     Demonstrationen & Streiks)
-* Ich schlage vor, einige Ideen zu kombinieren: Aleatorische Demokratie,
-  Elemente der partizipatorischen Demokratie, systemisches Konsensieren und
-  Veto-Reche für Minderheiten
+* Ich schlage vor, einige Ideen zu kombinieren:
+  * Aleatorische Demokratie zur allgemeinen Entscheidungsfindung
+  * Elemente der partizipatorischen Demokratie um einen
+    Entscheidungsfindungsprozess anzustossen
+  * systemisches Konsensieren um die Option zu bestimmen, mit der am meisten
+    einverstanden waehrend und um die Diktatur der Mehrheit zu verhindern
+  * Veto-Reche für Minderheiten, wodurch eine Mehrheit nicht eine Minderheit
+    unterdruecken kann
+  * Liquid Democracy fuer juristische, dipomatische und Verwaltungsposten
 
 ## Inhalte
 
@@ -35,20 +41,26 @@ entscheiden können und Chancengleichheit für alle vorhanden sein sollte.
   * [Demokratie-Theorien](/topics/demokratie#demokratie-theorien)
     * [Aleatorische Demokratie](/topics/demokratie#aleatorische-demokratie)
     * [Partizipatorische Demokratie](/topics/demokratie#partizipatorische-demokratie)
-* [Eigene Gedanken](/topics/demokratie#eigene-gedanken)
+    * [Liquid Democracy](/topics/demokratie#liquid-democracy)
+* [Eigenes Konzept](/topics/demokratie#eigenes-konzept)
+  * [Fundament - aleatorische Demokratie](/topics/demokratie#fundament---aleatorische-demokratie)
+  * [Elemente aus der partizipatorischen Demokratie übernehmen](/topics/demokratie#elemente-aus-der-partizipatorischen-demokratie-%c3%bcbernehmen)
+  * [Diktatur der Mehrheit verhindern - systemisches Konsensieren](/topics/demokratie#diktatur-der-mehrheit-verhindern---systemisches-konsensieren)
+  * [Minderheitenschutz ohne Diktatur der Minderheit - Veto-Reche mit neuer Konsensbildung](/topics/demokratie#minderheitenschutz-ohne-diktatur-der-minderheit---veto-reche-mit-neuer-konsensbildung)
+  * [Administrative Aufgaben mit der Liquid Democracy besetzen](/topics/demokratie#administrative-aufgaben-mit-der-liquid-democracy-besetzen)
+    * [Ablauf](/topics/demokratie#ablauf)
+    * [Begruendung](/topics/demokratie#begruendung)
+    * [Offene Fragen zur liquid democracy Umsetzung](/topics/demokratie#offene-fragen-zur-liquid-democracy-umsetzung)
+  * [Schritt-fuer-Schritt Umsetzung](/topics/demokratie#schritt-fuer-schritt-umsetzung)
+* [Weitere Gedanken](/topics/demokratie#weitere-gedanken)
   * [Sind Blockaden und Reformstau etwas Schlechtes?](/topics/demokratie#sind-blockaden-und-reformstau-etwas-schlechtes)
-  * [Kombinieren verschiedener Ideen](/topics/demokratie#kombinieren-verschiedener-ideen)
-    * [Fundament - aleatorische Demokratie](/topics/demokratie#fundament---aleatorische-demokratie)
-    * [Elemente aus der partizipatorischen Demokratie übernehmen](/topics/demokratie#elemente-aus-der-partizipatorischen-demokratie-%c3%bcbernehmen)
-    * [Diktatur der Mehrheit verhindern - systemisches Konsensieren](/topics/demokratie#diktatur-der-mehrheit-verhindern---systemisches-konsensieren)
-    * [Minderheitenschutz ohne Diktatur der Minderheit - Veto-Reche mit neuer Konsensbildung](/topics/demokratie#minderheitenschutz-ohne-diktatur-der-minderheit---veto-reche-mit-neuer-konsensbildung)
-    * [Das Problem mit technischen Lösungen für Wahlen](/topics/demokratie#das-problem-mit-technischen-l%c3%b6sungen-f%c3%bcr-wahlen)
-      * [Bugs oder absichtliche Manipulationen im Quellcode](/topics/demokratie#bugs-oder-absichtliche-manipulationen-im-quellcode)
-      * [Quellcode-Verwaltung auf eigenem Server oder bei einem Anbieter](/topics/demokratie#quellcode-verwaltung-auf-eigenem-server-oder-bei-einem-anbieter)
-      * [Angriffe außerhalb des Blockchain-Systems](/topics/demokratie#angriffe-au%c3%9ferhalb-des-blockchain-systems)
-      * [Zentralisierte Software und dezentralisierte Software (Blockchain)](/topics/demokratie#zentralisierte-software-und-dezentralisierte-software-blockchain)
-      * [Die Abhängigkeit von Strom](/topics/demokratie#die-abh%c3%a4ngigkeit-von-strom)
-      * [Permanentes Reflektieren](/topics/demokratie#permanentes-reflektieren)
+  * [Das Problem mit technischen Lösungen für Wahlen](/topics/demokratie#das-problem-mit-technischen-l%c3%b6sungen-f%c3%bcr-wahlen)
+    * [Bugs oder absichtliche Manipulationen im Quellcode](/topics/demokratie#bugs-oder-absichtliche-manipulationen-im-quellcode)
+    * [Quellcode-Verwaltung auf eigenem Server oder bei einem Anbieter](/topics/demokratie#quellcode-verwaltung-auf-eigenem-server-oder-bei-einem-anbieter)
+    * [Angriffe außerhalb des Blockchain-Systems](/topics/demokratie#angriffe-au%c3%9ferhalb-des-blockchain-systems)
+    * [Zentralisierte Software und dezentralisierte Software (Blockchain)](/topics/demokratie#zentralisierte-software-und-dezentralisierte-software-blockchain)
+    * [Die Abhängigkeit von Strom](/topics/demokratie#die-abh%c3%a4ngigkeit-von-strom)
+  * [Permanentes Reflektieren](/topics/demokratie#permanentes-reflektieren)
 * [Offene Fragen](/topics/demokratie#offene-fragen)
 
 ## Vorbemerkungen
@@ -331,33 +343,60 @@ Geschichte der Demokratie bisher keine große Rolle gespielt zu haben,
 > sondern das Wohl des ganzen Landes im Auge haben
 > [Schweizer Spielart; Seite 24](https://www.mehr-demokratie.de/fileadmin/pdf/mdmagazin_04-2017_lampe.pdf)
 
-## Eigene Gedanken
+#### Liquid democracy
 
-### Sind Blockaden und Reformstau etwas Schlechtes?
+Dieses Konzept erweitert die repraesentative Demokratie und ein
+direktdemokratisches Element. Buerger koennen ihre Stimme jederzeit einer
+anderen Person oder Partei geben. Die Partei, die die Stimme vorher hatte,
+verliert dadurch die Stimme. Alternativ kann der Buerger die Stimme auch
+einfach wieder entziehen und sie niemandem vergeben.
 
-Es kann es, solange man Mechanismen hat, die das Diktat der Mehrheit
-verhindern, theoretisch zu unendlich-langen Blockaden kommen. Das Resultat ist
-dann: Reformstau. Bei genauerer Betrachtung entfällt dieses Argument
-allerdings, da auch die Mittel zur Konsensfindung so ausgestaltet werden
-können, dass lange Blockaden zu einer Seltenheit werden.
+Ausserdem kann man die Stimme auch einer Person geben, welche dadurch 2 Stimmen
+erhaelt und Delegierter/Delegierte genannt wird. Machtmissbrauch von zu vielen
+Stimmen bei Deligierten wuerde dadurch verhindert, dass die Personen, die den
+Deligierten ihre Stimme gegeben haben, die Stimme einfach wieder wegnehmen
+koennen.
 
-Ich versuche ein solches System, zumindest wie ich es mir gerade vorstellen
-könnte, im Folgenden vorzustellen.
+Wikipedia schreibt dazu folgendes:
 
-Eine Anmerkung möchte ich hierzu allerdings noch machen: Kommt es zu einer
-Blockade, muss es größere Unterschiede zwischen den Teilnehmern geben. Auch
-wenn Blockaden den Fortschritt verlangsamen, haben sie den Vorteil, dass sie
-eine voreilige Entscheidung eher verhindern. Denn voreilige Entscheidungen
-können zugunsten einer kleinen Gruppe sein und sind daher ein Anreiz zur
-Manipulation.
+> Delegated Voting ist eine Form der gemeinsamen Entscheidungsfindung im Rahmen
+> eines direktdemokratischen Systems, das um repräsentative Elemente ergänzt
+> wurde.  
+>  
+> Das Konzept ermöglicht es jedem Beteiligten an einer Wahl oder Abstimmung,
+> entweder seine Stimme persönlich abzugeben (Element der direkten Demokratie)
+> oder seine Stimme von jemand anderem abgeben zu lassen (ähnlich der
+> repräsentativen Demokratie). Der so Bevollmächtigte kann – je nach
+> Einsatzgebiet – auch eine Gruppierung, z. B. eine politische Partei, sein. Im
+> Gegensatz zur klassischen Stimmübertragung bei der repräsentativen Demokratie
+> können sich Vollmachten zur Stimmabgabe sowohl auf einzelne Entscheidungen
+> als auch auf umfassende Politikfelder erstrecken und sind widerrufbar.[2][3]
+> Viele Anhänger des Delegated Voting hoffen, dass die Stimmen sich in einem
+> evolutionären Prozess bei kompetenten Personen häufen.[4]  
+>  
+> Jemand, der (jederzeit widerruflich) bevollmächtigt wurde, für einen anderen
+> abzustimmen, kann seinerseits jemand anderen bevollmächtigen, für sich und
+> seine Vollmachtsgeber abzustimmen, d. h. die Stimmübertragung ist transitiv.  
+>  
+> **Superdelegierte**  
+> Insbesondere durch die Verkettung von Stimmvollmachten, jedoch auch bei
+> unverketteter Vollmachtserteilung, können Personen u. U. ein sehr großes
+> Stimmgewicht auf sich vereinen. Solche Personen wurden im Umfeld der
+> Piratenpartei Deutschland auch als „Superdelegierte“ bezeichnet.  
+> [Wikipedia](https://de.wikipedia.org/wiki/Delegated_Voting#:~:text=Das%20Konzept%20erm%C3%B6glicht%20es%20jedem,(%C3%A4hnlich%20der%20repr%C3%A4sentativen%20Demokratie).)
 
-### Kombinieren verschiedener Ideen
+## Eigenes Konzept
 
 Die vielen verschiedenen Lösungen und Ansätze haben alle ihre Vor- und
 Nachteile. Indem man mehrere Ideen kombiniert, kann man einige der Nachteile
 ausgleichen.
 
-#### Fundament - aleatorische Demokratie
+Der folgende Vorschlag soll dazu dienen, viele Bereiche des Lebens zu
+demokratisieren. Er soll einen Rahmen schaffen, der genaus so fluessig laeuft
+wie die aktuelle repraesentative Demokratie, dabei aber keine Kompromisse
+macht, was die Souveraenitaet der Bevoelkerung angeht.
+
+### Fundament - aleatorische Demokratie
 
 Die "aleatorische Demokratie" halte ich aus vielen Gründen für eine sehr gute
 Idee. Sie sorgt dafür, dass Interessensgruppen kaum Einfluss ausüben können,
@@ -374,8 +413,19 @@ solange folgende Punkte garantiert sind:
   durch eine Abstimmung getroffen werden, bei der alle betroffenen abstimmen
   können. Für Entscheidungen auf Bundesebene gilt das für alle Bürger, auf
   Landesebene alle Bürger des jeweiligen Landes, usw.
+* Der Vorteil an der gegenwaertigen Repraesentativen Demokratie ist, dass sie
+  auch ohne das Zutun von Buergern "funktioniert". Es gibt einige Literatur
+  darueber, die besagt, dass das Problem direkter Demokratie ueber
+  Volksentscheide sei, dass die Beteiligung rasch sinke und dass ein Kern an
+  Abstimmenden entstuende, der hauptsaechlich aus der akademischen Schickt
+  kaeme - und deswegen andere Interessen vertrete als die nicht-akademische,
+  arbeitende Bevoelkerung.  
+  Die aleatorische Demokratie bietet die gleichen Vorteile. Durch das Bilden
+  von Konventen laeuft "die Maschine" von selbst, ohne das Buerger teilnehmen
+  muessten. Allerdings mit den Vorteilen, die im Kapitel ueber die aleatorische
+  Demokratie genannt wurden.
 
-#### Elemente aus der partizipatorischen Demokratie übernehmen
+### Elemente aus der partizipatorischen Demokratie übernehmen
 
 Wichtig ist, dass aber auch Elemente der partizipatorischen Demokratie
 aufgenommen werden. Es ist wichtig, dass auch Optionen aus der Bevölkerung
@@ -396,7 +446,7 @@ Situationen wie bei Amazon, z. B. in Verteilerzentren oder der Lieferung, kommen
 kann (siehe [Schnauze,
 Alexa](https://www.westendverlag.de/buch/schnauze-alexa/))
 
-#### Diktatur der Mehrheit verhindern - systemisches Konsensieren
+### Diktatur der Mehrheit verhindern - systemisches Konsensieren
 
 Es gibt allerdings ein theoretisches Problem mit direkter Demokratie: die
 Unterdrückung durch die Herrschaft der Mehrheit. Es gibt zwar Literatur, die
@@ -423,7 +473,7 @@ verschiedenen Optionen in eine Reihenfolge bringen. Ich nehme an, dass beim
 systemischen Konsensieren etwas Ähnliches passieren muss. Vielleicht können
 beide Prozesse hier voneinander lernen, wenn sie nicht identisch sind.
 
-#### Minderheitenschutz ohne Diktatur der Minderheit - Veto-Reche mit neuer Konsensbildung
+### Minderheitenschutz ohne Diktatur der Minderheit - Veto-Reche mit neuer Konsensbildung
 
 Ein weiteres wichtiges Element muss der Schutz von Minderheiten sein,
 sodass nicht gegen ihre Interessen verstoßen wird. Sie muss also eine
@@ -444,7 +494,118 @@ auf die Einwände der Minderheit, die vom Veto-Recht Gebrauch gemacht hat,
 eingehen, da neue Optionen erarbeitet werden müssen oder zumindest eine neue
 öffentliche Debatte angeregt werden muss.
 
-#### Das Problem mit technischen Lösungen für Wahlen
+### Administrative Aufgaben mit der Liquid Democracy besetzen
+
+#### Ablauf
+
+Um nicht nur die Politik, sondern auch das gesamte Diplomatier-, Verwaltungs-
+und Rechtswesen zu demokratisieren, werden Richter und Leitungspersonal von
+Aemtern wie z. B. der Polizeipraesident von der Bevoelkerung direkt gewaehlt.
+
+Dabei wird das Liquid Democracy System zur Stimmvergabe angewandt, wodurch eine
+Stimme jederzeit entzogen oder einem anderen Kandidaten gegeben werden kann. Ob
+das System der Superdeligierten eingefuehrt werden soll, kann ich in diesem
+Rahmen nicht beurteilen.
+
+Allerdings sollte das Liquid Democracy um folgende Punkte ergaenzt werden:
+
+1. Die gewaehlte Person ist fuer einen bestimmten Zeitraum im Amt. Die
+   vergebenen Stimmen werden also an Stichtagen betrachtet und dann die
+   jeweiligen Kandidaten gewaehlt, die die meisten Stimmen haben.
+1. Sobald ein amtierender Kandidat ersetzt wird, bleibt dieser fuer eine
+   Uebergangszeit (z. B. 1 Monat) im Amt. Der neue Kandidat hat in dieser Zeit
+   die Moeglichkeit sich einzulernen, wozu ihm vom Amt / Gericht Personal
+   bereitgestellt wird, das ihn/sie schult
+1. Buerger erhalten rechtzeitig vor dem Stichtag einen Brief, damit sie wissen,
+   dass eine Wahl ansteht. Auf dem Briefumschlag steht bereits, um welche Wahl
+   es sich handelt, um es den Buergern so einfach wie moeglich zu machen, sie
+   an dem zu beteiligen, das sie interessiert und alles andere ignorieren zu
+   koennen.
+1. Die vergebene Stimme wird nach einem bestimmen Zeitraum, z. B. 2 Jahr,
+   automatisch entzogen. Dadurch koennen keine vergessene Mandate gesammelt
+   werden, denn das Superdeligierte schaffen, die durch ihren Vorteil
+   Machtmissbrauch betreiben koennen
+
+#### Begruendung
+
+Momentan gibt es keine Moeglichkeit die Richter am Verfassungsgericht, den
+Polizeipraesidenten, Diplomaten im Ausland oder andere leitende
+Persoenlichkeiten demokratisch zu bestimmen.
+
+In einer regulaeren Wahl alle 4 Jahre kann viel passieren und, sollte ein
+Kandidat sich nicht an seine Wahlversprechen halten, muss 4 Jahre gewartet
+werden, um die Entscheidung zu korrigieren.
+
+Wenn stattdessen aber alle 6 Monate eine normale Wahl stattfinden wuerde, waere
+dies mit einem erheblichen Aufwand verbunden. Ausserdem wuerde bei Buerger
+schnell die Uebersicht verlieren und nicht mehr waehlen gegen. Das wuerde
+dafuer sorgen, dass nur noch eine kleine Minderheit permanent waehlen geht, die
+sich - wie bei Volksabstimmungen - hauptsaechlich aus Akademikern
+zusammensetzen koennte, wodurch andere Bevoelkerungsgruppen benachteiligt
+werden.
+
+Durch das Liquid Democracy Prinzip, kann man immer dann, wenn man seine Stimme
+aendern moechte, dies einfach tun, man muss nicht warten, bis die naechste Wahl
+stattfindet. Da sich die Stimme fuer eine gewisse Zeit (z. B. 2 Jahre) bei dem
+Kandidaten befindet, muss man auch nicht alle 6 Monate neu waehlen.
+
+Damit aber nicht staendig gewechselt werden muss, wird nur in periodischen
+Zeitabstaenden, z. B. alle 6 Monate, die aktuelle Stimmverteilung abgefragt und
+entsprechend neu besetzt. Wichtig ist dabei, dass den neuen Kandidaten die
+Moeglichkeit gegeben wird, sich einzulernen. Deshalb bleibt der alte Kandidat
+waehrend dieser Uebergangsphase weiterhin im Amt.
+
+#### Offene Fragen zur liquid democracy Umsetzung
+
+* Sollte hier auch, anstatt eine Auswahl durch Mehrheit an Stimmen, eine
+  Auswahl durch "systemisches Konsensieren" stattfinden? Also eine Wahl
+  desjenigen mit dem geringsten Widerstand?
+
+### Schritt-fuer-Schritt Umsetzung
+
+Da dieses Konzept jedoch ziemlich komplex ist, ergibt es vielleicht Sinn, es
+Stueck fuer Stueck einzufuehren.
+
+Der erste Schritt waere, dass die Bevoelkerung ueber Petitionen dem Bundestag
+und Bundesrat vorschreiben kann, sich mit einem Thema zu beschaeftigen und
+mehrere Loesungen (mit all ihren Vor- und Nachteilen) zu finden, ueber
+anschliessend durch eine Volksabstimmung entschieden wird.
+
+Im zweiten Schritt koennte fuer die Bundesebene die Konvente fuer
+Entscheidungen mit dem anschliessenden Volksabstimmungen ueber die
+Moeglichkeiten eingefuehrt werden. Dies koennte z. B. ein oder zwei Jahre nach
+Einfuehrung des ersten Schrittes sein.
+
+Im naechsten Schritt wird das Verfahren des systemischen Konsensierens und der
+Veto-Rechte eingefuehrt. Dies koennte ebenfalls ein oder zwei Jahre nach
+Einfuehrung des zweiten Schrittes sein.
+
+Im letzten Schritt wird das Liquid Democracy verfahren eingefuehrt, wodurch
+Gerichte, Diplomaten und Verwaltungspositionen besetzt werden. Auch dieser
+Schritt koennte um 1 bis 2 Jahre versetzt zum vorherigen Schritt umgesetzt
+werden.
+
+## Weitere Gedanken
+
+### Sind Blockaden und Reformstau etwas Schlechtes?
+
+Es kann es, solange man Mechanismen hat, die das Diktat der Mehrheit
+verhindern, theoretisch zu unendlich-langen Blockaden kommen. Das Resultat ist
+dann: Reformstau. Bei genauerer Betrachtung entfällt dieses Argument
+allerdings, da auch die Mittel zur Konsensfindung so ausgestaltet werden
+können, dass lange Blockaden zu einer Seltenheit werden.
+
+Ich versuche ein solches System, zumindest wie ich es mir gerade vorstellen
+könnte, im Folgenden vorzustellen.
+
+Eine Anmerkung möchte ich hierzu allerdings noch machen: Kommt es zu einer
+Blockade, muss es größere Unterschiede zwischen den Teilnehmern geben. Auch
+wenn Blockaden den Fortschritt verlangsamen, haben sie den Vorteil, dass sie
+eine voreilige Entscheidung eher verhindern. Denn voreilige Entscheidungen
+können zugunsten einer kleinen Gruppe sein und sind daher ein Anreiz zur
+Manipulation.
+
+### Das Problem mit technischen Lösungen für Wahlen
 
 Wahlen müssen dabei immer mit Papier ausgetragen werden. Software hat immer
 das Problem, dass kleine Fehler/Sicherheitslücken unbemerkt eine ganze Wahl
@@ -461,7 +622,7 @@ Blockchain diese Probleme haben.
 
 Es gibt hierbei viele Punkte, die man beachten muss:
 
-##### Bugs oder absichtliche Manipulationen im Quellcode
+#### Bugs oder absichtliche Manipulationen im Quellcode
 
 Diese Gefahr von Fehlern im System besteht immer. Es gibt keine Bug-freie
 Software und es gibt kein System ohne Sicherheitslücken. An sich ist das kein
@@ -470,7 +631,7 @@ kann man viel Schaden verhindern. Problematisch wird es allerdings, wenn die
 Software benutzt wird, um weitreichende Entscheidungen für eine Gesellschaft zu
 treffen.
 
-##### Quellcode-Verwaltung auf eigenem Server oder bei einem Anbieter
+#### Quellcode-Verwaltung auf eigenem Server oder bei einem Anbieter
 
 Um die Überschrift zu erklären, stelle ich zwei Möglichkeiten vor, wobei das
 natürlich nur Beispiele sind:
@@ -500,7 +661,7 @@ Und wieder ist es wichtig anzumerken, dass, auch wenn die Wahrscheinlichkeit
 geringer ist, als bei einer üblichen open source Software, eine Manipulation
 gravierende Folgen haben könnte.
 
-##### Angriffe außerhalb des Blockchain-Systems
+#### Angriffe außerhalb des Blockchain-Systems
 
 Es ist wichtig, dass beim Thema Sicherheit viele Aspekte bedacht werden. Selbst
 eine perfekte Software, deren Datenbanken und Server unhackbar sind und deren
@@ -517,7 +678,7 @@ viel schwerer machen, wie z. B. dedizierte Hardware-Wallets. Aber auch das kann
 das Problem nicht lösen, denn die Hardware-Wallets müssen mit anderen Systemen
 verbunden oder von Menschen benutzt werden.
 
-##### Zentralisierte Software und dezentralisierte Software (Blockchain)
+#### Zentralisierte Software und dezentralisierte Software (Blockchain)
 
 Der Vorteil von dezentralisierter Software liegt auf der Hand. Es gibt keine
 bestimmen Server mehr, die man attackieren könnte. Dieses Problem alleine
@@ -535,7 +696,7 @@ gelten soll, kommen außerdem ganz andere Konsensprobleme auf das System zu als
 bei herkömmlichen Blockchains, bei denen mehrere Forks nicht zwingender Weise
 ein Problem sein müssen.
 
-##### Die Abhängigkeit von Strom
+#### Die Abhängigkeit von Strom
 
 Ein kompletter Blackout würde eine ganze Wahl unterbrechen. Ein lokaler
 Blackout würde eine Wahl manipulieren. Blackouts können von Geheimdiensten
@@ -555,7 +716,7 @@ Computerwurms "Stuxnet":
 > ["Obama Order Sped Up Wave of Cyberattacks Against Iran" (New York Times)](https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html)
 > [Archive Backups](https://web.archive.org/web/20120901000000*/https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html)
 
-#### Permanentes Reflektieren
+### Permanentes Reflektieren
 
 Zu guter Letzt ist es noch wichtig, dass man einen Mechanismus etabliert, der
 permanent das System reflektiert, um eventuelle Schwachstellen in der
@@ -579,5 +740,3 @@ oben.
 * Zwingt man in einer aleatorischen Demokratie die Ausgelosten in den Konvent
   oder können diese die Position abschlagen? Wird diese Person dann ersetzt
   oder die Größe des Konvents verkleinert?
-* Wie können wichtige Posten besetzt werden, wie z. B. Diplomaten,
-  Botschafter, Leiter von Behörden, usw.
