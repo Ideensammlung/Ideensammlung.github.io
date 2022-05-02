@@ -36,7 +36,6 @@ Meinung/Interpretation gekennzeichnet sind.
 ##### Entwuerfe
 
 * [Geldsystem](https://ideensammlung.github.io/topics/geldsystem)
-* [DieBasis](https://ideensammlung.github.io/topics/diebasis)
 
 ## Mitwirken
 
